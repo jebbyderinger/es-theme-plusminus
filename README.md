@@ -7,14 +7,14 @@ Theme author:
 jebbyderinger
 
 Based on:
-Carbon by @fabricecaruso
-CKAU-Book by @CkauNui
-Assets from Colorful by Viking
+- Carbon by @fabricecaruso
+- CKAU-Book by @CkauNui
+- Assets from Colorful by Viking
 
 Thanks to creators and maintainers of the Batocera CRT Script:
-ZFEbHVUE
-Rion
-net-terminal-gene 
+- ZFEbHVUE
+- Rion
+- net-terminal-gene 
 
 Language: English
 
