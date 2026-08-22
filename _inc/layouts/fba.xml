@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Thousands of arcade titles supported</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Final Burn Alpha</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Community Development</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Arcade Emulator | Hardware: Multiple Arcade Platforms | Media: ROM Images | Graphics: Original Arcade Hardware Emulation | Sound: Arcade Audio Hardware Emulation | Resolution: Original Arcade Resolutions</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Final Burn Alpha was an arcade emulator project focused on preserving and playing arcade games from systems such as Capcom CPS hardware, Neo Geo, Sega arcade platforms, and other arcade boards. It became known for accurate emulation and support for many arcade titles. The project later continued through successors such as FinalBurn Neo, which expanded compatibility and improved accuracy.</text>
+		</text>
+	</view>
+</theme>

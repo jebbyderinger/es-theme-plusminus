@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$189</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$960</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>30 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>2600</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  MOS 6507 @ 1.19 MHz   |   Memory:  128 bytes RAM   |   Sound:  2 channels 1-bit mono with 4-bit volume control   |   Media:  ROM Cartridge   |   Video:  160 × 192p   |   128 color palette   |   128 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

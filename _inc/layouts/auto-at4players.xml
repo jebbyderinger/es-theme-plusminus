@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>4 Players</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>MULTI</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Curated Genre Collection | Players: 4 | Scope: All Installed Platforms | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The 4 Players collection gathers every title across your Batocera systems that supports four-player gameplay, whether cooperative or competitive. This includes classic couch multiplayer favorites like beat-em-ups, party games, kart racers, and sports titles designed for group play. The list is compiled automatically based on metadata tagging each game's supported player count, offering quick access to full group sessions without searching through every individual system.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unplayed</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1970s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Never Played</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>NEW</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Auto-Generated Collection | Scope: All Installed Platforms | Sorting: By System or Date Added | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Never Played collection automatically lists every game across your Batocera systems that has never been launched. It's compiled by checking each title's play count metadata, surfacing anything sitting untouched in your library. This is a handy way to rediscover forgotten additions to your collection or work through a backlog, especially on large libraries where new or lesser-known titles can easily get buried among more frequently played favorites.</text>
+		</text>
+	</view>
+</theme>

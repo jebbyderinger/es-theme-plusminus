@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Homebrew Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Commander X16</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Commander X16 Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: WDC 65C02 @ 8 MHz | Memory: 512 KB RAM | Media: SD Card / Virtual Disk | Graphics: VERA Video Chip | Sound: YM2151 FM + PSG Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Commander X16 is an open-source retro computer inspired by 1980s home computers such as the Commodore 64. Designed for learning programming and creating games, it combines modern components with a classic 8-bit architecture and BASIC programming environment. The system features custom graphics and sound hardware while maintaining the simplicity of vintage computers. Commander X16 is used by hobbyists to develop games, demos, and software with a focus on retro computing.</text>
+		</text>
+
+	</view>
+</theme>

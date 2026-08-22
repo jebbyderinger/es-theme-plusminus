@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$149</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$340</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>10.62 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Gamegear</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80 @ 3.5 MHz   |  Memory:  8 KB RAM, 16 KB VRAM   |   Sound:  SN76489 - 4 Channels (3x square wave, 1x noise)  |   Media:  Rom Cart   |   Video:  160 × 144p   |   4096 color  palette   |   32 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

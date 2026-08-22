@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$199.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$430</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>49.10 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text if="${system.theme} == 'snes'" region="us">Super Nintendo</text>
+			<text if="${system.theme} == 'snes'" region="jp">Super Famicom</text>
+			<text if="${system.theme} == 'snes'" region="eu">Super Nintendo</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Ricoh 5A22 @ 3.58 MHz | Memory: 128 KB RAM | Media: Cartridge | Graphics: Picture Processing Unit | Sound: Sony SPC700 + DSP | Resolution: 256×224p / 512×448i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Super Nintendo Entertainment System was released in 1990 in Japan and became Nintendo's fourth-generation console. It introduced improved graphics, enhanced sound, and support for advanced cartridge features such as additional chips and battery-backed saves. The system's library included many influential games including Super Mario World, The Legend of Zelda: A Link to the Past, Super Metroid, Chrono Trigger, Final Fantasy VI, Donkey Kong Country, and Street Fighter II. The SNES controller introduced shoulder buttons that became a standard feature on later gamepads. The console competed directly with the Sega Genesis and remains one of Nintendo's most recognized systems.</text>
+		</text>
+	</view>
+</theme>

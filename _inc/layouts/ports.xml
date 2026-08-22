@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Ports</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>NATIVE</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Native Linux Game Engine Recreations | Scope: Open-Source & Community Ports | Examples: Doom, Quake, Cave Story, OpenTyrian | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Ports collection gathers games that run natively on Linux rather than through traditional console or computer emulation. These are typically open-source engine recreations or officially released source ports of classic titles, such as Doom, Quake, Cave Story, and OpenTyrian, rebuilt to run directly on the system without emulating original hardware. Because they run natively, ports often offer better performance, modern resolution support, and enhanced compatibility compared to emulated originals. On Batocera, this collection provides quick access to these community-maintained and open-source titles alongside the rest of the retro library.</text>
+		</text>
+	</view>
+</theme>

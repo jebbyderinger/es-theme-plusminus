@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$795</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$4200</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>219 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PET</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  	6502 @ 1 MHz    |   Memory:  4–96 KB RAM   |   Sound:   None or beeper   |   Media:  Cassette Tape / Floppy Disk / Hard Disk   |   Video:  40×25 or 80×25 text   |   Monochrome   |   </text>
+		</text>
+	</view>
+</theme>

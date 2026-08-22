@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$99.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$420</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Magnavox Odyssey²</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Magnavox / Philips</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8048 @ 1.79 MHz | Memory: 128 bytes RAM | Media: Cartridge | Graphics: Intel 8244/8245 video chip | Sound: Built-in PSG | Resolution: 128×64p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Magnavox Odyssey² was released in 1978 and was one of the earliest cartridge-based home video game consoles. It featured a unique keyboard controller that allowed games to include educational elements, text input, and strategy gameplay. The system library included K.C. Munchkin!, The Quest for the Rings, Attack of the Time, and other arcade-style titles. Philips later released versions of the console in Europe and expanded the software lineup. Although it competed with the Atari VCS, the Odyssey² became known for its unusual controller design and early attempts at combining video games with educational software.</text>
+		</text>
+	</view>
+</theme>

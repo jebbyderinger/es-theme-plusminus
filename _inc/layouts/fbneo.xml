@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Thousands of arcade games supported</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2019</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>FinalBurn Neo</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Community Development</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Arcade Emulator | Hardware: Multiple Arcade Platforms | Media: ROM Images | Graphics: Arcade Hardware Emulation | Sound: Arcade Audio Emulation | Resolution: Original Arcade Resolutions</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>FinalBurn Neo is an arcade emulator focused on accuracy and compatibility with a wide range of arcade systems. It continues the development of the Final Burn Alpha project and supports hardware including Capcom CPS systems, Neo Geo, Sega arcade boards, and many other arcade platforms. The emulator is widely used for preserving arcade games and maintaining compatibility with large arcade game collections.</text>
+		</text>
+	</view>
+</theme>

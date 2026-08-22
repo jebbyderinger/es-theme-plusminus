@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Arcade System</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1996</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega Model 3</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: PowerPC 603e Processor | Memory: Custom Arcade Hardware | Media: ROM Boards / GD-ROM | Graphics: Lockheed Martin Real3D Polygon Hardware | Sound: Yamaha Digital Audio | Resolution: 496×384p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sega Model 3 was an arcade hardware platform released in 1996 as the successor to Sega Model 2. It featured a much more powerful PowerPC-based architecture and advanced Real3D graphics technology developed with Lockheed Martin. Model 3 delivered some of the most impressive arcade visuals of the late 1990s, powering games such as Virtua Fighter 3, Sega Rally 2, Scud Race, Star Wars Trilogy Arcade, and The Lost World: Jurassic Park. Its advanced 3D graphics helped bridge the gap between traditional arcade machines and the emerging home console generation.</text>
+		</text>
+
+	</view>
+</theme>

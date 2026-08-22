@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Digital (US$0.99–9.99)</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈US$1.45–14.50 (2026)</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2009</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2015</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PSP Minis</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Platform: PlayStation Portable (PSP), PlayStation 3 & PlayStation Vita | Media: Digital Download (PlayStation Store) | Max Size: 100 MB | Video: Up to 480 × 272 | Audio: PSP Hardware | Budget digital-only games designed for quick play sessions |</text>
+		</text>
+	</view>
+</theme>

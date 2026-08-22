@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥30,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$500</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>15,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Nintendo 64DD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC VR4300 @ 93.75 MHz | Memory: 4 MB RAM + Expansion Pak Support | Media: Magnetic Disk | Graphics: SGI Reality Co-Processor | Sound: 16-bit Stereo | Resolution: 320×240p / 640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo 64DD was a disk-based expansion for the Nintendo 64 released in Japan in 1999. It used rewritable magnetic disks and added additional storage for games, creation software, and online features. Planned titles included Mario Artist, Doshin the Giant, and other creative applications. The system was intended to expand the capabilities of the Nintendo 64 but experienced delays and limited release. Due to low sales, only a small number of games were produced.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$200</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$624</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ZX Spectrum</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sinclair</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80A at 3.5 MHz   |   Memory:  16 / 48 / 128 kbit RAM   |   Sound:  Beeper - 1 channel with 10 octaves   |   Media:  ROM Cartridge   |   Video:  256 x 192p   |   15 color palette   |   15 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

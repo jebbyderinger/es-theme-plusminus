@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Blake Stone</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>BStone Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Blake Stone Source Port | Original Engine: Wolfenstein 3D Engine Family | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 2.5D Ray Casting Engine | Sound: AdLib / Sound Blaster Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>BStone is an open-source source port for the classic Blake Stone first-person shooter games, including Aliens of Gold and Planet Strike. It modernizes the original Wolfenstein 3D-based engine with improved compatibility, higher resolutions, widescreen support, smoother controls, and enhanced audio features while preserving the original gameplay. Blake Stone was notable for expanding the early first-person shooter formula with interactive environments, elevators, computer terminals, and a science-fiction setting.</text>
+		</text>
+
+	</view>
+</theme>

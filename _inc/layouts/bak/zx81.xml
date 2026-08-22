@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$200</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$624</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>>1.5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ZX 81</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sinclair</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80A at 3.25 MHz   |   Memory:  1 KB RAM   |   Sound:  none   |   Media:  Tape Cassette   |   Video:  24 × 32 character or
+64 × 48 pixels graphics   |   Palette: Monochrome   |   </text>
+		</text>
+	</view>
+</theme>

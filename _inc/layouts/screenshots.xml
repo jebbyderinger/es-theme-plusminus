@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>User Generated</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Screenshots</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Batocera Linux</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>MEDIA</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Media Type: Image Gallery | Formats: PNG / JPG | Source: User-Captured Gameplay Images | Graphics: Native Image Display | Resolution: Original Screenshot Resolution</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Screenshots collection stores gameplay images captured while using Batocera. These images provide a visual record of games played across every supported system and can be browsed directly from the frontend. Screenshots are saved at the game's native output resolution, making them a convenient way to preserve memorable moments and build a personal gallery.</text>
+		</text>
+
+	</view>
+</theme>

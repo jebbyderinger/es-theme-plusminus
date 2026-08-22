@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2002</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega Hikaru</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz | Memory: Custom Arcade Hardware | Media: GD-ROM / ROM Board | Graphics: Sega Custom 3D Graphics Hardware | Sound: Yamaha / Sega Audio Hardware | Resolution: 640×480i</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sega Hikaru was a high-end arcade hardware platform released by Sega in 1999. Based on technology related to the Sega Dreamcast's Naomi architecture, Hikaru used a custom graphics system designed for advanced real-time 3D rendering with effects such as particle systems, lighting, and transparency. The hardware was created for visually impressive arcade experiences and powered games including Brave Firefighters, Star Wars Racer Arcade, Planet Harriers, and Sega Marine Fishing. Due to its high manufacturing cost and limited number of compatible games, Hikaru was produced in small quantities and remains one of Sega's rarest arcade platforms.</text>
+		</text>
+
+	</view>
+</theme>

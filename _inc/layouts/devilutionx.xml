@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Diablo</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>DevilutionX Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Diablo Engine Recreation | Original Hardware: IBM PC Compatible / PlayStation | Media: Original Game Data | Graphics: 2D Isometric Sprite Engine | Sound: Digital Audio / MIDI | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>DevilutionX is an open-source recreation of the engine used by the original Diablo released by Blizzard Entertainment in 1996. The project modernizes the classic action role-playing game while preserving its original gameplay, graphics, and atmosphere. It adds support for modern operating systems, higher resolutions, improved controls, bug fixes, multiplayer improvements, and quality-of-life enhancements while remaining compatible with the original game data. Diablo introduced many players to randomly generated dungeons, real-time combat, character classes, and loot-based progression that became foundations of the action RPG genre.</text>
+		</text>
+
+	</view>
+</theme>

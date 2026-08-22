@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Freeware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2003</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Super Mario War</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Michael "Aurelius" Schaffer</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Custom 2D Game Engine | Original Hardware: IBM PC Compatible | Media: Digital Download | Graphics: 2D Sprite-Based Graphics | Sound: Digital Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Super Mario War is a fan-made multiplayer action game inspired by the Super Mario series. Released in 2003, it turns the traditional platforming gameplay into a competitive arena where players defeat opponents by jumping on their heads. The game features multiple modes, customizable rules, numerous characters, and community-created content. Known for its fast multiplayer gameplay and extensive customization, Super Mario War became one of the most recognized fan projects based on Nintendo's classic platforming series.</text>
+		</text>
+
+	</view>
+</theme>

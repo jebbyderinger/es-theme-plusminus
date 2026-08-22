@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥14,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥35,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>RX-78 Gundam</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Bandaï</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 Compatible Hardware | Memory: Dedicated Console Hardware | Media: Cartridge | Graphics: 2D Sprite Graphics | Sound: PSG Audio | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The RX-78 Gundam is a Japanese home video game console based on the Mobile Suit Gundam franchise. Released by Bandai in 1983, it was one of the earliest consoles built around a licensed anime property. The system featured cartridge-based games centered around Gundam battles and strategy gameplay. With a small software library and limited availability, the RX-78 Gundam console became a rare collector's item and an early example of the relationship between Japanese animation and video games.</text>
+		</text>
+
+	</view>
+</theme>

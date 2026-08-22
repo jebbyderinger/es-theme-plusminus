@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free / Various</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Billions of web plays</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2020</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Adobe Flash</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Adobe / Macromedia</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Flash Player | Hardware: PC Compatible Systems | Media: SWF Files | Graphics: Vector / Raster Graphics | Sound: Digital Audio | Resolution: Variable</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Adobe Flash was a multimedia platform widely used for browser-based games, animations, and interactive applications from the late 1990s through the 2010s. Flash games became a major part of early online gaming culture, with thousands of titles created by independent developers. The platform supported vector graphics, scripting, animation tools, and audio playback. Although official Flash support ended in 2020, many Flash games have been preserved through emulation and archival projects.</text>
+		</text>
+	</view>
+</theme>

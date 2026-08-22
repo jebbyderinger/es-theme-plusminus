@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$650</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>6 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 12.5 MHz | Memory: 768 KB RAM | Media: CD-ROM | Graphics: Genesis VDP + Scaling Hardware | Sound: PCM / CD Audio | Resolution: 320×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega CD was a CD-ROM expansion released for the Sega Genesis in 1991. It increased storage capacity and added features including CD-quality audio, animated sequences, and additional graphics capabilities. The system supported games that used the larger capacity of optical media, including Sonic CD, Lunar: The Silver Star, Snatcher, and Final Fight CD. The Sega CD was part of Sega's early effort to transition console gaming toward CD-based formats.</text>
+		</text>
+	</view>
+</theme>

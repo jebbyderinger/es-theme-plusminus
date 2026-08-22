@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$130</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$800</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>APF-M1000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>APF Electronics</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 6800 @ 0.89 MHz | Memory: 1 KB RAM | Media: Cartridge | Graphics: Motorola 6847 Video Display | Sound: Internal Speaker | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The APF-M1000 was released in 1978 as a second-generation home video game console from APF Electronics. It used cartridge-based games and was designed to compete with systems such as the Atari VCS and Fairchild Channel F. The console used Motorola 6800-based hardware and included a small library of games including Bowling, Baseball, Space Destroyers, and Blackjack. APF later released the Imagination Machine expansion, which combined the console with a computer keyboard and additional hardware.</text>
+		</text>
+	</view>
+</theme>

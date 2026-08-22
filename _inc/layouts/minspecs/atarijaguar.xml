@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$521</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Jaguar</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Motorola 68EC020 @ 14.32 MHz   |   Memory:  2 MB RAM   |   Sound:  8-bit PCM - 4 Channels  |   Media:  CD-ROM   |   Video:  320 × 200 to 1280 x 400i   |   16.7M color palette   |   256 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

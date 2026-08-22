@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Light Gun Games</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Curated Genre Collection | Input: Light Gun / Pointer Peripheral | Scope: All Installed Platforms | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Light Gun Games collection brings together every title across your Batocera systems designed for use with light gun peripherals. These games task players with aiming and shooting at on-screen targets using a gun-shaped controller, a format popularized in arcades throughout the 1980s and 1990s with titles like Duck Hunt, Time Crisis, and House of the Dead. On Batocera, this collection can be played with real light guns, compatible peripherals, or emulated pointer input using a mouse. It offers a quick way to browse and access shooting-gallery and rail-shooter titles without digging through individual system libraries.</text>
+		</text>
+	</view>
+</theme>

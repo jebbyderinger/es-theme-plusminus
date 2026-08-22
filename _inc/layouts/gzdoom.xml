@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>GZDoom</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>GZDoom Team / Based on id Software</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Doom Engine Source Port | Original Hardware: IBM PC Compatible | Media: IWAD / PWAD Files | Graphics: Software Renderer or OpenGL / Vulkan Hardware Rendering | Sound: Digital Audio / MIDI | Resolution: 320×200p Original with Modern High-Resolution, Widescreen, and Ultra HD Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>GZDoom is an advanced open-source source port of id Software's Doom engine, derived from ZDoom and designed to run classic Doom engine games on modern hardware. It supports Doom, Doom II, Heretic, Hexen, Strife, Chex Quest, and many compatible modifications while preserving the gameplay of the original releases. GZDoom adds hardware-accelerated rendering, dynamic lighting, high-resolution textures, widescreen support, freelook, advanced scripting through ZScript, customizable controls, improved audio, and extensive modding capabilities. It has become one of the most widely used Doom source ports, supporting thousands of community-created maps, gameplay modifications, and total conversions while continuing active development decades after the original Doom was released.</text>
+		</text>
+
+	</view>
+</theme>

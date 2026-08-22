@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free / $4.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Community Developed</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TIC-80</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nesbox / Community</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>MODERN</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Fantasy Computer | Hardware: Virtual Console | Media: Digital Cartridges | Graphics: 16-Color Pixel Graphics | Sound: 4-channel Chiptune Audio | Resolution: 240×136p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>TIC-80 is a fantasy computer designed for creating and playing small retro-style games. It recreates the limitations of classic consoles with a fixed resolution, limited color palette, sprite tools, music creation, and built-in development tools. Games are distributed as digital cartridges and can be created using languages including Lua, JavaScript, and Wren. TIC-80 is inspired by classic home computers and modern indie game development tools.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Varies</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Varies</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202X</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Windows PC</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: x86 / x64 Compatible Processors | Memory: System Dependent | Media: Floppy / CD-ROM / Digital | Graphics: VGA and Beyond | Sound: PC Audio Hardware | Resolution: 320×200p to 4K+</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Windows gaming refers to computer games designed for Microsoft's Windows operating systems. The platform became a major gaming environment through widespread hardware availability, DirectX development tools, and support from many publishers. Windows libraries include a wide range of genres from strategy and simulation to first-person shooters and role-playing games. Popular titles include Doom, Warcraft, Half-Life, The Sims, Age of Empires, and countless modern PC releases.</text>
+		</text>
+	</view>
+</theme>

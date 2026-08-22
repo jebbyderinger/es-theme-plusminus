@@ -1,0 +1,120 @@
+x<?xml version="1.0" encoding="UTF-8"?>
+<formatVersion>7</formatVersion>
+<theme defaultView="banner">
+
+<customView name="detailed" inherits="grid">
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<size>1 1</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<size if="{system.theme} == 'pico8'">0.77 1</size>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<color>FFFFFFE0</color>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<snapshotSource>image</snapshotSource>
+			<effect>none</effect>
+			<zIndex>80</zIndex>
+		</video>
+</customView>
+
+<customView name="minimal" inherits="grid">
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<size>1 1</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<size if="{system.theme} == 'pico8'">0.77 1</size>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<color>FFFFFFE0</color>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<snapshotSource>image</snapshotSource>
+			<effect>none</effect>
+			<zIndex>80</zIndex>
+		</video>
+</customView>
+
+<customView name="detailedplus" inherits="grid">
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<size>1 1</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<size if="{system.theme} == 'pico8'">0.77 1</size>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<color>FFFFFFE0</color>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<snapshotSource>image</snapshotSource>
+			<effect>none</effect>
+			<zIndex>80</zIndex>
+		</video>
+</customView>
+
+<customView name="detailedminus" inherits="grid">
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<size>1 1</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<size if="{system.theme} == 'pico8'">0.77 1</size>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<color>FFFFFFE0</color>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<snapshotSource>image</snapshotSource>
+			<effect>none</effect>
+			<zIndex>80</zIndex>
+		</video>
+</customView>
+
+<customView name="banner" inherits="grid">
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<size>1 1</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<size if="{system.theme} == 'pico8'">0.77 1</size>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<color>FFFFFFE0</color>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<snapshotSource>image</snapshotSource>
+			<effect>none</effect>
+			<zIndex>80</zIndex>
+		</video>
+</customView>
+
+</theme>

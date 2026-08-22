@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$799.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,800</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Philips CD-i</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Philips</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68070 @ 15.5 MHz | Memory: 1.5 MB RAM | Media: CD-ROM | Graphics: Custom video processor | Sound: CD Audio / ADPCM | Resolution: 384×280p / 768×560i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Philips CD-i was released in 1991 as a multimedia platform designed around CD-ROM technology. It was developed primarily as an interactive media device rather than a traditional game console, supporting educational software, video, music, and games. The system received several licensed Nintendo titles including Hotel Mario and the Zelda CD-i games. Other releases included multimedia applications, movies, and educational programs. The CD-i was one of the early attempts to combine home entertainment and interactive media using optical discs.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥168,000</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥500,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sharp MZ-2500</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80B @ 6 MHz | Memory: 128 KB RAM | Media: Cassette Tape / 3.5 Floppy Disk | Graphics: Custom Sharp Video Hardware | Sound: Yamaha YM2203 FM (3 FM + 3 PSG Channels) | Resolution: Up to 640×400p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp MZ-2500, also known as the Super MZ, was released in 1985 as the final and most advanced 8-bit computer in Sharp's MZ series. Powered by a 6 MHz Zilog Z80B processor, it featured 128 KB of RAM, built-in cassette and 3.5-inch floppy disk support, FM synthesis audio via the Yamaha YM2203, and graphics capable of displaying up to 256 colors with resolutions as high as 640×400. The MZ-2500 retained compatibility with earlier MZ-80B and MZ-2000 software while introducing a significantly more capable architecture with hardware scrolling, multiple graphics modes, and optional palette expansion. Despite being regarded as one of the most powerful Z80-based computers ever produced, its release came as Japan was transitioning toward 16-bit personal computers, limiting its commercial success. Today the MZ-2500 is highly regarded by collectors and enthusiasts as the pinnacle of the Sharp MZ line and one of the finest 8-bit home computers ever built.</text>
+		</text>
+
+	</view>
+</theme>

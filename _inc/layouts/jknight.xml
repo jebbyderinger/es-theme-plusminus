@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2003</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Jedi Knight</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>OpenJKDF Team / Based on LucasArts</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Jedi Engine Source Port | Original Hardware: IBM PC Compatible | Media: Original Dark Forces / Jedi Knight Game Data | Graphics: Software Rendering with Modern Enhancements | Sound: Digital Audio / MIDI | Resolution: 320×200p Original with Modern High-Resolution Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>OpenJKDF is an open-source project focused on preserving and improving LucasArts' Dark Forces and Jedi Knight games. It recreates the original Jedi Engine used by these titles, allowing them to run on modern systems while maintaining their original gameplay. The project improves compatibility, adds modern display support, enhances controls, and provides a foundation for community improvements while preserving the atmosphere and mechanics of the classic Star Wars first-person adventures.</text>
+		</text>
+
+	</view>
+</theme>

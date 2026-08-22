@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥15,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥20,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>4.5 million disk units</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Famicom Disk System</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Ricoh 2A03 @ 1.79 MHz | Memory: 32 KB RAM | Media: Disk Card | Graphics: PPU graphics processor | Sound: 5-channel audio + additional wavetable channel | Resolution: 256×240p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Famicom Disk System was released in 1986 as an expansion for the Nintendo Family Computer in Japan. It used rewritable magnetic Disk Cards instead of traditional cartridges, allowing Nintendo to offer larger games at lower production costs. The system also introduced additional sound capabilities and allowed players to save game progress. Its library included some of Nintendo's most important early releases, including The Legend of Zelda, Zelda II: The Adventure of Link, Metroid, Kid Icarus, and Castlevania. The Disk Writer network allowed players to purchase and rewrite games at retail locations. The popularity of cartridge technology and technical limitations eventually led Nintendo to move away from the format. The Famicom Disk System remains an important part of early Nintendo history and introduced features that became standard in later games.</text>
+		</text>
+	</view>
+</theme>

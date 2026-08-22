@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$999</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,600</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Apple IIGS</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Apple Computer</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: WDC 65C816 @ 2.8 MHz | Memory: 256 KB RAM (expandable) | Media: 3.5-inch Floppy Disk | Graphics: Enhanced Apple II graphics | Sound: Ensoniq wavetable audio | Resolution: 320×200p / 640×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Apple IIGS was released in 1986 as the most advanced model in the Apple II family. It combined compatibility with earlier Apple II software with improved graphics, sound, and processing capabilities. The system introduced the Ensoniq sound chip, allowing more advanced music and audio compared with earlier Apple computers. Its software library included educational programs, productivity applications, and games such as Zany Golf, The Immortal, Dungeon Master, and ports of Apple II classics. The Apple IIGS competed with Macintosh computers and other home computers during the late 1980s, but Apple's focus shifted toward the Macintosh line. Although it was not as successful commercially as earlier Apple II models, the IIGS maintained compatibility with the existing Apple II software library and represented the final major development of the Apple II platform.</text>
+		</text>
+	</view>
+</theme>

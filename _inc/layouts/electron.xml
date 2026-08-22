@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£199</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£680</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>200,000+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Acorn Electron</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502A @ 1.79 MHz | Memory: 32 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Acorn Video ULA | Sound: 1-Channel Beeper | Resolution: 640×256p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Acorn Electron was an 8-bit home computer released in 1983 by Acorn Computers as a lower-cost version of the BBC Micro. It used the same 6502-based architecture and BBC BASIC programming language while offering a smaller design aimed at home users and education. The system featured advanced graphics modes for its price range and supported a large library of games and software through cassette storage and later disk expansions. Although less powerful than the BBC Micro, the Electron became a popular British home computer.</text>
+		</text>
+
+	</view>
+</theme>

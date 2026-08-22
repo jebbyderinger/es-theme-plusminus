@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£600</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£2770</text>
+		</text>
+		<text name="TextSold" extra="true">
+    		<text>>100 Thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MZ-80K</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 (Sharp LH0080) @ 2 MHz | Memory: 20 KB RAM (expandable to 48 KB) | Sound: Built-in mono speaker (programmable, 3-octave tone generator) | Media: Built-in cassette tape drive | Video: 320 × 200 (character-based display) | Monochrome (black & white) | 40 × 25 text display</text>
+	</text>
+	</view>
+</theme>

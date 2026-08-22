@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$199</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$320</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 30,000 units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2001</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>GP32</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>GamePark</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM920T @ 133 MHz | Memory: 8 MB RAM | Media: SmartMedia Card | Graphics: 16-bit LCD Display | Sound: Stereo Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2001, the GP32 was a South Korean handheld console developed by GamePark. Unlike most handhelds of its era, it was designed with an open development environment that encouraged homebrew software and independent games. Applications and games were stored on SmartMedia Cards, and the system became popular among enthusiasts for its emulation capabilities and multimedia support. Although its commercial library was relatively small, the GP32 earned a lasting reputation as one of the earliest handhelds to embrace homebrew development and open software.</text>
+		</text>
+
+	</view>
+</theme>

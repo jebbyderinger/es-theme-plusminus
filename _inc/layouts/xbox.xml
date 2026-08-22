@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$530</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>24 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2009</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Xbox</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel Pentium III @ 733 MHz | Memory: 64 MB RAM | Media: DVD-ROM / Hard Drive | Graphics: NVIDIA NV2A GPU | Sound: Dolby Digital 5.1 | Resolution: 480p / 720p / 1080i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The original Xbox was released in 2001 as Microsoft's first home video game console. It introduced features uncommon on consoles at the time, including a built-in hard drive, broadband networking through Xbox Live, and PC-based hardware architecture. The system's library included Halo: Combat Evolved, Fable, Forza Motorsport, Star Wars: Knights of the Old Republic, and Ninja Gaiden. Xbox Live helped establish online console gaming as a major feature. The console competed with Sony's PlayStation 2 and Nintendo GameCube while creating the foundation for Microsoft's future Xbox platforms.</text>
+		</text>
+	</view>
+</theme>

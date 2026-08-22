@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Community Developed</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2014</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Lutro</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Community Development</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: LÖVE Framework | Hardware: PC Compatible Systems | Media: Digital Files | Graphics: 2D Rendering | Sound: Digital Audio | Resolution: Variable</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Lutro is a game development framework based on the LÖVE engine and designed for creating small 2D games using Lua scripting. It provides tools for graphics, input, audio, and game logic while keeping a simple structure inspired by classic game development environments. Lutro projects can be used with compatible emulation environments and are focused on accessible homebrew-style development.</text>
+		</text>
+	</view>
+</theme>

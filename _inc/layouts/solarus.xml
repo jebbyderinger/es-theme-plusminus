@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Solarus</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Solarus Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Open-Source Action RPG Engine | Original Hardware: IBM PC Compatible | Media: Digital Game Projects | Graphics: 2D Tile-Based Graphics | Sound: Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Solarus is an open-source engine designed for creating and playing 2D action role-playing games inspired by classic adventure titles. Originally developed to recreate and expand upon the style of The Legend of Zelda: A Link to the Past, it provides tools for maps, quests, scripting, graphics, and gameplay systems. Solarus supports fan-made games and original projects while allowing developers to create complete adventure games using modern computers.</text>
+		</text>
+
+	</view>
+</theme>

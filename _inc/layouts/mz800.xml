@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥128,000</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥380,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sharp MZ-800</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.55 MHz | Memory: 64 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Custom Sharp Video Hardware | Sound: 1-Bit Internal Speaker | Resolution: Up to 640×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp MZ-800 was a home computer introduced in 1985 as the successor to the MZ-700. Powered by a Zilog Z80A processor, it retained compatibility with much of the MZ-700 software library while adding significantly enhanced graphics, expanded memory, and improved peripheral support. The system featured bitmap graphics with resolutions up to 640×200, a larger color palette, hardware scrolling, and optional floppy disk drives, making it suitable for games, programming, and productivity software. Like earlier MZ computers, it followed Sharp's "clean computer" philosophy, loading its operating system and programming languages from cassette or disk rather than storing them permanently in ROM. Although the MZ-800 faced strong competition from systems such as the MSX2, NEC PC-8801, and Sharp X1, it remains one of the most capable and recognizable members of the MZ family and continues to be supported by retro computing enthusiasts.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$199</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$500</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>10–13 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega Master System</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 8 KB RAM | Media: Cartridge / Card | Graphics: VDP chipset | Sound: PSG + FM expansion | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega Master System was released in 1985 as Sega's third-generation home console. It was designed to compete with the Nintendo Entertainment System and featured stronger graphical capabilities and arcade-style conversions. Its library included franchises such as Alex Kidd, Phantasy Star, Wonder Boy, Shinobi, and Sonic the Hedgehog. The system supported both cartridges and smaller Sega Card media, along with accessories such as the Light Phaser gun and 3D glasses. While it struggled against Nintendo in North America and Japan, the Master System became highly successful in Europe and Brazil. It helped establish Sega's console identity and laid the foundation for the company's later success with the Mega Drive/Genesis.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>A$199</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>A$700</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Laser 310</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Video Technology</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 16 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Motorola MC6847 VDG | Sound: 1-Bit Internal Speaker | Resolution: Up to 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Laser 310 was a home computer introduced by Video Technology in 1983 as part of the Laser 200 series. Powered by a Zilog Z80A processor, it featured 16 KB of RAM, Microsoft BASIC in ROM, cassette storage, and optional floppy disk support through expansion hardware. The computer became especially popular in Australia, New Zealand, and several Asian and European markets, where it was sold under names including Dick Smith VZ-300 and Salora Fellow. Its affordable price, expandable architecture, and active enthusiast community made it a popular choice for learning programming and playing games. Today, the Laser 310 remains one of the best-known budget home computers of the early 1980s and continues to be supported by hobbyists developing new hardware and software.</text>
+		</text>
+
+	</view>
+</theme>

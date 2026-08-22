@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>147 million MAU</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Steam</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Valve Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>DIGITAL</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Digital Distribution Platform | Library: 117,000+ games | Peak Concurrent Users: 42M+ | Market Share: ~75% (US PC digital) | Features: Cloud Saves, Workshop, Achievements, Trading Cards</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Steam was released in 2003 by Valve Corporation as a platform for automatically updating games, initially built to support Valve's own titles like Counter-Strike and Half-Life. It later opened to third-party publishers and grew into the dominant digital distribution service for PC gaming. The platform introduced features such as automatic updates, multiplayer matchmaking, achievements, cloud saves, and the Steam Workshop for user-generated content. Steam expanded to include a marketplace, community features, and Steam Deck hardware, cementing its position as the largest storefront for PC games. As of 2026, Steam hosts over 117,000 titles and regularly exceeds 42 million concurrent users.</text>
+		</text>
+	</view>
+</theme>

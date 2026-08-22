@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Various Arcade Releases</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>CAVE</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>CAVE Co., Ltd.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Hardware: CAVE Arcade Systems | Media: Arcade ROM Boards | Graphics: 2D Sprite-Based Arcade Hardware | Sound: FM Synthesis and PCM Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>CAVE was a Japanese arcade developer best known for its vertical scrolling shoot 'em up games, often referred to as "bullet hell" shooters. Founded in 1994, the company produced titles including DonPachi, DoDonPachi, ESP Ra.De., Guwange, Ketsui, Mushihimesama, and Deathsmiles. CAVE's games became known for dense projectile patterns, precise gameplay, and high-score competition, making them some of the most influential shooters in arcade history.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$89.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$220</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>118.69 million (including Game Boy Color)</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Game Boy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sharp LR35902 @ 4.19 MHz | Memory: 8 KB RAM | Media: Cartridge | Graphics: Monochrome LCD | Sound: 4-channel PSG | Resolution: 160×144p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Game Boy was released in 1989 as Nintendo's first major handheld console and established a new standard for portable gaming. It combined simple hardware with efficient design, long battery life, and a large cartridge-based library. The system became known for games such as Tetris, Super Mario Land, The Legend of Zelda: Link's Awakening, Pokémon Red and Blue, and Metroid II: Return of Samus. Despite having a monochrome display, the Game Boy became one of the best-selling video game systems and remained supported for more than a decade.</text>
+		</text>
+	</view>
+</theme>

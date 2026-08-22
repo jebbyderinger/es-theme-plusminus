@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Freeware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>LowRes NX</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>LowRes NX Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Fantasy Console | CPU: Virtual 8-bit Processor | Media: Digital Programs | Graphics: Tile-Based 2D Graphics | Sound: Chiptune Audio | Resolution: 128×128p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>LowRes NX is a fantasy console designed to recreate the experience of developing and playing games on classic 8-bit hardware. It provides a simple programming environment with built-in graphics, sound, and input systems. Inspired by early home computers and consoles, LowRes NX allows users to create and share small games using a custom BASIC-style language while focusing on retro game design.</text>
+		</text>
+
+	</view>
+</theme>

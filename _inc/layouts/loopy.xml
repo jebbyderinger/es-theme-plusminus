@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥25,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥33,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Casio Loopy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Casio</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Z80-compatible CPU | Memory: 32 KB RAM | Media: ROM Cartridge | Graphics: Custom Casio graphics hardware | Sound: PSG Audio | Printer: Built-in Thermal Color Printer | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Casio Loopy was a home video game console released in Japan by Casio in October 1995. It was designed primarily for girls and focused on creativity, personalization, and sticker printing rather than traditional gaming. The system was unique among fifth-generation consoles because it included a built-in thermal color printer that allowed players to create and print stickers using images and characters from supported games. The Loopy used cartridges and included software that combined gameplay with drawing, photo manipulation, and customization features. Several titles allowed users to create personalized stickers featuring characters, backgrounds, and images generated within the games. Casio also released an optional mouse accessory called the Magical Shop, which expanded the system's drawing and editing capabilities. The console was marketed as a lifestyle-oriented entertainment device rather than a direct competitor to systems such as the Sega Saturn or PlayStation. Due to its limited software library and release only in Japan, the Loopy achieved little commercial success. Today, it is remembered as one of the most unusual consoles of the fifth generation because of its built-in printer and focus on user-created physical media.</text>
+		</text>
+	</view>
+</theme>

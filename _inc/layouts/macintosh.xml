@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$2,495</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$7,700</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>100 Million+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Apple Macintosh</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Apple Computer, Inc.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 8 MHz (Original) | Memory: 128 KB RAM | Media: 3.5" Floppy Disk / Hard Disk | Graphics: Monochrome Frame Buffer | Sound: 8-Bit Mono Audio | Resolution: 512×342p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Apple Macintosh was introduced in 1984 as one of the first commercially successful personal computers to feature a graphical user interface and mouse as standard equipment. Developed from ideas pioneered at Xerox PARC, the Macintosh popularized desktop publishing, graphical operating systems, and point-and-click computing for home, education, and professional users. The original Macintosh featured a Motorola 68000 processor, a built-in 9-inch monochrome display, and a 3.5-inch floppy disk drive. Throughout the late 1980s and 1990s, the Macintosh family expanded with color displays, PowerPC processors, and multimedia capabilities, becoming a leading platform for graphic design, publishing, music production, and education. Today, classic Macintosh systems remain popular among retro computing enthusiasts for their distinctive hardware, pioneering software, and influential role in shaping the modern personal computer.</text>
+		</text>
+
+	</view>
+</theme>

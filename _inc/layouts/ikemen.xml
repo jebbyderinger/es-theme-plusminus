@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Ikemen GO</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Ikemen GO Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: M.U.G.E.N Compatible Fighting Engine | Original Hardware: IBM PC Compatible | Media: Digital Game Data | Graphics: 2D Sprite-Based Graphics | Sound: Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Ikemen GO is an open-source fighting game engine designed to be compatible with content created for M.U.G.E.N. It expands on the original engine with improved performance, online multiplayer support, enhanced scripting, additional game modes, and modern features. The engine is used by the fighting game community to create custom characters, stages, and complete fighting games while preserving the flexibility of the original M.U.G.E.N platform.</text>
+		</text>
+
+	</view>
+</theme>

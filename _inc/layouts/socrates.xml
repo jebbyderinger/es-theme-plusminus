@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$99.95</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$275</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1989</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Socrates</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Gabriel Industries</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>CONSOLE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 Compatible Processor | Memory: Internal RAM | Media: ROM Cartridges | Graphics: Custom Video Hardware | Sound: Built-In Speaker | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Socrates was an educational video game console released in 1988 by Gabriel Industries. Named after the Greek philosopher, the system was designed to combine entertainment with learning through a library of educational cartridges covering subjects such as mathematics, geography, science, spelling, and history. Unlike traditional game consoles, the Socrates included a wireless keyboard controller that allowed users to answer questions and interact with educational programs. The system used cartridge-based software and featured simple graphics and sound capabilities typical of late 1980s home consoles. Although promoted as an innovative educational platform, limited software support and competition from personal computers and other learning devices prevented widespread success. Today, the Socrates is remembered as one of the more unusual educational consoles of its era and is of interest to collectors due to its rarity and unique approach to combining video games with learning.</text>
+		</text>
+
+	</view>
+</theme>

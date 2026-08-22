@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2024</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Tomb Raider 2</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>TR2X Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Tomb Raider II Engine Recreation | Original Hardware: PlayStation / Sega Saturn / Windows | Media: Original Game Data | Graphics: 3D Polygon Engine | Sound: Digital Audio | Resolution: Up to 1920×1080p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>TR2X is an open-source engine recreation project focused on modernizing Tomb Raider II: The Dagger of Xian. Based on the original 1997 game engine created by Core Design, it aims to preserve the classic adventure experience while adding modern compatibility features. The project improves support for current systems with enhancements such as widescreen resolutions, improved controls, bug fixes, and updated rendering features. Tomb Raider II expanded the original formula with larger environments, vehicles, improved level design, and new locations around the world while continuing Lara Croft's exploration-based gameplay.</text>
+		</text>
+
+	</view>
+</theme>

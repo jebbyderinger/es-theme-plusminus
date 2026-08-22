@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$19.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>1 Million+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sonic Mania</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>PagodaWest Games / Headcannon / Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Retro Engine | Original Hardware: Modern PC / Consoles | Media: Digital Download | Graphics: 2D Pixel Art | Sound: Digital Audio | Resolution: 320×240p Base Resolution with Modern HD Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sonic Mania is a 2D platform game released in 2017 that returns to the style of the classic Sega Genesis Sonic games. Developed by PagodaWest Games and Headcannon with Sega, it features new stages, remixed classic levels, multiple playable characters, and gameplay based on the original Sonic physics. The game was designed as a celebration of Sonic's early 1990s era while adding modern features and new content.</text>
+		</text>
+
+	</view>
+</theme>

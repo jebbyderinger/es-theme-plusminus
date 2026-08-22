@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2010</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>BennuGD</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>BennuGD Team / Based on Fenix</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Open-Source 2D Game Development Framework | Original Hardware: IBM PC Compatible | Media: Digital Game Projects | Graphics: 2D Sprite-Based Graphics | Sound: Digital Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>BennuGD is an open-source game development framework designed for creating 2D games and interactive applications. It evolved from the Fenix programming language and provides a simple scripting environment focused on graphics, sound, input, and multimedia features. The engine has been used for independent games, remakes, and homebrew projects across multiple platforms. BennuGD continues the tradition of accessible game development tools that allow creators to build games without requiring complex commercial engines.</text>
+		</text>
+
+	</view>
+</theme>

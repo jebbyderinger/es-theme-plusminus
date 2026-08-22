@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$119.95</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$380</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 200,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>TRS-80 MC-10</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tandy Corporation</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola MC6803 @ 0.89 MHz | Memory: 4 KB RAM | Media: Cassette Tape | Graphics: Motorola MC6847 VDG | Sound: 1-Bit Internal Speaker | Resolution: Up to 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The TRS-80 MC-10 was a compact home computer introduced by Tandy Corporation in 1983 as an inexpensive entry-level system for home users and beginners. Powered by a Motorola MC6803 processor, it included 4 KB of RAM, Microsoft Color BASIC in ROM, and used standard cassette tapes for software storage. The MC-10 shared its Motorola MC6847 video hardware with the TRS-80 Color Computer, allowing colorful graphics despite its modest specifications. Designed to compete with low-cost home computers such as the Sinclair ZX81 and Commodore VIC-20, the MC-10 emphasized affordability and ease of programming. Although its limited memory restricted more advanced software, it gained popularity among hobbyists and students and remains a distinctive member of the TRS-80 family.</text>
+		</text>
+
+	</view>
+</theme>

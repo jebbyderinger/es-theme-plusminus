@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Flatpak</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Flatpak Community</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>LINUX</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Platform: Linux Application Framework | Package Format: Flatpak | Media: Digital Downloads | Graphics: Native Application Rendering | Sound: Native Linux Audio | Resolution: Native Display Resolution</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Flatpak is an open-source application packaging and distribution system for Linux that allows software to run consistently across different Linux distributions. Introduced in 2015, it packages applications together with their required libraries inside isolated sandbox environments, reducing compatibility issues and simplifying installation and updates. In Batocera, Flatpak provides access to a growing library of desktop applications and utilities that can be installed independently of the operating system. This allows users to add compatible software without modifying the core system while benefiting from automatic updates, improved security through sandboxing, and broad cross-distribution compatibility.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£249</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£730</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 80,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1989</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Enterprise 64/128</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Enterprise Computers Ltd.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 64 KB / 128 KB RAM | Media: Cassette Tape / Floppy Disk / ROM Cartridge | Graphics: Nick Custom Video Chip | Sound: Dave Custom Sound Chip | Resolution: Up to 672×256p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Enterprise 64 and Enterprise 128 were British home computers introduced in 1985 by Enterprise Computers Ltd. Originally announced in 1983 as the Elan Enterprise, the machines were delayed several times before reaching the market, where they faced strong competition from the Sinclair ZX Spectrum, Commodore 64, and Amstrad CPC. Powered by a Zilog Z80A processor, the Enterprise featured two highly advanced custom chips known as Nick for graphics and Dave for sound, providing hardware scrolling, flexible display modes, multiple screen resolutions, and sophisticated audio capabilities that surpassed many contemporary home computers. The system ran the EXOS operating system from ROM and included the structured IS-BASIC programming language. Available in 64 KB and 128 KB models, the Enterprise supported cassette storage, floppy disk drives, networking, and numerous expansion modules. Although commercial success was limited due to its delayed release and higher price, the Enterprise earned a loyal following and is remembered as one of the most technically innovative 8-bit home computers of the mid-1980s.</text>
+		</text>
+
+	</view>
+</theme>

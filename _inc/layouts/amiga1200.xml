@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$599</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,250</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>400,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amiga 1200</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68020 @ 14.18 MHz | Memory: 2 MB RAM | Media: Floppy Disk | Graphics: AGA chipset | Sound: Paula audio chipset | Resolution: 320×200p / 640×400i / AGA modes</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Amiga 1200 was released in 1992 as the successor to the Amiga 500 Plus and was one of the final home computer models released by Commodore. It introduced the AGA graphics chipset, improving compatibility with newer software while maintaining support for many existing Amiga programs. The system was released primarily in Europe and was used for gaming, productivity, graphics, and programming. Its game library included titles such as Sensible Soccer, Cannon Fodder, Turrican, Alien Breed, and Beneath a Steel Sky. The Amiga 1200 supported internal expansion options including accelerator cards, additional memory, and hard drives. Commodore's financial problems limited the success of the system, and production ended after the company's bankruptcy in 1994. The Amiga 1200 remains one of the most recognized models in the Amiga family due to its software compatibility and upgrade potential.</text>
+		</text>
+	</view>
+</theme>

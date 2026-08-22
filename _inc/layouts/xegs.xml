@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$149.95</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$425</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Atari XEGS</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Atari Corporation</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>CONSOLE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS Technology 6502C @ 1.79 MHz | Memory: 64 KB RAM | Media: ROM Cartridges / Floppy Disk / Cassette Tape | Graphics: ANTIC &amp; GTIA | Sound: POKEY (4-Channel PSG) | Resolution: Up to 320×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Atari XEGS (XE Game System) was introduced in 1987 as a cartridge-based video game console built on Atari's successful 8-bit computer architecture. Essentially a repackaged Atari 65XE computer, the XEGS included a detachable keyboard, allowing it to function as both a home computer and a game console. It remained compatible with the extensive Atari 8-bit software library, including cartridge, disk, and cassette titles, while also supporting peripherals such as disk drives, printers, and modems. The system launched with the light gun game Bug Hunt and featured popular titles including Flight Simulator II, Ballblazer, Rescue on Fractalus!, and numerous Atari arcade conversions. Although released during the rise of the Nintendo Entertainment System and Sega Master System, the XEGS extended the life of Atari's 8-bit platform and remains a unique hybrid of computer and console.</text>
+		</text>
+
+	</view>
+</theme>

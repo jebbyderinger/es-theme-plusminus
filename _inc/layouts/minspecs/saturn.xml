@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$849</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>9.26 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Saturn</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  2× Hitachi SH-2 @ 28.6 MHz   |  Memory:  2 MB RAM, 1.5 MB VRAM, 512 KB sound RAM   |   Sound:  Yamaha YMF292 FM/PCM - 32 Channels  |   Media:  CD-ROM (650 MB)  |   Video:  320 × 224p to 704 x 480i   |   16.7M color palette   |   16.7M on-screen   |   </text>
+</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>All Systems</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1970s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>All Games</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>ALL</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Unified Game Library | Scope: All Installed Platforms | Sorting: By System, Genre, or Favorite | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The All Games collection brings together every title installed across your Batocera systems into a single browsable list. Rather than representing one console or platform, it serves as a unified library view, letting you explore your full collection regardless of which system a game originally belongs to. This collection is generated automatically by EmulationStation and updates as new games are added or removed from any configured platform. It's a convenient way to browse, search, or launch games without navigating into each individual system folder.</text>
+		</text>
+	</view>
+</theme>

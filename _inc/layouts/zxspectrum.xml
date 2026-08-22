@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£125</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£450</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ZX Spectrum</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sinclair Research</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.5 MHz | Memory: 16 KB–128 KB RAM | Media: Cassette / Microdrive | Graphics: Custom ULA | Sound: Beeper / AY-3-8912 | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The ZX Spectrum was released in 1982 as an affordable home computer developed by Sinclair Research. It became one of the most popular computers in the United Kingdom and Europe, helping introduce many users to programming and gaming. The system used cassette tapes for software distribution and developed a large library of games including Jet Set Willy, Manic Miner, Elite, The Hobbit, and Dizzy. Later models expanded memory and improved features while maintaining compatibility. The ZX Spectrum played an important role in the growth of European game development and remains one of the most influential home computers of the 1980s.</text>
+		</text>
+	</view>
+</theme>

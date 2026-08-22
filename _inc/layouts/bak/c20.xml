@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.95</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1060</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2.5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>VIC 20</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   MOS Technology 6502 @ 1.108 MHz (PAL) @ 1.02 MHz (NTSC)   |   Memory:  	20 KB ROM + 5 KB (3.5 KB free) RAM (expandable to 32 KB)
+3.5 KB for BASIC (expandable to 27.5 KB   |   Sound:   None or beeper   |   Media:  Cassette Tape / Floppy Disk   |   Video:  176 × 184   |   Palette:   16 colours   |   </text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£169</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£570</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 240,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1991</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Oric</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tangerine Computer Systems / Oric Products International</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS Technology 6502A @ 1 MHz | Memory: 16 KB / 48 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Custom ULA | Sound: General Instrument AY-3-8912 PSG | Resolution: Up to 240×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Oric was a family of British home computers introduced in 1983, beginning with the Oric-1 and later the improved Oric Atmos. Designed to compete with the Sinclair ZX Spectrum, Commodore 64, and BBC Micro, the Oric combined a MOS Technology 6502A processor with colorful graphics, a three-channel AY-3-8912 sound chip, and Microsoft BASIC in ROM. Available in 16 KB and 48 KB models, the system supported cassette storage as standard and optional floppy disk drives through expansion hardware. The Oric developed a loyal following thanks to its capable hardware, quality keyboard on the Atmos model, and library of games, educational software, and programming tools. Although the company encountered financial difficulties and the platform never achieved the commercial success of its rivals, the Oric remains an important part of the European home computer era and continues to be supported by an active retro computing community.</text>
+		</text>
+
+	</view>
+</theme>

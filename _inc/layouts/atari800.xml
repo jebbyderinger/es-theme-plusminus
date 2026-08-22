@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$999</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$3,400</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>4 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari 8-bit Family</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502C @ 1.79 MHz | Memory: 8 KB–64 KB RAM | Media: Cartridge / Disk / Cassette | Graphics: ANTIC + GTIA | Sound: POKEY audio chip | Resolution: 320×192p / 384×240i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Atari 8-bit family was introduced in 1979 as a line of home computers based on custom graphics and sound hardware developed from Atari's arcade experience. The systems included the Atari 400, Atari 800, XL, XE, and XEGS models. They featured advanced graphics capabilities for the time and supported both computer software and games. Popular titles included Star Raiders, M.U.L.E., Ballblazer, Rescue on Fractalus!, and various arcade conversions. The platform remained active throughout the 1980s and became an important part of early home computing and gaming history.</text>
+		</text>
+	</view>
+</theme>

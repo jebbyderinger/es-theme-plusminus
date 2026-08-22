@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source Port</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Jazz Jackrabbit 2 Native</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Jazz2 Resurrection Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ENGINE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Jazz Jackrabbit 2 Native Port | Original Platform: Windows / Macintosh | Graphics: OpenGL 2D Sprite Engine | Sound: SDL Audio | Resolution: Up to Modern HD Displays</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Jazz Jackrabbit 2 Native is a modern open-source port of Epic MegaGames' 1998 platform game Jazz Jackrabbit 2. The project recreates the original game engine while replacing legacy Windows dependencies with native code designed for modern operating systems. It provides improved compatibility, widescreen support, higher resolutions, controller support, updated rendering, and enhanced audio while preserving the original gameplay, artwork, levels, and multiplayer features. Based on reverse engineering of the original game, the port allows Jazz Jackrabbit 2 to run on current hardware without the need for the original executable environment. It supports the classic campaign, expansion content, multiplayer modes, and community-created levels. The project continues the long-standing fan effort to preserve one of the most recognizable PC platform games of the late 1990s and keeps its fast-paced 2D action accessible on modern systems.</text>
+		</text>
+
+	</view>
+</theme>

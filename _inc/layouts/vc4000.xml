@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$200</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,300</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>VC 4000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Interton</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Signetics 2650A @ 3.58 MHz | Memory: 43 bytes RAM | Media: Cartridge | Graphics: Signetics Video Hardware | Sound: PSG Audio | Resolution: 128×64p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The VC 4000 was a European second-generation video game console released in 1978. It was based on Signetics 2650 processor technology and used interchangeable cartridges. The system was sold under multiple names by different manufacturers and featured simple arcade-style games including sports, shooting, and puzzle titles. Its hardware design was similar to several other European consoles of the period.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥15,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥45,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>160,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega SG-1000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 1 KB RAM | Media: Cartridge / Card | Graphics: Texas Instruments TMS9918 | Sound: SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The SG-1000 was released in 1983 and was Sega's first home video game console. It was developed alongside Sega's early arcade hardware and shared similarities with other third-generation systems. The console used cartridges and Sega Cards while offering arcade-style games based on Sega's coin-operated titles. Its library included games such as Girl's Garden, Congo Bongo, Champion Baseball, and ports of Sega arcade games. The SG-1000 was followed by the SG-1000 II and later the Sega Mark III, which became the foundation for the Master System. Although it had limited success, the SG-1000 was an important step in Sega's transition into home console development.</text>
+		</text>
+	</view>
+</theme>

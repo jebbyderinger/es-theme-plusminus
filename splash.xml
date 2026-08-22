@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		480i
+version:		1.0
+author:			jebbyderinger
+license:		creative commons CC-BY-NC-SA
+github:			https://github.com/
+-->
+
+<theme>
+	<formatVersion>7</formatVersion>
+
+<view name="splash">
+		<splash name="splash">
+			<backgroundColor>161616</backgroundColor>
+		</splash>
+		<image name="background">
+			<path>./_inc/images/splash.jpg</path>
+		</image>
+
+		<image name="progressbar">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.9 0.04</size>
+			<path>./_inc/images/progressbar.png</path>
+			<color>bebebe</color>
+			<roundCorners>0</roundCorners>
+			<zIndex>6</zIndex>
+		</image>
+
+		<image name="progressbar:active">
+			<tile>true</tile>
+			<path>./_inc/images/progressbar.png</path>
+			<color>bebebe</color>
+			<colorEnd>${gradientEndColor}</colorEnd>
+			<gradientType>horizontal</gradientType>
+			<zIndex>7</zIndex>
+		</image>
+
+		<text name="label">
+			<pos>0.5 0.45</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.66 0.04</size>
+			<fontPath>./_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>FFFFFF</color>
+			<fontSize>0.024</fontSize>
+			<glowColor>000000</glowColor>
+			<glowSize>4</glowSize>
+			<visible>false</visible>
+			<alignment>center</alignment>
+			<forceUppercase>1</forceUppercase>
+			<zIndex>140</zIndex>
+		</text>
+	</view>
+</theme>

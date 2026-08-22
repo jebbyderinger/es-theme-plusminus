@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$999</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2780</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1.25 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Apple IIGS</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Apple</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  65C816 @ 2.8 MHz   |   Memory:  256 KB - 8 MB RAM  |  Sound:  Ensoniq ES5503 DOC 8-bit wavetable synth / 32 channels   |   Media:  Tape / 5.25 floppy / 3.5" floppy   |   Video:  320 x 200p or 640 x 400p   |   4096 color palette   |   3200 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

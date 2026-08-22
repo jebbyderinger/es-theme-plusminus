@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$595</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1880</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>17 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>CRT Tools</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Batocera CRT Script</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  MOS Technology 6510/8500 @ 1.023 MHz    |   Memory:  64 KB RAM   |   Sound:   SID 6581/8580 (3× osc, 4× wave, filter, ADSR, ring)   |   Media:  Cassette Tape / Floppy Disk / Rom Cart   |   Video:  320 x  200p   |   16 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

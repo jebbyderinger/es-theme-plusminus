@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Visual Pinball</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Visual Pinball Community</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PINBALL</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Platform: Windows | Engine: Visual Pinball X (VPX) | Renderer: DirectX | Physics: Realistic ball simulation | Media: Digital Tables | Input: Keyboard, Controller, Cabinet Controls | Resolution: Up to 4K Progressive</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Visual Pinball is a freeware pinball simulation and table creation platform first released in 2000 that recreates the gameplay, physics, and appearance of real pinball machines. Originally developed by Randy Davis and expanded over the years by a large open-source community, it has become the leading platform for virtual pinball enthusiasts. Rather than shipping with a commercial game library, Visual Pinball allows users to download thousands of community-created tables ranging from faithful recreations of classic Williams, Bally, Stern, Gottlieb, Data East, Sega, and Capcom machines to completely original designs. The software combines the Visual Pinball editor with the VPinMAME emulator, allowing compatible tables to accurately reproduce the original ROM code, sound, lighting, scoring, and gameplay of many real machines. Modern versions such as Visual Pinball X (VPX) feature advanced lighting, high-resolution textures, improved physics, dynamic shadows, VR support, surround sound feedback, and compatibility with full-size virtual pinball cabinets equipped with multiple displays, solenoids, LEDs, and force feedback devices. The active community continually develops new tables, graphical enhancements, physics improvements, and cabinet tools, making Visual Pinball one of the most accurate digital pinball simulations available. Today it serves as both a preservation platform for classic pinball history and a creative toolkit for designing entirely new tables, remaining the standard software used by hobbyists building virtual pinball cabinets around the world.</text>
+		</text>
+	</view>
+</theme>

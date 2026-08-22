@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£199</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£450</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 12,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>SAM Coupé</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Miles Gordon Technology</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80B @ 6 MHz | Memory: 256 KB RAM | Media: 3.5" Floppy Disk / Cartridge / Tape | Graphics: Custom ASIC | Sound: Philips SAA1099 PSG | Resolution: Up to 512×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The SAM Coupé was a British home computer released in 1989 by Miles Gordon Technology as an advanced successor to the Sinclair ZX Spectrum. Designed for compatibility with existing Spectrum software while offering significantly improved hardware, the SAM Coupé featured a faster Z80B processor, enhanced graphics modes, more memory, hardware scrolling, and improved sound capabilities. The system included a custom ASIC providing video functions, memory management, and additional hardware features, while its Philips SAA1099 sound chip delivered stereo audio. Available with built-in support for 3.5-inch floppy disks, the SAM Coupé was intended to compete with newer 16-bit systems while maintaining the large Spectrum user base. Although technically impressive, its late release and competition from Amiga, Atari ST, and PC-compatible computers limited commercial success. Despite its short production run, the SAM Coupé developed a dedicated following and remains one of the most notable unofficial successors to the ZX Spectrum.</text>
+		</text>
+
+	</view>
+</theme>

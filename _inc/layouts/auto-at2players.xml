@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1970s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>2 Players</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>MULTI</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Curated Genre Collection | Players: 2 | Scope: All Installed Platforms | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The 2 Players collection gathers every title across your Batocera systems that supports two-player gameplay, whether cooperative or competitive. This spans decades of multiplayer classics, from arcade brawlers and fighting games to co-op platformers and split-screen shooters, letting friends and family jump straight into games built for two. The list is compiled automatically based on metadata tagging each game's supported player count, giving quick access to local multiplayer titles without searching through every individual system.</text>
+		</text>
+	</view>
+</theme>

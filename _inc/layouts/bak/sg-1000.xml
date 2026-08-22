@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥15000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥20000</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1.4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>SG-1000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SEGA</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80 @ 3.58 MHz   |   Memory:  1 kbit RAM  |  Sound:   Texas Instruments SN76489 - 4 Channels (3 square wave, 1 noise)   |   Media:  ROM Cartridge  |   Video:  256 × 192p   |   16 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

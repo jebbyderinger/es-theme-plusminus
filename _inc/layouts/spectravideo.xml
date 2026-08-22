@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$599</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,800</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Various Models</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1988</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Spectravideo</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>SpectraVideo International</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 16 KB–64 KB RAM | Media: Cassette Tape / Cartridge / Floppy Disk | Graphics: Texas Instruments TMS9918A | Sound: General Instrument AY-3-8910 PSG | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Spectravideo was a series of home computers released during the early 1980s by SpectraVideo International. The company's systems were among the first computers to combine home computing features with strong gaming capabilities, using the Z80 processor and MSX-compatible hardware in later models. Spectravideo computers supported programming, education, and entertainment, with software available through cartridges, cassette tapes, and disk drives. The company's SV-318 and SV-328 models helped influence the development of the MSX computer standard.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$300</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$732</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>75 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>SuperGrafx</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   HuC6280A @ 7.16 MHz  |  Memory:  32 kbit RAM   |   Sound:  6 PSG Audio Channels  |   Media:  HuCard   |   Video:  256 × 239p / 565 × 242p   |   512 color palette   |   482 on-screen   |   </text>
+</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$129.95</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$664</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>>50 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MP-1000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>APF Electronics Inc.</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2nd</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   Motorola 6800 (8 bit) @ 0.895 MHz   |   Memory:  1 KB RAM   |   Sound:   One sound channel in 5 octaves   |   Media:  Rom Cartridge   |   Resolution:  	256 x 192   |   Palette : 8 colours   |   </text>
+		</text>
+	</view>
+</theme>

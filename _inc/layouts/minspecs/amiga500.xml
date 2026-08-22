@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$699</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1471</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>> 4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amiga 500</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>16bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+   			<text>CPU:  Motorola 680x0 @ 7 MHz   |  Memory:  256+ KB RAM   |   Sound:  8-bit PCM - 4 Channels  |   Media:  Floppy Disk, CD-ROM   |   Video:  320 × 200 - 1280 x 400i   |   4096 / 16.7M color palette   |   32 / 256 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

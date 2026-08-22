@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Daphne</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Daphne Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Laserdisc Emulator</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Supports: Laserdisc Arcade Games | Media: MPEG-2 Video + ROMs | Video: Original Laserdisc Footage | Emulates Dragon's Lair, Space Ace, Cobra Command and other laserdisc titles |</text>
+		</text>
+	</view>
+</theme>

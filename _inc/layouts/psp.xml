@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$420</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>76 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2014</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation Portable</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MIPS R4000 @ 333 MHz | Memory: 32 MB RAM | Media: UMD / Memory Stick | Graphics: Custom PSP GPU | Sound: Stereo audio | Resolution: 480×272p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation Portable was released in 2004 as Sony's first handheld gaming system. It featured a large widescreen display, optical UMD media, and multimedia functions including video and music playback. The PSP received many PlayStation franchises including God of War, Gran Turismo, Metal Gear Solid, Final Fantasy, and Monster Hunter. It also supported digital downloads, wireless multiplayer, and later revisions such as the PSP Slim & Lite and PSP Go. The system competed directly with Nintendo's DS and became one of the most successful non-Nintendo handheld consoles.</text>
+		</text>
+	</view>
+</theme>

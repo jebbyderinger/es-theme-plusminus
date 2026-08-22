@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$179.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$370</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>770,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Virtual Boy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC V810 @ 20 MHz | Memory: 22 KB RAM | Media: Cartridge | Graphics: Dual LED Displays | Sound: Stereo PWM Audio | Resolution: 384×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Virtual Boy was released in 1995 as Nintendo's attempt at a stereoscopic 3D gaming system. It used a headset-style display with two LED screens to create a depth effect while displaying games in red and black graphics. The system library included titles such as Mario Tennis, Wario Land, Red Alarm, Teleroboxer, and Virtual Boy Wario Land. Due to its limited software lineup, unusual design, and short availability, the Virtual Boy was discontinued after less than a year in many markets.</text>
+		</text>
+	</view>
+</theme>

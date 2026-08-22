@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<image name="background" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0 0.5</pos>
+			<minSize>1 1</minSize>
+			<color>141414</color>
+			<path>./../../_inc/images/space.png</path>
+			<visible>false</visible>
+			<zIndex>90</zIndex>
+		</image>
+		<video name="videobox" extra="true">
+			<path>{random}</path>
+			<path>./../../../_inc/videos/${system.theme}.mp4</path>
+			<delay>0</delay>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
+			<zIndex>25</zIndex>
+		</video>
+		<text name="TextPrice" extra="true">
+			<text>$400    |    ($1214 with inflation)    |    9 million sold</text>
+			<pos>0.955 0.935</pos>
+			<origin>1 0.5</origin>
+			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<color>C1C2C7</color>
+			<fontSize>0.026</fontSize>
+			<zIndex>140</zIndex>
+			<alignment>right</alignment>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="0" duration="3000" mode="easeOut"/>
+			</storyboard>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983-1993</text>
+			<pos>0.805 0.86</pos>
+			<size>0.30 0.04</size>
+			<origin>0.5 0.5</origin>
+			<alignment>right</alignment>
+			<fontPath>./../../../_inc/fonts/white_on_black.ttf</fontPath>
+			<color>FFFFFF</color>
+			<zIndex>140</zIndex>
+			<fontSize>0.06</fontSize>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="0" duration="3000" mode="easeOut"/>
+			</storyboard>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Ascii Corporation    |</text>
+			<pos>0.625 0.86</pos>
+			<origin>1 0.5</origin>
+			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<color>FFFFFF</color>
+			<fontSize>0.04</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>140</zIndex>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="0" duration="3000" mode="easeOut"/>
+			</storyboard>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>
+CPU:  Zilog Z80 at 3.5 MHz   |  Memory:  8-64 kbit RAM
+Sound:   AY-3-8910 3-channels  |   Media:  ROM Cart / Floppy Disk / Tape
+Video:  256x192   |   15 colour palette | 15 on-screen
+</text>
+			<origin>1 0.5</origin>
+			<size>0.65 0</size>
+			<pos>0.67 0.865</pos>
+			<color>FFFFFF</color>
+			<alignment>right</alignment>
+			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.026</fontSize>
+			<lineSpacing>1</lineSpacing>
+			<zIndex>140</zIndex>
+			<visible>false</visible>
+		</text>
+	</view>
+</theme>

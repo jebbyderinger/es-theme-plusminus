@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$79</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$250</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Adventure Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Entex Industries</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8048 | Memory: 64 bytes RAM | Media: Cartridge | Graphics: LED mirror projection display | Sound: Internal speaker | Resolution: 150×40 LED display</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Adventure Vision was released in 1982 by Entex Industries as a tabletop video game system. Instead of using a traditional television display, it used a rotating mirror system to project images from an internal LED display onto a vertical screen. Only four games were released for the system: Defender, Super Cobra, Turtles, and Space Force. The console included built-in controls and used interchangeable cartridges. Released during the early 1980s video game market expansion, the Adventure Vision competed with other dedicated game systems but had a limited library and short production run. Its unusual display technology made it different from other consoles of the period, and it is remembered as one of the more uncommon systems from the second generation of video game hardware.</text>
+		</text>
+	</view>
+</theme>

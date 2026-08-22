@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2007</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>CorsixTH</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>CorsixTH Team / Based on Bullfrog Productions</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Open-Source Theme Hospital Engine Recreation | Original Hardware: IBM PC Compatible | Media: Original Theme Hospital Data Files | Graphics: 2D Isometric Graphics | Sound: Digital Audio / MIDI | Resolution: 640×480p Original with Modern High-Resolution and Widescreen Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>CorsixTH is an open-source recreation of Bullfrog Productions' 1997 management simulation game Theme Hospital. Instead of emulating the original executable, it reimplements the game's engine while using the original game data, allowing Theme Hospital to run natively on modern operating systems. CorsixTH faithfully recreates the original campaign, humorous illnesses, hospital management, and gameplay while adding numerous improvements including higher display resolutions, widescreen support, user interface scaling, bug fixes, customizable controls, autosaves, enhanced modding capabilities, and support for custom campaigns. It has become the preferred way to experience Theme Hospital on modern hardware while preserving the mechanics and style of one of the most influential management simulation games ever created.:contentReference[oaicite:0]{index=0}</text>
+		</text>
+
+	</view>
+</theme>

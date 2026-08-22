@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>RealRTCW</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>WolfETPlayer / Based on id Software & Gray Matter Studios</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced id Tech 3 Source Port | Original Hardware: IBM PC Compatible | Media: Original Return to Castle Wolfenstein Game Data | Graphics: OpenGL Hardware Rendering | Sound: Digital Audio | Resolution: 640×480p Original with Modern High-Resolution and Widescreen Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>RealRTCW is an enhanced source port of Return to Castle Wolfenstein that modernizes the original game while remaining compatible with its official data files. It preserves the original single-player campaign while introducing improved visuals, updated enemy behavior, gameplay refinements, bug fixes, modern display support, and quality-of-life features. Designed to stay faithful to the original experience, RealRTCW provides a convenient way to enjoy one of the most influential first-person shooters of the early 2000s on modern hardware.</text>
+		</text>
+
+	</view>
+</theme>

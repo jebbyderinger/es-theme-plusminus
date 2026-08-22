@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextSold" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+			<visible>false</visible>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202X</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Aesthetic</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various Developers</text>
+			<visible>false</visible>
+		</text>
+		<text name="TextDesc" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="plays" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="playtime" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="lastplays" extra="true">
+			<visible>false</visible>
+		</text>
+		<image name="logo" extra="true">
+			<path>./../../_inc/logos/${system.name}.png</path>
+			<path>./../../_inc/logos/${system.name}-${lang}.png</path>
+			<pos>0.75 0.9</pos>
+			<maxSize>0.264 0.126</maxSize>
+			<maxSize if="{system.name} == 'nes'">0.264 0.106</maxSize>
+			<maxSize if="{system.name} == 'c64'">0.31 0.136</maxSize>
+			<maxSize if="{system.name} == 'n64'">0.29 0.126</maxSize>
+			<maxSize if="{system.name} == 'msx1'">0.28 0.136</maxSize>
+			<maxSize if="{system.name} == 'msx2'">0.28 0.136</maxSize>
+			<maxSize if="{system.name} == 'megadrive'">0.28 0.136</maxSize>
+			<maxSize if="{system.name} == 'neogeocd'">0.31 0.136</maxSize>
+			<maxSize if="{system.name} == 'saturn'">0.29 0.136</maxSize>
+			<maxSize if="{system.name} == 'gamecube'">0.28 0.136</maxSize>
+			<origin>0.5 0.5</origin>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+			<storyboard repeatAt="100">
+				<animation property="scale" from="1" to="1.07" begin="100" duration="1600" mode="easeIn"/>
+				<animation property="scale" from="1.07" to="1" begin="1600" duration="1600" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.6" begin="100" duration="1600" mode="easeIn"/>
+				<animation property="opacity" from="0.6" to="1" begin="1600" duration="1600" mode="easeOut"/>
+			</storyboard>
+		</image>
+	</view>
+</theme>

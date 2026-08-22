@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£120</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£600</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Acorn Atom</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502 @ 1 MHz | Memory: 2 KB RAM | Media: Cassette / Expansion | Graphics: Acorn video hardware | Sound: Internal speaker | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Acorn Atom was released in 1980 as an early home computer developed by Acorn Computers. It was designed as a lower-cost alternative to professional computing systems and introduced many users to programming through its built-in Atom BASIC language. The system was sold as both a kit and assembled computer and was used primarily for education, programming, and hobby computing. The Atom later influenced Acorn's development of the BBC Micro, which became widely used in British schools. Its software library included educational programs, utilities, and simple games. Although it was not a major commercial success compared with systems such as the ZX Spectrum and Commodore 64, the Atom played an important role in the early history of Acorn and British home computing.</text>
+		</text>
+	</view>
+</theme>

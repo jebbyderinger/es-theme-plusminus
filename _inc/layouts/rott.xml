@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2010</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Rise of the Triad</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Taradino Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Rise of the Triad Source Port | Original Engine: Build/Raven Software Technology | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 2.5D Ray Casting Engine | Sound: AdLib / Sound Blaster Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Taradino's Rise of the Triad is an open-source source port designed to run the classic 1995 first-person shooter Rise of the Triad on modern systems. It preserves the original gameplay while improving compatibility and adding modern features. Rise of the Triad was developed by Apogee Software and the original Wolfenstein 3D team, featuring fast movement, large enemy encounters, explosive weapons, and unique abilities such as flying through levels and using different power-ups. The game became known for its over-the-top action and advanced engine features for its time.</text>
+		</text>
+
+	</view>
+</theme>

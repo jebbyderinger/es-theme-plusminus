@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥369,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$4,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>200 Thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sharp X68000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 10 MHz | Memory: 1 MB+ RAM | Media: Floppy Disk / Hard Drive | Graphics: Custom Sharp Graphics Hardware | Sound: Yamaha FM + ADPCM | Resolution: 256×256p / 512×512p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp X68000 was a Japanese home computer released in 1987. It was designed with powerful graphics and sound capabilities and became known for high-quality arcade conversions. The system used a Motorola 68000 processor and featured hardware that closely matched arcade machines of the period. Notable games included Castlevania: Chi no Rondo, Street Fighter II, Final Fight, and Gradius II. The X68000 developed a dedicated following due to its technical capabilities and software library.</text>
+		</text>
+	</view>
+</theme>

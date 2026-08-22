@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$599</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,200</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>VIS (Video Information System)</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Toshiba / Fujitsu</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 16 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Custom Video Hardware | Sound: Digital Audio | Resolution: 640×480i</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The VIS (Video Information System) was a multimedia entertainment platform released in the early 1990s by Toshiba and Fujitsu. Designed as a CD-based home multimedia system, it combined computer technology with interactive entertainment, educational software, and video applications. The platform used CD-ROM media and was intended to bring interactive content into the home, but limited software support and competition from emerging multimedia systems prevented it from becoming successful. Today, VIS is remembered as an early example of the multimedia systems that appeared before widespread home PCs and internet access.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1500</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Astrocade</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Bally</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80 @ 1.789 MHz   |   Memory:  8 KB RAM  |  Sound:  4 channels / 3 square wave, 1 noise   |   Media:  ROM Cart  |   Video:  160 × 102p   |   256 colour palette   |   4 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

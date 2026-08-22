@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2014</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>CatacombGL</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>CatacombGL Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: OpenGL Source Port | Original Engine: Catacomb 3-D / Wolfenstein 3D Engine Family | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 2.5D Ray Casting Engine | Sound: AdLib / PC Speaker Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>CatacombGL is an open-source modernization of the Catacomb 3-D engine, bringing the early first-person action game to modern systems through OpenGL rendering. Originally released by id Software in 1991, Catacomb 3-D was one of the early examples of a first-person perspective shooter and helped establish techniques later used in Wolfenstein 3D and Doom. CatacombGL preserves the original gameplay while adding improved graphics, widescreen support, higher resolutions, and modern compatibility features.</text>
+		</text>
+
+	</view>
+</theme>

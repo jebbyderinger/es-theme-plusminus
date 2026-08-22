@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥14,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥35,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Casio PV-1000</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Casio</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 1 KB RAM | Media: ROM Cartridges | Graphics: Custom Video Hardware | Sound: 1-Channel PSG Audio | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Casio PV-1000 was a Japanese home video game console released in 1983 by Casio. Designed during the second generation of video game systems, it used cartridge-based games and competed with consoles such as the Sega SG-1000 and Nintendo Family Computer. The system featured simple arcade-style games with colorful graphics but had a short commercial life due to strong competition and a limited software library. Only a small number of games were released, making the PV-1000 a rare and collectible console today.</text>
+		</text>
+
+	</view>
+</theme>

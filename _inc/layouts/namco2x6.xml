@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2001</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2009</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Namco System 246 / 256</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Namco</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sony Emotion Engine @ 294 MHz | Memory: 32 MB RDRAM | Media: DVD-ROM | Graphics: PlayStation 2 Graphics Synthesizer | Sound: PlayStation 2 Audio Hardware | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2001, the Namco System 246 and its successor, the System 256, were arcade platforms based on Sony's PlayStation 2 hardware. Using DVD-ROM media, they offered developers a familiar architecture while supporting larger games than earlier cartridge-based systems. Together they powered many of Namco's most popular arcade releases, including Tekken 4, Tekken 5, Soulcalibur II, Soulcalibur III Arcade Edition, Time Crisis 3, Vampire Night, and Kinnikuman Muscle Grand Prix. The platforms remained in use until Namco transitioned to more powerful PC-based arcade hardware.</text>
+		</text>
+
+	</view>
+</theme>

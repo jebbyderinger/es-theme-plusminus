@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥57,300</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥100,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Limited</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PC Engine CD-ROM²</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC / Hudson Soft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: HuC6280 @ 7.16 MHz | Memory: 64 KB RAM + CD buffer | Media: CD-ROM | Graphics: HuC6260 VDC | Sound: CD audio + PSG | Resolution: 256×224p / 512×224i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PC Engine CD-ROM² was released in 1988 as an expansion for the PC Engine and was one of the earliest CD-based gaming platforms. It allowed developers to use larger storage capacity for enhanced music, voice acting, animated sequences, and expanded game content. The system library included notable titles such as Castlevania: Rondo of Blood, Ys Book I & II, Snatcher, and many visual novels and role-playing games. Multiple hardware revisions were released, including the Super CD-ROM² format, which improved compatibility and memory capabilities. The PC Engine CD platform became especially popular in Japan and helped establish CD-based gaming as an important direction for future consoles.</text>
+		</text>
+	</view>
+</theme>

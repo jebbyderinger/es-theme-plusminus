@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£99.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£290</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>14 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>GX 4000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Amstrad</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  8/16-bit Zilog Z80A @ 4 MHz   |   Memory:  64 kbit RAM   |   Sound:  AY-3-8912 3-channel stereo   |   Media:  ROM Cartrdige   |   Video: 160 x 200p , 320 x 200p, 640 x 200p   |   4096 color palette   |   32 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

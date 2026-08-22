@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$179.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$440</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Lynx</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>   CPU:  VLSI 8-bit VL65NC02 @ 4 MHz   |  Memory:  64 KB RAM   |   Sound:  4 channels, 8-bit DAC or PSG sound  |   Media:  Rom Cart   |   Video:  160 × 102p   |   4096 color palette   |   16 on-screen   </text>
+		</text>
+	</view>
+</theme>

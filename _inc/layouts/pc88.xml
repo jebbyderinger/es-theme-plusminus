@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥223,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,500+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>900,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>NEC PC-8801</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 4 MHz | Memory: 64 KB+ RAM | Media: Cassette / Floppy Disk | Graphics: NEC Video Hardware | Sound: FM Synth Expansion | Resolution: 640×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The NEC PC-8801 was a Japanese home computer released in 1981 and became one of the most popular systems in Japan during the 1980s. It was widely used for programming, business software, and games. The platform developed a large library of adventure games, role-playing games, and visual novels. Many Japanese developers created early versions of famous series for the PC-88 before moving to newer hardware. The system remained important in Japan's computer gaming history.</text>
+		</text>
+	</view>
+</theme>

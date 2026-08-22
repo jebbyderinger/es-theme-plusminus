@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2021</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Tomb Raider</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>TR1X Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Tomb Raider Engine Recreation | Original Hardware: PlayStation / Sega Saturn / MS-DOS | Media: Original Game Data | Graphics: 3D Polygon Engine | Sound: Digital Audio | Resolution: Up to 1920×1080p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>TR1X is an open-source engine recreation of the original Tomb Raider released in 1996 by Core Design. It modernizes the classic adventure game while preserving the original gameplay, levels, puzzles, and atmosphere. The project improves compatibility with modern systems and adds features such as higher resolutions, widescreen support, enhanced controls, improved rendering, and bug fixes. Tomb Raider introduced players to Lara Croft and became one of the defining 3D action-adventure games of the 1990s, combining exploration, platforming, combat, and puzzle solving.</text>
+		</text>
+
+	</view>
+</theme>

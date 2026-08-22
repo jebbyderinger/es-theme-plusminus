@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>398 DM</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>€570</text>
+		</text>
+		<text name="TextSold" extra="true">
+    		<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Video Computer 4000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Interton</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Signetics 2650A @ 0.887 MHz | Memory: 37 bytes RAM | Sound: 1 Channel Audio + 3 Noise Effects | Media: ROM Cartridge | Video: 128 × 200 | 8 color palette | 4 hardware sprites</text>
+	</text>
+	</view>
+</theme>

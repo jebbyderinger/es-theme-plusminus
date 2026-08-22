@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥13,500</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥32,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>400,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Cassette Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Epoch</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Custom Epoch Processor | Memory: Limited System RAM | Media: Cartridge | Graphics: Custom Video Hardware | Sound: Internal Speaker | Resolution: 54×62 Blocks</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Cassette Vision was released in Japan in 1981 and became one of the first successful Japanese home video game consoles. Despite its name, it used interchangeable cartridges rather than cassette tapes. The system featured simple built-in controls and games focused on arcade-style gameplay. Titles included Astro Command, Battle Vader, and Big Sports 12. The Cassette Vision helped establish Epoch as a major Japanese game hardware company before the arrival of Nintendo's Famicom.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Freeware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>M.U.G.E.N</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Elecbyte</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: M.U.G.E.N Fighting Engine | Original Hardware: IBM PC Compatible | Media: Custom Content Files | Graphics: 2D Sprite-Based Fighting Engine | Sound: Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>M.U.G.E.N is a customizable 2D fighting game engine created by Elecbyte and first released in 1999. Unlike traditional fighting games, M.U.G.E.N allowed users to create and add their own characters, stages, sound effects, music, and gameplay systems. The engine became popular for fan-made fighting games featuring original creations as well as characters from existing franchises such as Street Fighter, The King of Fighters, Mortal Kombat, and anime series. Its flexible scripting system and open content structure made it one of the most influential fan game engines of the early 2000s.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Hydra Castle Labyrinth</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Hydra Castle Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ENGINE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Open Source Zelda II-Inspired Action RPG Engine | Original Platform: Nintendo Entertainment System Style | Graphics: 2D Pixel Art | Sound: Chiptune Audio | Resolution: 256×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Hydra Castle Labyrinth is an open-source action-adventure game inspired by classic 8-bit and 16-bit era exploration games. Developed as a fan-made project, it combines side-scrolling exploration, dungeon navigation, puzzle solving, and action-based combat in a style influenced by titles such as Zelda II: The Adventure of Link and other retro action RPGs. The game features a large interconnected world, multiple areas to explore, enemies to battle, secrets to discover, and character progression elements. Designed with a retro pixel-art aesthetic and classic console-style presentation, Hydra Castle Labyrinth recreates the feeling of early adventure games while adding modern conveniences and expanded content. The project is notable for preserving the spirit of classic Japanese action-adventure design while remaining freely available and accessible on modern platforms.</text>
+		</text>
+
+	</view>
+</theme>

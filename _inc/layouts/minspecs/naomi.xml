@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextSold" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2012</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Naomi</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Hitachi SH-4 32-bit RISC @ 200 MHz   |   Memory:  32 MB RAM   |   Sound:  Yamaha AICA 32-bit ARM7 CPU - 64 channels  |   Media:  ROM Cart/GD-ROM   |   Video:  320 x 240p - 800 x 608p   |   16.7M colour palette   |   </text>
+		</text>
+		<text name="plays" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="playtime" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="lastplays" extra="true">
+			<visible>false</visible>
+		</text>
+	</view>
+</theme>

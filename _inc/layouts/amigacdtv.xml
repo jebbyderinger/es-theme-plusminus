@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$999</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,300</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>30,000+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1991</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Commodore CDTV</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 7.16 MHz | Memory: 1 MB RAM | Media: CD-ROM | Graphics: Amiga ECS Chipset | Sound: Paula 4-Channel Stereo Audio | Resolution: Up to 640×400p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore CDTV was a multimedia entertainment system released in 1991 by Commodore. Based on Amiga technology, it combined a CD-ROM drive with a modified Amiga computer architecture and was designed as a home multimedia device rather than a traditional computer. The system supported interactive encyclopedias, music CDs, educational software, and games. Although technically advanced for its time, the CDTV struggled due to limited software support and competition from newer multimedia systems, but it remains an important early example of a CD-based home entertainment platform.</text>
+		</text>
+
+	</view>
+</theme>

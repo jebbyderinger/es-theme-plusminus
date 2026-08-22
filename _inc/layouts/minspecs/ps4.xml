@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$550</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>>117 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2013</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2024</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Playstation 4</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  AMD Jaguar, 8-core @ 1.6 GHz (2.13 GHz on PS4 Pro)   |   Memory:  8 GB GDDR5 RAM / 256 MB DDR3 RAM (1 GB DDR3 RAM (Pro))   |   Sound:  Linear PCM / Dolby Digital / DTS   |   Graphics:  AMD GCN with 18 CUs @ 800 MHz (1.84 TFLOPS) Pro: AMD GCN with 36 CUs @ 911 MHz (4.2 TFLOPS)   |   Media:  Blu-ray (50GB), DVD (8.5GB)  |   Resolution:  480p, 720p, 1080i, 1080p, 4k (pro)</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Moving away from the more complex Cell microarchitecture of its predecessor, the console features an APU from AMD built upon the x86-64 architecture, which can theoretically peak at 1.84 teraflops; AMD stated that it was the "most powerful" APU it had developed to date. The PlayStation 4 places an increased emphasis on social interaction and integration with other devices and services, including the ability to play games off-console on PlayStation Vita and other supported devices ("Remote Play"), the ability to stream gameplay online or to friends, with them controlling gameplay remotely ("Share Play"). The console's controller was also redesigned and improved over the PlayStation 3, with updated buttons and analog sticks, and an integrated touchpad among other changes. The console also supports HDR10 high-dynamic-range video and playback of 4K resolution multimedia.</text>
+		</text>
+	</view>
+</theme>

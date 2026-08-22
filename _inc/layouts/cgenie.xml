@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£200</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£916</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Educational Computer</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Enterprise EG2000</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Enterprise Computers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 64 KB RAM (Expandable) | Media: Cartridge / Cassette | Graphics: Nick Video Chip | Sound: AY-3-8910 PSG | Resolution: 672×512p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Enterprise EG2000 was a British home computer released in 1985 after being designed as a powerful Z80-based system for gaming, programming, and education. It featured custom graphics and sound hardware that were advanced for its time, along with expandable memory and cartridge support. Although it faced strong competition from other 8-bit computers, the Enterprise developed a dedicated community and became known for its impressive technical capabilities.</text>
+		</text>
+
+	</view>
+</theme>

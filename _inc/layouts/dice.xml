@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>DICE</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>DICE Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Digital Interactive CE Emulator | Original Hardware: Classic Arcade Systems | Media: ROM Images | Graphics: 2D Arcade Graphics | Sound: Original Arcade Audio Hardware Emulation | Resolution: Varies by System</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>DICE is an open-source arcade emulator focused on preserving early arcade games and experimental hardware. Unlike general-purpose arcade emulators, it recreates individual arcade systems at a lower hardware level, allowing historically important machines to be studied and preserved. The project supports a limited selection of classic arcade titles and focuses on accuracy, documentation, and preservation of early video game technology.</text>
+		</text>
+
+	</view>
+</theme>

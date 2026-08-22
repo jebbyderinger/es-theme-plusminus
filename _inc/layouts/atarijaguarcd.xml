@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$149</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$310</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>11,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari Jaguar CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 13.295 MHz + custom RISC processors | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Object Processor / Blitter | Sound: DSP audio processor | Resolution: 320×240p / 320×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Atari Jaguar CD was released in 1995 as a CD-ROM expansion for the Atari Jaguar console. It added optical media support, allowing developers to create larger games with additional music, video, and expanded content. The add-on connected beneath the Jaguar console and was compatible with both standard Jaguar cartridges and CD-based software. Its library included games such as Blue Lightning, Battlemorph, Myst, Primal Rage, and Iron Soldier 2. Due to the limited sales of the Jaguar hardware, the Jaguar CD received only a small number of releases before Atari ended support for the platform. The system is remembered as one of the final pieces of Atari's console hardware history and as an example of the company's transition away from dedicated hardware manufacturing.</text>
+		</text>
+	</view>
+</theme>

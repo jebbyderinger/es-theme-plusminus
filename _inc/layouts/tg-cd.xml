@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$800</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TurboGrafx-CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC / Hudson Soft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: HuC6280 @ 7.16 MHz | Memory: 64 KB RAM | Media: CD-ROM | Graphics: HuC6260 VDC | Sound: CD Audio + PSG | Resolution: 256×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The TurboGrafx-CD was a CD-ROM expansion for the TurboGrafx-16 and PC Engine released in 1988. It allowed games to use larger amounts of data, Red Book CD audio, voice acting, and animated sequences. The system library included titles such as Ys Book I & II, Lords of Thunder, Dracula X: Rondo of Blood, and Gate of Thunder. The expansion helped demonstrate the potential of CD-based games before the format became standard in later console generations.</text>
+		</text>
+	</view>
+</theme>

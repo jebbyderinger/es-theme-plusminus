@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ScummVM</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>ScummVM Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>MODERN</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Game Interpreter Emulator | Media: Digital Files | Graphics: Original Game Assets | Sound: Original Game Audio | Resolution: Varies by Game</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>ScummVM is an open-source software engine designed to run classic graphical adventure games on modern systems. Originally created to support LucasArts SCUMM games, it expanded to support many different adventure game engines from the 1980s and 1990s. Supported titles include Monkey Island, Day of the Tentacle, Sam & Max Hit the Road, King's Quest, Broken Sword, Myst, and many other point-and-click adventure games. Rather than emulating original hardware, ScummVM recreates the software environments needed to run these games while adding improvements such as enhanced audio support, widescreen options, and modern compatibility.</text>
+		</text>
+	</view>
+</theme>

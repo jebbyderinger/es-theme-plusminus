@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Triforce</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Nintendo / Namco / Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: IBM PowerPC Gekko @ 485 MHz | Memory: 51 MB RAM | Media: GOD / Arcade Storage | Graphics: ATI Flipper GPU | Sound: 16-bit Digital Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Triforce was an arcade system developed through a partnership between Nintendo, Namco, and Sega. Released in 2002, it was based on Nintendo GameCube hardware and designed to bring console technology into arcade environments. The platform powered games including F-Zero AX, Mario Kart Arcade GP, Virtua Striker 2002, and Gekitou Pro Yakyuu. Triforce shared many technologies with the GameCube, making it one of the most capable arcade systems of its generation.</text>
+		</text>
+
+	</view>
+</theme>

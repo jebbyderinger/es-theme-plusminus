@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$149.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$242</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>154.02 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2016</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>DS</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7th</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  ARM946E-S @ 67mhz + ARM7TDMI @ 33mhz  |   Memory:  4 MB RAM   |   Sound:  16 PCM Channels   |   Media:  ROM Cartridge   |   Video:  256 × 192p   |   </text>
+		</text>
+	</view>
+</theme>

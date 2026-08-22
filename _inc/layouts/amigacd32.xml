@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$850</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>100,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amiga CD32</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68020 @ 14.18 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: AGA chipset | Sound: Paula audio chipset | Resolution: 320×200p / 640×400i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Amiga CD32 was released in 1993 as Commodore's first dedicated home video game console. It was based on Amiga 1200 technology and used CD-ROM media instead of floppy disks. The system was designed to bring the Amiga software library to a console audience and included a game controller with additional buttons for CD-based titles. Its library included ports of Amiga games such as Zool, Cannon Fodder, Sensible Soccer, Alien Breed, and The Chaos Engine, along with multimedia applications and enhanced CD releases. The CD32 faced competition from systems including the Sega CD, Sega Saturn, and Sony PlayStation. Commodore's financial problems limited production, and the company entered bankruptcy in 1994, ending the console's short commercial life. The Amiga CD32 is remembered as one of the earliest CD-based console systems and the final official Amiga hardware released by Commodore.</text>
+		</text>
+	</view>
+</theme>

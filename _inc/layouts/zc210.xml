@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Freeware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Zelda Classic 2.10</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Armageddon Games / Zelda Classic Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ENGINE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Zelda Classic Engine | Original Hardware: PC Compatible | Media: Quest Files (.qst) | Graphics: 2D Tile-Based Sprite Engine | Sound: MIDI / Digital Audio | Resolution: 256×224p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Zelda Classic 2.10 is a fan-created game engine designed to recreate the style and gameplay of the original The Legend of Zelda while allowing users to create and play custom adventures. Originally released in the late 1990s, Zelda Classic expanded beyond a simple recreation by adding tools for custom quests, new items, enemies, maps, and gameplay features. The engine became popular among Zelda fans for its large collection of community-created adventures and helped establish a long-running fan game development scene. The zc210 engine entry runs Zelda Classic quest files using the original 2.10 engine and its associated tools.</text>
+		</text>
+
+	</view>
+</theme>

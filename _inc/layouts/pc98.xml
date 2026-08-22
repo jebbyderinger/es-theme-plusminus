@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥298,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>3.8 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2000s</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>NEC PC-98</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8086 / V30 / 386 variants | Memory: 128 KB+ RAM | Media: Floppy Disk / Hard Drive | Graphics: NEC display hardware | Sound: FM Synth Expansion | Resolution: 640×400p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The NEC PC-98 series was a family of Japanese personal computers introduced in 1982. The platform dominated the Japanese computer market and developed a large software library including business applications, visual novels, strategy games, and role-playing games. Its unique hardware architecture and graphics standards resulted in many titles being developed specifically for the system. The PC-98 remained popular through the 1990s before being replaced by IBM-compatible PCs.</text>
+		</text>
+	</view>
+</theme>

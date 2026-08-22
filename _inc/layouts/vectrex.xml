@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$199</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$650</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>500,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Vectrex</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>General Consumer Electronics</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68A09 @ 1.5 MHz | Memory: 1 KB RAM | Media: Cartridge | Graphics: Vector Display | Sound: AY-3-8912 PSG | Resolution: 330×410 Vector Display</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Vectrex was released in 1982 as a unique home console featuring a built-in vector monitor. Unlike traditional raster-based systems, it displayed graphics using glowing lines similar to arcade vector machines. The system included a built-in version of Mine Storm and supported cartridge-based games with optional overlays that added color effects. Titles included Star Castle, Armor Attack, and Spike. The Vectrex was discontinued after the video game market crash but remains notable for its unusual display technology.</text>
+		</text>
+	</view>
+</theme>

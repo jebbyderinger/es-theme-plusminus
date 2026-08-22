@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥29,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥95,000 (2026)</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>≈5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX / MSX2 / MSX2+ / Turbo R</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft / ASCII Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz (Turbo R: R800 @ 7.16 MHz) | Memory: 8 KB RAM (MSX), 64 KB+ RAM (MSX2), up to 256 KB+ (Turbo R) | Sound: General Instrument AY-3-8910 PSG, Yamaha FM (MSX-MUSIC), MIDI support | Media: Cartridge, Cassette Tape, Floppy Disk | Video: TMS9918 (256×192), Yamaha V9938/V9958 (MSX2/MSX2+) | Color: 16 colors (MSX), 256 colors (MSX2+) |</text>
+		</text>
+	</view>
+</theme>

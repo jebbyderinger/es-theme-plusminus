@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Arcade System</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega Model 2</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel i960 Processor | Memory: Custom Arcade Hardware | Media: ROM Boards / CD-ROM | Graphics: 3D Texture Mapping Hardware | Sound: Yamaha / Multi-Channel Audio | Resolution: 496×384p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sega Model 2 was an arcade hardware platform released by Sega in 1993 and was one of the company's first major 3D arcade systems. Developed in collaboration with Lockheed Martin, Model 2 introduced advanced texture-mapped polygon graphics and powerful 3D rendering capabilities. It powered landmark arcade games including Daytona USA, Virtua Cop, Sega Rally Championship, and Virtua Fighter 2. The system helped define Sega's dominance in 3D arcade gaming during the mid-1990s and became one of the most influential arcade platforms of its generation.</text>
+		</text>
+
+	</view>
+</theme>

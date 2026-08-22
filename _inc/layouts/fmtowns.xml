@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥338,000</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥550,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 500,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>FM Towns</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Fujitsu</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 80386DX @ 16 MHz (Original Model) | Memory: 2 MB RAM | Media: CD-ROM / 3.5" Floppy Disk / Hard Disk | Graphics: Custom Video Hardware | Sound: Yamaha YM2612 FM + Ricoh RF5C68 PCM | Resolution: Up to 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Fujitsu FM Towns was a Japanese multimedia personal computer family introduced in 1989. Designed around Intel x86 processors and a built-in CD-ROM drive, it was one of the first computers to make optical media a standard feature. The original model featured an Intel 80386DX processor, custom graphics hardware capable of displaying thousands of colors, hardware sprite support, and advanced audio combining Yamaha FM synthesis with PCM sample playback. Running the Towns OS alongside MS-DOS, the system became a premier platform for multimedia software and arcade-quality games. It hosted acclaimed releases such as Zak McKracken, Loom, Indiana Jones and the Fate of Atlantis, Wing Commander, Ultima Underworld, and enhanced versions of many Japanese titles. Fujitsu continued updating the FM Towns with faster processors through the Pentium era before discontinuing the line in 1997. Today it is remembered as one of Japan's most advanced multimedia computers and a landmark platform in the history of CD-ROM gaming.</text>
+		</text>
+
+	</view>
+</theme>

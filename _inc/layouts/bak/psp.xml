@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$416</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>82.52 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2014</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PSP</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  MIPS R4000 @ 333mhz   |   Memory:  32 - 64 MB   |   Sound:  2 PCM Channels   |   Media:  Universal Media Disc (900MB / 1.8GB)   |   Video:  480 × 272p   </text>
+		</text>
+	</view>
+</theme>

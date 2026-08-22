@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Arcade System</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Gaelco</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Gaelco</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Hardware: Gaelco Arcade Systems | CPU: Z80 / 68000 / Custom 3D Hardware | Media: ROM Boards | Graphics: 2D Sprite and 3D Polygon Hardware | Sound: Yamaha / PCM Audio | Resolution: 320×240p / 384×224p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Gaelco was a Spanish arcade game developer and hardware manufacturer founded in Barcelona in 1985. The company produced a variety of arcade systems throughout the 1990s and early 2000s, creating both traditional 2D arcade games and advanced 3D hardware platforms. Gaelco became known internationally for titles such as World Rally, Thunder Hoop, Big Karnak, Radikal Bikers, and Tokyo Cop. The company developed its own arcade hardware including the Gaelco 3D and PowerVR-based systems, allowing it to compete with larger Japanese arcade manufacturers. Gaelco remains an important part of European arcade history.</text>
+		</text>
+
+	</view>
+</theme>

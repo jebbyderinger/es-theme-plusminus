@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$69.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$130</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1.5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Neo Geo Pocket</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Toshiba TLCS900H @ 6.14 MHz | Memory: 12 KB RAM | Media: Cartridge | Graphics: 2D handheld graphics | Sound: PSG audio | Resolution: 256×256p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Neo Geo Pocket was released in 1998 as SNK's first dedicated handheld gaming system. Designed to compete with Nintendo's Game Boy line, the system featured a monochrome display, a unique click-style joystick, and a focus on arcade-style games. Its library included titles based on SNK franchises such as King of Fighters R-1, Samurai Shodown, Metal Slug, and Neo Turf Masters. The system was later replaced by the color Neo Geo Pocket Color, which maintained compatibility with most original games. Although it had a short lifespan, the Neo Geo Pocket established SNK's presence in handheld gaming and developed a dedicated following among arcade fans.</text>
+		</text>
+	</view>
+</theme>

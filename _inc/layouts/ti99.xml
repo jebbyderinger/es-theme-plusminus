@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$1,499.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$5,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2.8 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Texas Instruments TI-99/4A</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Texas Instruments</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: TMS9900 @ 3 MHz | Memory: 16 KB RAM | Media: Cartridge / Cassette | Graphics: TMS9918A Video Chip | Sound: SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Texas Instruments TI-99/4A was released in 1981 as an improved version of the TI-99/4 home computer. It was one of the first home computers to use a 16-bit processor and included built-in BASIC, cartridge support, and expansion options. The system was marketed for education and home use, with software covering programming, productivity, and games. Its hardware design was advanced for its time, although competition and pricing challenges limited its long-term success.</text>
+		</text>
+	</view>
+</theme>

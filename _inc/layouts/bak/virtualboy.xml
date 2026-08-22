@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$179</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$370</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>920 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Virtual Boy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5</text>
+		</text>
+		<text name="TextDesc" extra="true">
+<text>CPU:  NEC V810 @ 20 MHz   |  Memory:  64 KB work PSRAM / 128 KB graphics DRAM / 128 KB VRAM   |   Sound:  Virtual Sound Unit (VSU) - five wavetable synthesis channels and a noise channel  |   Media:  Rom Cartridge   |   Video:  384 × 224p @ 50.27 Hz   |   2-bit, 4 shades palette   |   4 shades on-screen   |   </text>
+</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>US$80</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈US$400 (2026)</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Adventure Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Entex Industries</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8048 @ 11 MHz | Memory: 1 KB RAM | Sound: Built-in Piezo Speaker | Media: ROM Cartridge | Video: 150 × 40 LED Display | 40×150 red LED matrix created by rotating mirror | Portable tabletop console |</text>
+		</text>
+	</view>
+</theme>

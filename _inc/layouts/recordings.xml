@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Built-In Tool</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2016</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Recordings</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Batocera Linux</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>TOOL</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Platform: Batocera Linux | Purpose: Gameplay Capture | Media: Video Files | Formats: WebM / Video Capture Files | Features: Screen Recording, Gameplay Clips, Screenshot Capture | Storage: Userdata Screenshots Directory</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Recordings is a Batocera utility category for captured gameplay footage and screenshots created while using the system. It allows users to save memorable moments, create gameplay previews, and archive footage from emulated systems. Recordings can be created through built-in capture tools or emulator features and are stored for later viewing directly from Batocera. This makes it useful for documenting gameplay, creating media collections, and sharing retro gaming experiences.</text>
+		</text>
+
+	</view>
+</theme>

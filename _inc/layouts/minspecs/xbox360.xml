@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$479.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$748</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>84 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2016</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Xbox 360</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  PowerPC Tri-Core Xenon @ 3.2ghz   |   Memory:  512 MB unified GDDR3 RAM   |   Sound:  Dolby Digital 5.1 / Analog Stereo   |   Graphics:  500 MHz ATI/AMD Xenos   |   Media:  DVD (8.5GB)   |   Video:  640 x 480i to 1920 x 1080p   |   </text>
+		</text>
+	</view>
+</theme>

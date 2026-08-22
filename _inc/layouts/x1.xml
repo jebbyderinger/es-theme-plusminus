@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥165,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$500+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sharp X1</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 4 MHz | Memory: 64 KB+ RAM | Media: Cassette / Floppy Disk | Graphics: Sharp MZ-series Video Hardware | Sound: PSG Expansion | Resolution: 640×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp X1 was a Japanese home computer series released in 1982. It was designed with strong graphics capabilities and became known for its use in games, programming, and multimedia applications. The system used a Z80 processor and featured hardware that allowed detailed graphics compared with many competing home computers of the period. Its software library included arcade-style games, adventure games, and utilities. The X1 line was later replaced by Sharp's X68000 computers.</text>
+		</text>
+	</view>
+</theme>

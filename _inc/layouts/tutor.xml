@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$199.95</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$650</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Tomy Tutor</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tomy</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Texas Instruments TMS9995 @ 10.7 MHz | Memory: 16 KB RAM | Media: ROM Cartridges / Cassette Tape | Graphics: Texas Instruments TMS9918A VDP | Sound: Texas Instruments SN76489 PSG | Resolution: Up to 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Tomy Tutor was a home computer introduced in North America by Tomy in 1983. Based on the Texas Instruments TMS9995 processor, it shared much of its architecture with the Japanese Pyuuta computer and was compatible with many Pyuuta cartridges through an adapter. Designed for education and home use, the Tutor featured a full-travel keyboard, cartridge expansion, cassette storage, and Microsoft Extended BASIC. Its TMS9918A video display processor and SN76489 sound chip were also used in several contemporary computers and consoles, providing colorful graphics and three-channel programmable sound. Although technically capable, the Tomy Tutor faced strong competition from systems such as the Commodore 64, Atari 800, and TI-99/4A, resulting in limited commercial success. Today it is remembered as a unique and uncommon member of the early 1980s home computer market.</text>
+		</text>
+
+	</view>
+</theme>

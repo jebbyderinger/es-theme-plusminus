@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2010</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Jedi Knight: Dark Forces 2</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>OpenJK Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: OpenJK Engine Recreation | Original Engine: Quake III Arena Technology | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 3D Polygon Engine | Sound: Digital Audio | Resolution: Up to 1600×1200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>OpenJK is an open-source engine recreation project based on the Jedi Academy and Jedi Outcast game engines. It preserves and modernizes the technology originally developed by Raven Software and LucasArts using the Quake III engine. OpenJK improves compatibility with modern systems, adds bug fixes, and provides a maintained platform for playing Jedi Knight II: Jedi Outcast and Jedi Academy. The project keeps the original gameplay, lightsaber combat, Force powers, and multiplayer features while extending support beyond the original releases.</text>
+		</text>
+
+	</view>
+</theme>

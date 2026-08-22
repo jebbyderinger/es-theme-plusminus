@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£125</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£820</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 2 Million Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1978</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Philips Videopac</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Philips</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8048 @ 1.79 MHz | Memory: 64 Bytes RAM | Media: ROM Cartridges | Graphics: Intel 8244/8245 Video Display Controller | Sound: Built-In Mono Audio | Resolution: 160×200i</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Philips Videopac was a cartridge-based home video game console introduced in Europe in 1978 as the regional counterpart to the Magnavox Odyssey². Designed by Ralph H. Baer, it combined a programmable game console with a built-in membrane keyboard, allowing games to incorporate educational and computer-like features uncommon at the time. Powered by an Intel 8048 microcontroller and custom Intel graphics hardware, the Videopac offered a library of more than 60 officially released cartridges, including titles such as KC Munchkin!, Smithereens!, and Quest for the Rings. While the Odyssey² name was used in North America, the Videopac brand became popular throughout Europe and Brazil, earning a dedicated following thanks to its unique gameplay, educational software, and distinctive hardware design.</text>
+		</text>
+
+	</view>
+</theme>

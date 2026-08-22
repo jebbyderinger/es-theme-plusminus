@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$100</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$300</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>CreatiVision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>VTech</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502 @ 1.79 MHz + Zilog Z80 | Memory: 1 KB RAM | Media: Cartridge | Graphics: Texas Instruments TMS9918A | Sound: SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The CreatiVision was released in 1982 as a hybrid home computer and video game console developed by VTech. The system used a unique controller design that combined a joystick with a detachable keyboard, allowing it to function as both a game machine and a simple computer. Its cartridge library included games such as Astro Pinball, Crazy Pucker, Laser War, and Space Fortress. The CreatiVision was sold in several regions under different names and competed with systems such as the ColecoVision, Atari 5200, and Intellivision. Although it offered computer-style features and expandable hardware, limited software support prevented it from becoming a major platform. The system remains notable for combining home computing and console gaming features during the early 1980s.</text>
+		</text>
+	</view>
+</theme>

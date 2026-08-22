@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>User Collection</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2016</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Library</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Batocera Linux</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COLLECTION</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Category: Game Library | Source: All Supported Systems | Media: ROMs, Disc Images, Digital Titles, and Native Applications | Display: Unified Game Collection | Resolution: Original Game Resolution</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Library brings together every game in your Batocera collection into a single view. Instead of browsing individual systems, it allows you to explore your entire game library from one place. Games remain organized by their original platform while providing a convenient way to search, sort, and access titles across all supported systems.</text>
+		</text>
+
+	</view>
+</theme>

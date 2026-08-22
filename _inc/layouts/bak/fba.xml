@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2018</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Final Burn Alpha</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>FinalBurn Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Arcade Emulator</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Supports: CPS-1, CPS-2, CPS-3, Neo Geo, Sega, Toaplan and more | Media: Arcade ROMs | High-performance 2D arcade emulator | Succeeded by FBNeo |</text>
+		</text>
+	</view>
+</theme>

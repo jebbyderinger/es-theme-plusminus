@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TIC-80</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nesbox</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Fantasy</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Virtual Lua, JavaScript, MoonScript, Fennel, Squirrel, Wren and other scripting languages | Memory: 96 KB RAM | Sound: 4-channel PSG + 2-channel Wave + Noise | Media: Cartridge (.tic files) | Video: 240 × 136 | 16-color palette | Integrated code, sprite, map, sound, and music editors |</text>
+		</text>
+	</view>
+</theme>

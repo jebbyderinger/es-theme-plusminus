@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$595</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,900</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>12.5+ Million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Commodore 64</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6510 @ 0.985–1.02 MHz | Memory: 64 KB RAM | Media: Cassette / Floppy Disk / Cartridge | Graphics: VIC-II Chip | Sound: SID 3-Voice Synthesizer | Resolution: 320×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore 64 was released in 1982 and became one of the most popular personal computers ever produced. Designed by Commodore as a successor to the VIC-20, it combined affordable hardware with advanced graphics and sound capabilities that were unusual for its price range. The system was built around the MOS Technology 6510 processor and featured the VIC-II graphics chip and SID sound chip, which became major reasons for its popularity among home users, programmers, and game developers. The C64 was used for education, productivity software, music creation, and especially gaming, with thousands of commercial titles released during its lifetime. Its large software library included popular series such as The Bard's Tale, Ultima, Maniac Mansion, and many arcade conversions. The computer supported multiple storage options including cassette tape, floppy disk drives, and cartridge software. With estimated sales exceeding 12 million units, the Commodore 64 became the best-selling single computer model of its era and played a major role in bringing home computing to a wider audience. Its powerful audio hardware, large developer community, and extensive software catalog have made it one of the most influential home computers in video game and computing history.</text>
+		</text>
+	</view>
+</theme>

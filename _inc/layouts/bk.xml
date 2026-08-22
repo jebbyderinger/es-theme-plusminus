@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>600 ₽</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>₽95,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>162,000+ Units (BK Series)</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Elektronika BK-0010</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Elektronika / NPO Scientific Center</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: K1801VM1 (PDP-11 Compatible) @ 3 MHz | Memory: 32 KB RAM | Media: Cassette Tape | Graphics: K1801VP1-037 Video Controller | Sound: Internal Beeper | Resolution: 512×256p Monochrome / 256×256p 4-Color</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Elektronika BK-0010 was a Soviet 16-bit home computer introduced in 1985 and developed by the NPO Scientific Center in Zelenograd. Its name, BK, is short for "Bytovoy Kompyuter" ("Home Computer"). Unlike most Western home computers of the era, the BK-0010 was built around the K1801VM1, a Soviet PDP-11-compatible processor, giving it a true 16-bit architecture. The system featured 32 KB of RAM, cassette tape storage, monochrome or four-color graphics, and shipped with the FOCAL programming language in ROM, while later models added BASIC. The BK-0010 became one of the most successful home computers produced in the Soviet Union, finding widespread use in homes, schools, and technical education despite its high price, which equaled several months' average wages. Its straightforward architecture, expandability through the Q-Bus interface, and capable processor later made it popular with hobbyists and the Soviet demoscene. Today the BK-0010 is regarded as one of the most significant Soviet-designed home computers and remains an important platform in retro computing.</text>
+		</text>
+
+	</view>
+</theme>

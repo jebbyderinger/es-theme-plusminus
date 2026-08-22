@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$1,565+</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$5,500+</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Billions of systems worldwide</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>IBM / Microsoft / Various Manufacturers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: x86 Architecture (8088 to Modern Multi-Core CPUs) | Memory: From KB to GB+ RAM | Media: Floppy Disk / CD-ROM / Digital Distribution | Graphics: CGA, EGA, VGA, 3D Accelerators and Modern GPUs | Sound: PC Speaker, AdLib, Sound Blaster, Modern Audio | Resolution: 320×200p CGA/EGA, 640×480p VGA, 800×600p SVGA and Modern Resolutions</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The PC platform began with the release of the IBM Personal Computer in 1981 and grew into one of the largest gaming and computing ecosystems. Early PC games were distributed through floppy disks and focused on text adventures, strategy, simulations, and role-playing games. The DOS era introduced many influential titles before Windows expanded PC gaming with improved graphics, multimedia support, and wider accessibility. Over time, the platform evolved through VGA graphics, sound cards, 3D acceleration, online gaming, and digital distribution. Modern PCs continue to support a wide range of games from classic software preservation to current releases.</text>
+		</text>
+
+	</view>
+</theme>

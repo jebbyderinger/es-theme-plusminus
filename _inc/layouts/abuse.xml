@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2009</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Abuse</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>SDL Abuse Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Abuse Source Port | Original Hardware: IBM PC Compatible / DOS | Media: Original Game Data | Graphics: 2D Hand-Drawn Sprite Engine | Sound: Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>SDL Abuse is an open-source port of the classic 1996 action platform game Abuse. Originally developed by Crack dot Com, Abuse combined fast run-and-gun gameplay with detailed 2D graphics, fluid character movement, and a unique control system that allowed players to aim independently with the mouse while moving with the keyboard. The SDL version updates the original DOS game for modern systems, improving compatibility and adding support for current operating systems while preserving the original levels, artwork, and gameplay.</text>
+		</text>
+
+	</view>
+</theme>

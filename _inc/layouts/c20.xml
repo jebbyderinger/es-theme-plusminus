@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$595</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2.5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Commodore VIC-20</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502 @ 1.02 MHz | Memory: 5 KB RAM | Media: Cartridge / Cassette / Floppy Disk | Graphics: VIC-I Chip | Sound: 3-channel PSG | Resolution: 176×184p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore VIC-20 was released in 1980 as an affordable home computer designed for both programming and entertainment. It was one of the first computers to sell over one million units. The system included built-in BASIC, cartridge support, and a color display. Its software library included educational programs, utilities, and games. The VIC-20 introduced many users to home computing before the release of the Commodore 64.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$350</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>16 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2011</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2019</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PS Vita</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Quad-core ARM Cortex-A9 MPCore   |   Memory:  512 MB RAM, 128 MB Video RAM   |   Sound:  LStereo speakers, microphone, 3.5 mm headphone jack, Bluetooth   |   Graphics:  Quad-core PowerVR SGX543MP4+   |   Media:  Proprietary PS Vita memory card (4, 8, 16, 32 or 64 GB)  |   Resolution:  960 × 544   |   </text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation Vita (PS Vita) is a handheld game console developed and marketed by Sony Computer Entertainment. The original model of the handheld includes a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, a rear touchpad, two analog joysticks, and front and shoulder push-button input, and supports Bluetooth and Wi-Fi as standard while a variant model was sold with an additional 3G modem. The Vita features a quad-core ARM Cortex-A9 MPCore CPU and a quad-core SGX543MP GPU. The PS Vita 2000 series, a revised version of the system, was released across 2013 and 2014. It has all of the same features with a slightly smaller size, extended battery life, and an LCD panel instead of an OLED. Sony released the PlayStation TV, a short-lived, re-purposed version of the Vita that uses a television screen like a home video game console, discontinued at the end of 2015.</text>
+		</text>
+	</view>
+</theme>

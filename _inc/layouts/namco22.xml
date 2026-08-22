@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Namco System 22</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Namco</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Multiple MIPS R3000A Processors | Memory: Custom Arcade Hardware | Media: ROM Boards | Graphics: 3D Polygon Rendering System | Sound: Namco Custom Audio Hardware | Resolution: 496×384p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Namco System 22 was an arcade hardware platform released by Namco in 1993. It was one of the company's first dedicated 3D arcade systems and powered games using texture-mapped polygon graphics. The hardware improved on the earlier System 21 platform by adding more advanced 3D rendering capabilities, allowing more detailed environments and smoother visuals. Notable games running on System 22 include Ridge Racer 2, Time Crisis, and Alpine Racer. The system helped establish Namco as one of the leading developers of 3D arcade technology during the 1990s.</text>
+		</text>
+
+	</view>
+</theme>

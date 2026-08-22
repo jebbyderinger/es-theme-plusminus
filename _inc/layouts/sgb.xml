@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$59.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$130</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Super Game Boy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sharp LR35902-compatible processor | Memory: Cartridge dependent | Media: Super NES Cartridge Adapter | Graphics: Game Boy LCD emulation | Sound: SNES audio hardware | Resolution: 160×144p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Super Game Boy was released in 1994 as an accessory for the Super Nintendo Entertainment System that allowed Game Boy games to be played on a television. It provided color palettes, borders, and enhanced sound through the SNES hardware. Certain games included additional features designed specifically for the adapter. The Super Game Boy expanded the lifespan of the original Game Boy library and served as an early example of handheld games being adapted for home console play.</text>
+		</text>
+	</view>
+</theme>

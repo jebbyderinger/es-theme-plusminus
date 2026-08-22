@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£49.95</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£250</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1.5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sinclair ZX81</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sinclair Research</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 3.25 MHz | Memory: 1 KB RAM | Media: Cassette | Graphics: Monochrome Video Output | Sound: None | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sinclair ZX81 was released in 1981 as an affordable home computer designed to introduce users to programming. It used a minimal hardware design with a Z80 processor, membrane keyboard, and black-and-white television output. The system was sold as both a kit and assembled computer, making it accessible to hobbyists and students. Software was distributed mainly through cassette tapes and magazines. The ZX81 helped expand interest in personal computing and was followed by the more advanced ZX Spectrum.</text>
+		</text>
+	</view>
+</theme>

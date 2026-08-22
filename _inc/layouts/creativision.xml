@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$99.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$330</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>CreatiVision</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Video Technology</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>CONSOLE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS Technology 6502 @ 2 MHz | Memory: 1 KB RAM | Media: ROM Cartridges | Graphics: Texas Instruments TMS9929A Video Chip | Sound: TI SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The CreatiVision was a second-generation home video game console released in 1981 by Video Technology. It combined features of a game console and home computer, using detachable controllers that included a numeric keypad and action buttons. The system was based around a MOS 6502 processor and offered cartridge-based games with colorful graphics for its time. It was sold in several regions under different names, including the FunVision, and competed with systems such as the Atari 2600, ColecoVision, and Intellivision. Although it had innovative features and computer expansion accessories, limited distribution prevented it from becoming a major commercial success.</text>
+		</text>
+
+	</view>
+</theme>

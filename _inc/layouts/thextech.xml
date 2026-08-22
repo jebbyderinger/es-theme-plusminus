@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Freeware / Fan Project</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2009</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Super Mario Bros. X Tech</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>SMBX Community</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Super Mario Bros. X Engine | Original Hardware: IBM PC Compatible | Media: Digital Download | Graphics: 2D Sprite-Based Graphics | Sound: Digital Audio / MIDI | Resolution: 800×600p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Super Mario Bros. X Tech is a community-driven continuation and enhancement of the Super Mario Bros. X engine. It focuses on expanding the original fan-made platforming framework with improved tools, compatibility, scripting features, and technical improvements. The engine allows users to create custom Mario-style adventures using familiar characters, objects, and gameplay mechanics while providing additional features for level designers and developers.</text>
+		</text>
+
+	</view>
+</theme>

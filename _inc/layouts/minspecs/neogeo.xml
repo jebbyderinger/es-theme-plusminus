@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$649</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1484</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1.18 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>NeoGeo</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Motorola 68000 @ 12 MHz / Z80 @ 4Mhz  |  Memory:  64 kbit RAM   |   Sound:  Yamaha YM2610 - 15 Channels  |   Media:  ROM Cartridge   |   Video:  320 × 224p   |   65,536 color palette   |   4096 on-screen   |   </text>
+</text>
+	</view>
+</theme>

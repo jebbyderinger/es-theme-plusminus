@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>OpenMoHAA</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>OpenMoHAA Team / Based on Electronic Arts & 2015, Inc.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Quake III Engine Source Port | Original Hardware: IBM PC Compatible | Media: Original Medal of Honor: Allied Assault Game Data | Graphics: OpenGL Hardware Rendering | Sound: Digital Audio | Resolution: 640×480p Original with Modern High-Resolution and Widescreen Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>OpenMoHAA is an open-source recreation of the engine used by Medal of Honor: Allied Assault and its expansions. It allows the original game data to run on modern systems while improving compatibility and adding updated features. Based on id Software's Quake III engine technology, OpenMoHAA preserves the original single-player campaigns and multiplayer experience while providing modern display support, bug fixes, improved stability, and community-driven development.</text>
+		</text>
+
+	</view>
+</theme>

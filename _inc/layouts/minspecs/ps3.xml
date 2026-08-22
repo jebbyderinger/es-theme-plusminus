@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$499</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$760</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>87.4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2006</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Playstation 3</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Cell Broadband Engine @ 3.2ghz   |   Memory:  256 MB XDR DRAM system + 256 MB GDDR3 video   |   Sound:  Dolby Digital 5.1, Analog Stereo   |   Graphics:  500 MHz RSX Reality Synthesizer   |   Media:  Blu-ray (50GB), DVD (8.5GB)  |   Video:  640 x 480i - 1920 x 1080p</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$390</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Arcadia 2001</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Emerson Radio</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Signetics 2650 @ 3.58 MHz | Memory: 512 bytes RAM | Media: Cartridge | Graphics: Custom video hardware | Sound: Internal audio | Resolution: 128×128p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Emerson Arcadia 2001 was released in 1982 as a second-generation home video game console. The system was manufactured by Emerson Radio and was based on hardware originally developed by Interton. It used interchangeable cartridges and competed with systems such as the Atari 2600, ColecoVision, and Intellivision. The console received a number of licensed and regional versions from different manufacturers, including the Interton VC 4000 family in Europe. Its library included games such as Space Raiders, Football, Super Bug, and versions of arcade-style games adapted for home play. The Arcadia 2001 had a short commercial life due to competition from more advanced consoles and the video game market crash of 1983. It is remembered as one of many second-generation systems that experimented with bringing arcade-style experiences into homes.</text>
+		</text>
+	</view>
+</theme>

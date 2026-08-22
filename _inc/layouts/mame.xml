@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Arcade Collection</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MAME</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Multiple Arcade Machine Emulator Project</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>EMULATOR</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Arcade Hardware Emulation | Media: ROM Images | Graphics: System Dependent | Sound: System Dependent | Resolution: Varies by Arcade Hardware</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>MAME is an open-source emulator project created to preserve arcade hardware and software. It supports thousands of arcade systems from early electro-mechanical machines through later arcade platforms. MAME documents the original hardware, allowing games to be preserved and played on modern computers. The project supports a wide range of manufacturers including Atari, Sega, Namco, Capcom, Konami, and SNK. Its focus is on accuracy and preservation rather than only game playback.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2023</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Batocera CRT Script</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>ZFEbHVUE / Rion / net-terminal-gene</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>TOOL</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Platform: Batocera Linux | Purpose: CRT Output Configuration | Features: Native Resolution Switching, SwitchRes Support, Geometry Tools, Display Profiles | Video Modes: 240p / 288p / 480i / 576i / 480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Batocera CRT Script is a collection of tools and scripts designed to simplify using Batocera with real CRT displays. It provides configuration utilities for native low-resolution output, monitor profiles, resolution switching, and image adjustment. The project helps recreate the original display characteristics of classic consoles and arcade systems by allowing games to run at their intended video modes while providing tools for CRT calibration and setup.</text>
+		</text>
+
+	</view>
+</theme>

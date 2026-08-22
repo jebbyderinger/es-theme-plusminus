@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$349</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>75.94 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2011</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2020</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>3DS</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8th</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Dual-core ARM11 MPCore @ 268 MHz   |   Memory:  128 MB FCRAM, 6 MB VRAM   |   Sound:  Dolby Surround 2.0   |   Media:  ROM Cartridge   |   Video:  800 × 240p   |   </text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="p">
+<formatVersion>7</formatVersion>
+	<customView name="gridvideo" inherits="grid">
+		<imagegrid name="gamegrid">
+			<autoLayout>3 2</autoLayout>
+			<cellProportion>0.8</cellProportion>
+			<autoLayoutSelectedZoom>1.25</autoLayoutSelectedZoom>
+			<imageSource>thumb</imageSource>
+			<showVideoAtDelay>1</showVideoAtDelay>
+			<margin>0 0</margin>
+			<padding>0 0 0 0</padding>
+			<zIndex>11</zIndex>
+		</imagegrid>
+		<gridtile name="default">
+			<size>0.230 0.254</size>
+			<backgroundCenterColor>FFFFFF</backgroundCenterColor>
+			<backgroundEdgeColor>000000</backgroundEdgeColor>
+			<backgroundCornerSize>0.2 0.2</backgroundCornerSize>
+			<padding>0 0</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+			<imageColor>808080</imageColor>
+			<saturation>0</saturation>
+		</gridtile>
+		<gridtile name="selected">
+			<size>0.230 0.254</size>
+			<padding>0 0</padding>
+			<backgroundCornerSize>0.2 0.2</backgroundCornerSize>
+			<imageColor>FFFFFFFF</imageColor>
+			<visible>true</visible>
+		</gridtile>
+		<text name="gridtile">
+			<color>D0D0D0D0</color>
+			<backgroundColor>00000000</backgroundColor>
+			<singleLineScroll>false</singleLineScroll>
+			<fontSize>0.024</fontSize>
+			<alignment>center</alignment>
+			<padding>0 0</padding>
+			<size>0 0</size>
+			<glowColor>00000008</glowColor>
+			<glowSize>0</glowSize>
+		</text>
+		<text name="gridtile_selected">
+			<singleLineScroll>false</singleLineScroll>
+			<color>FFFFFF</color>
+			<glowColor>${glowColor}</glowColor>
+			<glowSize>0</glowSize>
+		</text>
+		<image name="gridtile.marquee">
+			<color>FFFFFFD0</color>
+			<pos>0.5 0.24</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.98 0.98</size>
+			<zIndex>175</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="gridtile.marquee:selected">
+			<color>FFFFFFFF</color>
+			<opacity>0</opacity>
+			<size>0.9 0.9</size>
+			<zIndex>175</zIndex>
+		</image>
+		<image name="gridtile.marquee:videoplaying">
+			<color>FFFFFFA0</color>
+			<opacity>10</opacity>
+			<size>0.6 0.6</size>
+			<zIndex>175</zIndex>
+		</image>
+		<text name="gridtile.text">
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<fontSize>0.040</fontSize>
+			<padding>0.1 0</padding>
+		</text>
+		<image name="art" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.45</pos>
+			<minSize>1.1 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.5</opacity>
+			<zIndex>82</zIndex>
+		</image>
+		<image name="art2" extra="true">
+			<origin>0.5 0.5</origin>
+			<rotation>180</rotation>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<opacity>1</opacity>
+			<path>./../../_inc/images/overlay_crt.png</path>
+			<zIndex>85</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="players_logo" extra="true">
+			<pos>0.93 0.12</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.05</maxSize>
+			<color>999999</color>
+			<path>./../../_inc/images/game_info_players2.png</path>
+			<zIndex>145</zIndex>
+			<visible>false</visible>
+		</image>
+		<text name="md_players">
+			<pos>0.93 0.12</pos>
+			<size>0.04 0.04</size>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>FFFFFF</color>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</text>
+		<image name="theflag" extra="true">
+			<path>./../../_inc/flags/{game:region}-flag.png</path>
+			<maxSize>0.075 0.075</maxSize>
+			<pos>0.975 0.136</pos>
+			<origin>0.5 0.5</origin>
+			<zIndex>120</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_flag">
+			<origin>1 0.5</origin>
+			<pos>0.95 0.748</pos>
+			<size>0.05 0.05</size>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+			<rotation>90</rotation>
+			<opacity>100</opacity>
+			<path>./../../_inc/images/space.png</path>
+			<linearSmooth>true</linearSmooth>
+			<visible>false</visible>
+		</image>
+		<text name="md_name" extra="true">
+			<pos>0.05 0.12</pos>
+			<origin>0 0.5</origin>
+			<size>0.7 0.04</size>
+			<singleLineScroll>yes</singleLineScroll>
+			<alignment>left</alignment>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>FFFFFF</color>
+			<fontSize>0.028</fontSize>
+			<zIndex>140</zIndex>
+		</text>
+		<text name="md_developer">
+			<pos>0.05 0.16</pos>
+			<origin>0 0.5</origin>
+			<size>0.5 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>bebebe</color>
+			<fontSize>0.022</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>140</zIndex>
+			<alignment>left</alignment>
+			<forceUppercase>1</forceUppercase>
+			<visible>true</visible>
+		</text>
+		<text name="md_genre">
+			<size>0.5 0.04</size>
+			<alignment>left</alignment>
+			<origin>0.5 0.5</origin>
+			<pos>0.957 0.41</pos>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<rotation>-90</rotation>
+			<fontSize>0.02</fontSize>
+			<color>fefefe</color>
+			<forceUppercase>1</forceUppercase>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</text>
+		<datetime name="md_releasedate">
+			<pos>0.95 0.14</pos>
+			<size>0.24 0.08</size>
+			<fontSize>0.065</fontSize>
+			<lineSpacing>1</lineSpacing>
+			<origin>1 0.5</origin>
+			<alignment>right</alignment>
+			<fontPath>./../../_inc/fonts/HungerGames.ttf</fontPath>
+			<color>FFFFFF</color>
+			<zIndex>120</zIndex>
+			<format>%Y</format>
+			<text if="{game:releasedate} == 'xsi:nil'">xxxx</text>
+		</datetime>
+		<image name="logo" extra="true">
+			<path>./../../_inc/logos/${system.theme}.png</path>
+			<path>./../../_inc/logos/${system.theme}-${lang}.png</path>
+			<pos>0.95 0.9</pos>
+			<pos if="{system.theme} == 'msx1'">0.96 0.97</pos>
+			<pos if="{system.theme} == 'msx2'">0.96 0.97</pos>
+			<maxSize>0.264 0.126</maxSize>
+			<maxSize if="{system.theme} == 'c64'">0.31 0.136</maxSize>
+			<maxSize if="{system.theme} == 'n64'">0.29 0.126</maxSize>
+			<maxSize if="{system.theme} == 'msx1'">0.28 0.136</maxSize>
+			<maxSize if="{system.theme} == 'msx2'">0.28 0.136</maxSize>
+			<maxSize if="{system.theme} == 'megadrive'">0.28 0.136</maxSize>
+			<maxSize if="{system.theme} == 'neogeocd'">0.31 0.136</maxSize>
+			<maxSize if="{system.theme} == 'saturn'">0.29 0.136</maxSize>
+			<maxSize if="{system.theme} == 'gamecube'">0.28 0.136</maxSize>
+			<origin>1 1</origin>
+			<zIndex>150</zIndex>
+			<visible>true</visible>
+			<storyboard repeatAt="100">
+				<animation property="scale" from="1" to="1.07" begin="100" duration="2000" mode="easeIn"/>
+				<animation property="scale" from="1.07" to="1" begin="2100" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.6" begin="100" duration="2000" mode="easeIn"/>
+				<animation property="opacity" from="0.6" to="1" begin="2100" duration="2000" mode="easeOut"/>
+			</storyboard>
+		</image>
+		<image name="title_bar" extra="true">
+			<pos>0.5 0.1</pos>
+			<size>1 0.04</size>
+			<origin>0.5 0</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>444444</color>
+			<zIndex>85</zIndex>
+			<visible>true</visible>
+		</image>
+		<text name="gamedesc" extra="true">
+			<alignment>left</alignment>
+			<origin>0.5 0.5</origin>
+			<size>0.9 0.06</size>
+			<pos>0.5 0.075</pos>
+			<color>bebebe</color>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<zIndex>140</zIndex>
+			<singleLineScroll>yes</singleLineScroll>
+			<forceUppercase>1</forceUppercase>
+			<text>{game:desc}</text>
+			<visible>true</visible>
+		</text>
+		<rating name="md_rating">
+			<pos>0.32 0.90</pos>
+			<size>0.05 0.04</size>
+			<color>FFFFFF</color>
+			<origin>0.5 0</origin>
+			<horizontalAlignment>left</horizontalAlignment>
+			<unfilledColor>80808030</unfilledColor>
+			<unfilledPath>./../../_inc/images/star_filled.svg</unfilledPath>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</rating>
+		<image name="md_marquee" extra="true">
+			<linearSmooth>true</linearSmooth>
+			<visible>true</visible>
+			<zIndex>175</zIndex>
+			<pos>0.5 0.45</pos>
+			<maxSize>0.82 0.5</maxSize>
+			<storyboard event="open" repeatAt="100">
+				<animation property="scale" from="1" to="1.05" begin="100" duration="2000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="2100" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.05" begin="0" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="0.05" to="1" begin="2100" duration="2000" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate" repeatAt="100">
+				<animation property="scale" from="1" to="1.05" begin="100" duration="2000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="2100" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.1" begin="0" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="0.1" to="1" begin="2100" duration="2000" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+               			<animation property="scale" from="1" to="0" duration="1" mode="EaseOut"/>
+                		<animation property="opacity" from="1" to="0" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+	</customView>
+</theme>

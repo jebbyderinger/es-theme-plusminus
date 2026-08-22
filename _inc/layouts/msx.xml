@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$400+</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,100+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft / ASCII Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD-4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz / R800 @ 7.16 MHz (turbo R) | Memory: 8 KB–256 KB+ RAM | Media: Cartridge / Cassette / Floppy Disk | Graphics: TMS9918A, Yamaha V9938/V9958 VDP | Sound: AY-3-8910 PSG / FM expansion | Resolution: 256×192p / 512×212i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The MSX was a standardized home computer platform introduced in 1983 through a partnership between Microsoft Japan and ASCII Corporation. Rather than being a single machine, MSX defined hardware specifications that allowed different manufacturers to create compatible systems. Companies including Sony, Panasonic, Yamaha, Toshiba, and Philips produced MSX computers with support for gaming, programming, education, and home applications. The original MSX standard was followed by MSX2 in 1985, which introduced improved graphics, expanded memory, and floppy disk support. MSX2+ added enhanced video capabilities, while the MSX turbo R released in 1990 introduced a faster R800 processor while maintaining compatibility with earlier software. The platform became especially popular in Japan and Europe, with a large library of games including Metal Gear, Metal Gear 2: Solid Snake, Snatcher, Ys, Aleste, Parodius, and many arcade conversions. The MSX family remained an important part of Japanese computer and gaming history before being discontinued in 1995.</text>
+		</text>
+	</view>
+</theme>

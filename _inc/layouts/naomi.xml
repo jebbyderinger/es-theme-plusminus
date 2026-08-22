@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2005</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega NAOMI</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz | Memory: 32 MB RAM | Media: Cartridge / GD-ROM | Graphics: PowerVR2 GPU | Sound: Yamaha AICA | Resolution: 320×240p / 640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Sega NAOMI was an arcade system released in 1998 and shared hardware technology with the Sega Dreamcast. It used interchangeable cartridges and later GD-ROM media, allowing arcade operators to update games more easily. The system hosted titles including Marvel vs. Capcom 2, Dead or Alive 2, Virtua Tennis, Ikaruga, and Initial D. NAOMI became one of Sega's most widely used arcade platforms and remained active for many years.</text>
+		</text>
+	</view>
+</theme>

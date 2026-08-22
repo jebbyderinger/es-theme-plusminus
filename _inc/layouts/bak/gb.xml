@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$89</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$225</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>118 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Gameboy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Sharp SM83 @ 4 MHz   |  Memory:  8 KB RAM, 8 KB VRAM   |   Sound:  4 Channels 2 pulse wave, 1 wave, 1 noise  |   Media:  Rom Cartridge   |   Video:  160 × 144p   |   2-bit, 4 shades palette   |   4 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

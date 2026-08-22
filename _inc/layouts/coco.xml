@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,200+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TRS-80 Color Computer</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Tandy / Radio Shack</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 6809 @ 0.89 MHz | Memory: 4 KB RAM | Media: Cartridge / Cassette / Disk | Graphics: Motorola 6847 Video Chip | Sound: 6-bit DAC | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The TRS-80 Color Computer, commonly known as the CoCo, was introduced in 1980 by Tandy. It used the Motorola 6809 processor and was designed as an affordable home computer for education, programming, and games. The system supported color graphics, BASIC programming, cartridges, and disk drives. Later versions improved memory and performance. The CoCo developed an active user community and remained available throughout the 1980s.</text>
+		</text>
+	</view>
+</theme>

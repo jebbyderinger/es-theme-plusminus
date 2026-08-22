@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$3000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$7981</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>200 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>X68000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>16bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Hitachi HD68HC000 (16/32-bit) @ 10 MHz   |   Memory:  1-4 Mbyte RAM   |   Sound:   Yamaha YM2151 - 8 FM channels  |   Media:  Floppy Disk   |   Video:  256 x 240p - 1024 x 1024p   |   65,536 color palette   |   65,536 on-screen   |   </text>
+</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥19,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥45,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Othello Multivision</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tsukuda Original / General</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 3.58 MHz | Memory: 18 KB RAM/ROM Combined | Media: Cartridge | Graphics: Texas Instruments TMS9918A Video Chip | Sound: SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Othello Multivision was a Japanese home video game console released in 1983 by Tsukuda Original. It was a licensed clone of Sega's SG-1000 and used compatible cartridges, allowing it to play many SG-1000 games. The system was named after the board game Othello and was bundled with the game, but its compatibility with Sega software gave it a wider library. As one of the early SG-1000-compatible systems, it represents the variety of Japanese consoles competing during the second generation of home gaming.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$530</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>155 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2013</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation 2</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Emotion Engine @ 294 MHz | Memory: 32 MB RDRAM | Media: DVD-ROM / CD-ROM | Graphics: Graphics Synthesizer | Sound: 48-channel ADPCM audio | Resolution: 256×224p–1280×1024i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation 2 was released in 2000 and became the best-selling home console of all time. It introduced DVD playback as a major feature and offered a large library covering nearly every genre. The system featured major franchises including Grand Theft Auto, Gran Turismo, Final Fantasy, Metal Gear Solid, God of War, Kingdom Hearts, Tekken, and Ratchet & Clank. Its backward compatibility with PlayStation games helped create a smooth transition from Sony's first console. Multiple revisions including the slim model extended the system's lifespan, allowing it to remain popular well into the seventh generation.</text>
+		</text>
+	</view>
+</theme>

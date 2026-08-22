@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$129.95</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$400</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>250,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1976</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Fairchild Channel F</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Fairchild Semiconductor</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Fairchild F8 @ 1.79 MHz | Memory: 64 bytes RAM | Media: Cartridge | Graphics: Fairchild custom video hardware | Sound: Internal speaker | Resolution: 128×64p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Fairchild Channel F was released in 1976 and was the first home video game console to use interchangeable cartridges. It allowed players to switch between different games instead of relying on built-in software. The system introduced concepts that became standard in later consoles, including removable media and programmable game hardware. Its library included titles such as Video Pinball, Baseball, and Space War. Although it was later overshadowed by the Atari VCS, the Channel F played an important role in the development of home gaming.</text>
+		</text>
+	</view>
+</theme>

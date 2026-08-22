@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Millions of Downloads</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Cave Story</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Daisuke "Pixel" Amaya</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Original Pixel Engine / Ports Available | Hardware: IBM PC Compatible | Media: Digital Download | Graphics: 2D Pixel Art | Sound: Chiptune / Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Cave Story is a freeware action-adventure platform game created by Japanese developer Daisuke "Pixel" Amaya and released in 2004. Developed independently over several years, it combines exploration, platforming, shooting, and role-playing elements in a Metroidvania-style world. The game became widely recognized for its detailed pixel art, original soundtrack, and influence on the indie game movement. Its success led to enhanced versions on multiple platforms while preserving the original gameplay and style.</text>
+		</text>
+
+	</view>
+</theme>

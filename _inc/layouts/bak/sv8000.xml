@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥59,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥105,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Bandai Super Vision 8000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Bandai</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2nd</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC D780C-1 (Z80-compatible) @ 3.58 MHz   |   Memory: 1 KB RAM + 3 KB VRAM   |   Sound: AY-3-8910 (3 Channel Audio + Noise)   |   Media: ROM Cartridge   |   Video: 256 × 192 / 128 × 192 / 128 × 96   |   8 color palette   |   2 colors per character block   |</text>
+		</text>
+	</view>
+</theme>

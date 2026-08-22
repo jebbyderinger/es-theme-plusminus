@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$175</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$560</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ColecoVision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Coleco</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 8 KB RAM | Media: Cartridge | Graphics: Texas Instruments TMS9918A | Sound: SN76489 PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The ColecoVision was released in 1982 and was designed to bring a closer arcade experience to home consoles. Its hardware was based on components similar to arcade systems of the period and provided improved graphics compared with earlier second-generation consoles. The system launched with an adaptation of Donkey Kong, which became a major selling point. Its library included games such as Zaxxon, Frogger, Buck Rogers, Smurf: Rescue in Gargamel's Castle, and Lady Bug. Coleco also released the Expansion Module #1, which allowed compatibility with Atari 2600 cartridges. The ColecoVision competed with the Atari 5200 and Intellivision before the video game market crash of 1983 affected sales. Production ended in 1985, but the system remains remembered for its arcade-style conversions and role in the transition toward more advanced home consoles.</text>
+		</text>
+	</view>
+</theme>

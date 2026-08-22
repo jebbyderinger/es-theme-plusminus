@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥59,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥105,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Epoch Super Cassette Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Epoch</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC D780C (Z80 Compatible) | Memory: 6 KB RAM | Media: Cartridge | Graphics: Custom Epoch Video Hardware | Sound: PSG Audio | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Super Cassette Vision was released in Japan in 1984 as the successor to Epoch's Cassette Vision console. It used cartridge-based software and competed with the Nintendo Famicom. The system featured improved graphics and a larger game library compared with its predecessor. Titles included Pop & Chips, Elevator Fight, and Comic Circus. Although it achieved some success in Japan, it was unable to compete with Nintendo's growing market presence.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Various Releases</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>LCD Games</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Various Manufacturers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Hardware: Dedicated LCD Handheld Systems | Media: Built-In Electronics | Graphics: Fixed LCD Segments / Sprite Displays | Sound: Electronic Beeps / Simple Audio | Resolution: Fixed LCD Display</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>LCD Games are dedicated handheld electronic games that use liquid crystal displays to create fixed graphics and animations. Popularized in the late 1970s and 1980s, these devices included systems from Nintendo, Tiger Electronics, Bandai, and many other manufacturers. Unlike later handheld consoles, LCD games used custom hardware with built-in gameplay and graphics. They represent an important stage in the history of portable gaming before programmable handheld systems became common.</text>
+		</text>
+
+	</view>
+</theme>

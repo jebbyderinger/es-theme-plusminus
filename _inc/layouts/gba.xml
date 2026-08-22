@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$99.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$180</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>81.51 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2010</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Game Boy Advance</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM7TDMI @ 16.78 MHz | Memory: 288 KB RAM | Media: Cartridge | Graphics: 2D graphics processor | Sound: Direct Sound + Game Boy audio | Resolution: 240×160p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Game Boy Advance was released in 2001 as the successor to the Game Boy Color. It introduced 32-bit hardware while maintaining compatibility with earlier Game Boy software. The system featured a wider screen, improved graphics, and more advanced gameplay capabilities. Its library included major Nintendo franchises such as Pokémon Ruby and Sapphire, Metroid Fusion, The Legend of Zelda: The Minish Cap, Advance Wars, Mario Kart: Super Circuit, and Golden Sun. The Game Boy Advance also became a popular platform for classic game collections and enhanced versions of older titles. Later revisions included the Game Boy Advance SP and Game Boy Micro, offering improved designs and features. The system continued Nintendo's dominance in handheld gaming before the introduction of the Nintendo DS.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£225</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£900</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 30,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Camputers Lynx</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Camputers Ltd.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 48 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: High-Resolution Bitmap Graphics | Sound: Internal Speaker | Resolution: 256×248p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Camputers Lynx was a British home computer introduced in 1983 by Camputers Ltd. Available in 48 KB, 96 KB, and later 128 KB models, it was designed to compete with machines such as the ZX Spectrum, BBC Micro, and Commodore 64. Powered by a Zilog Z80A processor, the Lynx distinguished itself with high-resolution graphics, a full-travel keyboard, and an extended version of BASIC in ROM. The computer was marketed toward home users, education, and programming enthusiasts, offering cassette storage with optional floppy disk drives. Although technically advanced for its time, limited software support and strong competition from larger manufacturers led to modest sales. Despite its short commercial life, the Camputers Lynx earned a dedicated following and remains a notable example of the diverse British home computer market of the early 1980s.</text>
+		</text>
+
+	</view>
+</theme>

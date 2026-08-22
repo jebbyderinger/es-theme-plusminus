@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$699</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,471</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>3DO Interactive Multiplayer</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>The 3DO Company / Panasonic</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM60 RISC @ 12.5 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Custom 3DO chipset | Sound: 16-bit stereo, Dolby Surround | Resolution: 320×240p / 640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The 3DO Interactive Multiplayer was released in 1993 by The 3DO Company and manufactured by companies including Panasonic, GoldStar, and Sanyo. Instead of producing the console itself, The 3DO Company created a hardware standard that could be licensed by different manufacturers. The system used CD-ROM software, allowing developers to include larger amounts of data, full-motion video, recorded dialogue, and music. Its library included games such as Road Rash, The Need for Speed, Gex, Star Control II, Return Fire, Super Street Fighter II Turbo, and Wing Commander III. The 3DO competed with the Sega Saturn, Sony PlayStation, and Nintendo 64, but its launch price limited its audience. Production ended in 1996 after the platform failed to gain a large market share. The system is remembered for its role in the early adoption of optical media in home consoles and for several franchises that continued on later platforms.</text>
+		</text>
+	</view>
+</theme>

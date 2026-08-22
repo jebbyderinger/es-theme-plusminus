@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$120,000+</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1 million+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>50 units</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1959</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1969</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PDP-1</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Digital Equipment Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>EARLY COMPUTER</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: 18-bit DEC Processor @ 187 kHz | Memory: 4K Words Magnetic Core Memory | Media: Paper Tape | Graphics: Vector Display | Sound: Speaker Output | Resolution: 512×512 Vector Display</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PDP-1 was introduced in 1959 by Digital Equipment Corporation and was one of the earliest interactive computers. It featured a graphical display, keyboard input, and support for user-created programs. The system is historically significant for running Spacewar!, one of the first computer games, created by researchers at MIT in 1962. The PDP-1 influenced later interactive computing systems and demonstrated the potential of computers as creative and entertainment devices.</text>
+		</text>
+	</view>
+</theme>

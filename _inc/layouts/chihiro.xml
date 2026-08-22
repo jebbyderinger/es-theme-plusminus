@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2002</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2006</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega Chihiro</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel Pentium III @ 733 MHz | Memory: 128 MB DDR SDRAM | Media: GD-ROM / DVD-ROM / Hard Disk | Graphics: NVIDIA NV2A GPU | Sound: NVIDIA MCPX Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2002, Sega Chihiro was an arcade platform based on Microsoft's original Xbox hardware. Designed for high-performance 3D arcade games, it combined Xbox technology with Sega's arcade architecture and expanded memory. Chihiro powered titles including OutRun 2, OutRun 2 SP, Ghost Squad, Ollie King, Crazy Taxi High Roller, Virtua Cop 3, and The House of the Dead III. Its PC-inspired design made it one of Sega's most capable arcade systems before the transition to the Lindbergh platform.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Pygame</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Pygame Community</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Framework</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Language: Python | Graphics: SDL 2D | Audio: SDL_mixer | Media: Python Source Files | Cross-platform game development library | Popular for indie games, education, and game jams |</text>
+		</text>
+	</view>
+</theme>

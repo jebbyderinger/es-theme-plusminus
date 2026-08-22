@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$1000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2310</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari 800</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  8-bit Custom MOS 6502B @ 1.7 MHz   |   Memory:  8 KBytes RAM   |   Sound:  4 channel PSG Pokey Sound Chip   |   Media:  Tape/Floppy Disk/ROM Cart   |   Video:  320 × 192   |   256 colour palette   |   16 up to 256 on-screen   |   </text>
+	</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$380</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>101 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2006</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2014</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Wii</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  IBM PowerPC Broadway @ 729 MHz   |   Memory:  24 MB 1T-SRAM + 64 MB GDDR3 SDRAM   |   Sound:  Analog Stereo / Dolby Pro Logic II  |   Media:  DVD (8.5 GB)  |   Video:  640 x 480i / 640 x 480p / 320 x 240p   |   16.7M color palette   |   </text>
+</text>
+	</view>
+</theme>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+			<include>./../../_inc/layouts/${system.theme}.xml</include>
+			<include>./../../_inc/systemviews/systemlogo_center.xml</include>
+	<view name="system">
+		<image name="background1" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./../../_inc/anim/${system.theme}.jpg</path>
+			<path>./../../_inc/anim/${system.theme}.png</path>
+			<zIndex>30</zIndex>
+		</image>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="static">
+			<color>FFFFFF</color>
+			<alignment>left</alignment>
+			<fontPath>./../../_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.4 0.03</size>
+			<glowColor>00000016</glowColor>
+			<glowSize>2</glowSize>
+		</text>
+		<image name="logo, logo1">
+			<path>./../../_inc/logos/${system.theme}-w.svg</path>
+			<path>./../../_inc/logos/${system.theme}-w-${lang}.png</path>
+			<path>./../../_inc/logos/${system.theme}-w-${lang}.svg</path>
+			<path>./../../_inc/logos/${system.theme}.png</path>
+			<path>./../../_inc/logos/${system.theme}.svg</path>
+			
+			<path>./../../_inc/logos/${system.theme}-${lang}.png</path>
+			<path>./../../_inc/logos/${system.theme}-${lang}.svg</path>
+			<linearSmooth>true</linearSmooth>
+		</image>
+		<image name="logo, logo1" region="eu"></image>
+		<image name="logo, logo1" region="us">
+			<path>./../../_inc/logos/us/${system.theme}.png</path>
+			<path>./../../_inc/logos/us/${system.theme}.svg</path>
+		</image>
+		<image name="logo, logo1" region="jp">
+		  <path>./../../_inc/logos/jp/${system.theme}.png</path>
+			<path>./../../_inc/logos/jp/${system.theme}.svg</path>
+		</image>	
+		<image name="background" extra="true">
+			<visible>false</visible>
+		</image>
+		<video name="videocrton2" extra="true">
+			<path>./../../_inc/images/CRT_Noise_bak.mp4</path>
+			<loops>0</loops>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<delay>0</delay>
+			<size>1 1.2</size>
+			<zIndex>80</zIndex>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0.2" begin="0" duration="800" mode="easeOut"/>
+				<animation property="opacity" from="0.2" to="0" begin="801" duration="300" mode="easeIn"/>
+			</storyboard>
+            		<storyboard event="activateNext">
+				<animation property="opacity" to="0" duration="0"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+				<animation property="opacity" to="0" duration="0"/>
+			</storyboard>
+		</video>
+		<video name="videobox" extra="true">
+			<path>{random}</path>
+			<zIndex>8</zIndex>
+			<path>./../../_inc/videos/${system.theme}.mp4</path>
+			<delay>0.15</delay>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1.1 1.1</size>
+			<size if="{system.theme} == 'gba'">1.1 0.75</size>
+			<size if="{system.theme} == 'gc'">1.1 0.8</size>
+			<storyboard event="activate">
+				<animation property="zIndex" from="8" to="80" begin="0" duration="800" mode="easeOut"/>
+				<animation property="opacity" from="0" to="0.8" begin="0" duration="800" mode="easeOut"/>
+				<animation property="opacity" from="0.8" to="1" begin="801" duration="300" mode="easeIn"/>
+			</storyboard>
+            		<storyboard event="activateNext">
+				<animation property="opacity" to="0" duration="0"/>
+				<animation property="zIndex" to="0" begin="0" duration="0" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+				<animation property="opacity" to="0" duration="0"/>
+				<animation property="zIndex" to="0" begin="0" duration="0" mode="easeOut"/>
+			</storyboard>
+			<zIndex>25</zIndex>
+		</video>
+		<image name="art" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.35</pos>
+			<minSize>1.1 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>1</opacity>
+			<zIndex>80</zIndex>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1000" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1000" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+                		<animation property="opacity" from="0" to="1" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+		<image name="art2" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.65</pos>
+			<minSize>1.1 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>1</opacity>
+			<rotation>180</rotation>
+			<zIndex>80</zIndex>
+			<opacity>1</opacity>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1000" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1000" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+                		<animation property="opacity" from="0" to="1" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+		<image name="art3" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./../../_inc/images/overlay_crt.png</path>
+			<opacity>1</opacity>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1500" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1500" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+                		<animation property="opacity" from="0" to="1" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+		<image name="art4" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./../../_inc/images/overlay_crt.png</path>
+			<opacity>1</opacity>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+			<storyboard>
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1500" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0" begin="2000" duration="1500" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+                		<animation property="opacity" from="0" to="1" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+		<text name="TextDate" extra="true">
+			<pos>0.68 0.8</pos>
+			<size>0.24 0.08</size>
+			<fontSize>0.04</fontSize>
+			<lineSpacing>1</lineSpacing>
+			<origin>1 0.5</origin>
+			<alignment>right</alignment>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>FFFFFF</color>
+			<zIndex>120</zIndex>
+			<format>%Y</format>
+			<visible>false</visible>
+		</text>
+		<text name="TextDate2" extra="true">
+			<pos>0.95 0.8</pos>
+			<size>0.24 0.08</size>
+			<fontSize>0.04</fontSize>
+			<origin>1 0.5</origin>
+			<alignment>left</alignment>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>FFFFFF</color>
+			<zIndex>145</zIndex>
+			<visible>false</visible>
+		</text>
+		<text name="systemInfo" extra="static">
+			<size>0.5 0.04</size>
+			<alignment>left</alignment>
+			<origin>0 0.5</origin>
+			<pos>0.05 0.873</pos>
+			<fontPath>./_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<fontSize>0.022</fontSize>
+			<color>fefefe</color>
+			<forceUppercase>1</forceUppercase>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</text>
+	</view>
+</theme>

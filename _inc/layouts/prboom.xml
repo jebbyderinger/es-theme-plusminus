@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$49.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$100+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>30 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PrBoom / Doom Source Port</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Id Software / Community Development</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Doom Engine Source Port | Original CPU: 386 PC Compatible | Media: Digital Files | Graphics: Software Rendering / OpenGL Options | Sound: MIDI / Digital Audio | Resolution: 320×200p Original / Higher Resolutions Supported</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>PrBoom is a source port of id Software's Doom engine designed to run Doom, Doom II, and compatible games on modern hardware. It preserves the original gameplay while adding improvements such as higher resolutions, improved compatibility, and additional features. Source ports like PrBoom helped maintain Doom's active community by supporting custom levels, modifications, and fan-created content long after the original release.</text>
+		</text>
+	</view>
+</theme>

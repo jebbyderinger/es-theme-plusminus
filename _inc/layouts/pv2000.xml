@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥29,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥65,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Casio PV-2000</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Casio</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 16 KB RAM | Media: Cartridge / Cassette | Graphics: Custom Video Hardware | Sound: AY-3-8910 PSG | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Casio PV-2000 was an 8-bit home computer and gaming system released in Japan in 1983. Unlike the PV-1000 console, the PV-2000 was designed as a computer system with built-in BASIC programming capabilities and cartridge support. It shared hardware similarities with Casio's gaming products while targeting home users interested in both programming and entertainment. The system had a limited release and software library, making it a rare example of Casio's early attempts to enter the home computer market.</text>
+		</text>
+
+	</view>
+</theme>

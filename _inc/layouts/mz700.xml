@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥79,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥260,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sharp MZ-700</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 64 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Sharp Custom Video Hardware | Sound: Internal Speaker | Resolution: 80×50 Text / 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp MZ-700 was a home computer released in Japan in 1982 as part of Sharp's MZ series. Designed as a lower-cost successor to the MZ-80 series, it used a Zilog Z80A processor and focused on expandability, programming, and hobby computing. Unlike many competing computers of the era, the MZ-700 used a "clean computer" design where the operating system and programming languages were loaded from external media instead of being permanently stored in ROM. The system featured a simple but flexible graphics system, optional printer and plotter support, and compatibility with cassette-based software. The MZ-700 became popular among Japanese computer enthusiasts and helped establish Sharp's reputation in the home computer market.</text>
+		</text>
+
+	</view>
+</theme>

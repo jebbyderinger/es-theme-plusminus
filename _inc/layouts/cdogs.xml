@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2002</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>C-Dogs SDL</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>C-Dogs SDL Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: C-Dogs Source Port | Original Hardware: IBM PC Compatible / DOS | Media: Original Game Data | Graphics: 2D Top-Down Sprite Engine | Sound: AdLib / Sound Blaster Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>CDogs SDL is an open-source modernization of the classic DOS action game C-Dogs, originally created by Ronny Wester. The project updates the top-down run-and-gun gameplay for modern systems while preserving the original missions, weapons, levels, and cooperative multiplayer. C-Dogs was known for its fast arcade-style combat, destructible environments, weapon variety, and local multiplayer action. CDogs SDL adds improved compatibility, controller support, higher resolutions, and enhancements while maintaining the style and gameplay of the original 1990s PC release.</text>
+		</text>
+
+	</view>
+</theme>

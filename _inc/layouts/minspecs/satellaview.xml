@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$150</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$309</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>- 2000</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Satellaview</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo / St.GIGA</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Ricoh 5A22 @ 3.58 MHz   |   Memory:  512 KB RAM   |   Sound:  Sony SPC700 - 8 Channels + Reverb   |   Media:  ROM Cartridge   |   Video:  256 × 224p / 512 x 448i   |   32,768 color palette   |   256 on-screen   |   </text>
+	</text>
+	</view>
+</theme>

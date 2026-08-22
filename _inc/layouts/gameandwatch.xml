@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$12.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$45</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>43.4 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Game & Watch</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Custom LCD controller | Memory: Fixed program logic | Media: Built-in LCD game | Graphics: Monochrome LCD segments | Sound: Beeper | Resolution: Fixed LCD display</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Game & Watch was a series of handheld electronic games released by Nintendo beginning in 1980. Each unit contained a single built-in game displayed on a dedicated LCD screen and included a digital clock or alarm feature. The series introduced the D-pad controller design and included games such as Ball, Donkey Kong, Mario Bros., Green House, and Octopus. Game & Watch systems became Nintendo's first major success in portable gaming and influenced the development of the Game Boy.</text>
+		</text>
+	</view>
+</theme>

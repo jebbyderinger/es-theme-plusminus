@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Community Developed</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>OpenBOR</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Chronocrash Community</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Beats of Rage Engine | Hardware: PC Compatible Systems | Media: Digital Files | Graphics: 2D Sprite Rendering | Sound: Digital Audio | Resolution: Variable</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>OpenBOR is an open-source game engine based on the fan-made beat 'em up project Beats of Rage. It was created to allow developers to build side-scrolling fighting games inspired by classic arcade titles. The engine supports custom characters, stages, animations, music, and gameplay systems. OpenBOR has been used to create many original and fan-made projects based on arcade-style action games.</text>
+		</text>
+	</view>
+</theme>

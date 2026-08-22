@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥12,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥27,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Game Pocket Computer</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC µPD78C06 @ 4 MHz | Memory: 6 KB RAM | Media: ROM Cartridges | Graphics: Monochrome LCD | Sound: Piezo Speaker | Resolution: 75×64p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Game Pocket Computer was a handheld game console released by Epoch Co. in Japan in 1984. Although compact in size, it featured interchangeable game cartridges, making it one of the earliest true cartridge-based handheld gaming systems. The monochrome LCD display presented simple graphics, while the console's low power consumption provided extended battery life. Only a small number of games were released, including adaptations of arcade-style action, puzzle, and sports titles, limiting its commercial success. Overshadowed by Nintendo's Game Boy a few years later, the Game Pocket Computer remains an important milestone in handheld gaming history and is valued today for its rarity and its role in the evolution of portable cartridge-based consoles.</text>
+		</text>
+
+	</view>
+</theme>

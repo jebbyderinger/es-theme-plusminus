@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥155000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥189757</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>??? thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>X1</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Sharp Z80 A @ 4 MHz   |   Memory:  6 KB ROM, 64 KB RAM, 4–48 KB Video RAM   |   Sound:   AY-3-8910 or Yamaha YM2149   |   Media:  Cassette tape, floppy disc   |   Video:  320 x 200p or 640 x 200p   |   8 color palette   |   8 on-screen   |   </text>
+</text>
+	</view>
+</theme>

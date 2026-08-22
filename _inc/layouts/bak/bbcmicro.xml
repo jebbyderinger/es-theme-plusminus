@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£235/£335</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£906/£1291</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>>1.5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>BBC MICRO</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   MOS Technology 6502/6512 - 2 MHz   |   Memory:  	16–128 KB RAM   |   Sound:   Texas Instruments SN76489, 4 channels, mono / TMS5220 speech synthesiser with phrase ROM (optional)   |   Media:  Cassette Tape / Floppy Disk / Hard Disk   |   Video:  640×256   |   Palette:   8 colours   |   </text>
+		</text>
+	</view>
+</theme>

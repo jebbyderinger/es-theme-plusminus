@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$500+</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,100+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Limited (MSX2 family)</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX2+</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Panasonic / Sony / Sanyo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 64 KB+ RAM | Media: Cartridge / Floppy Disk | Graphics: Yamaha V9958 VDP | Sound: AY-3-8910 PSG / FM expansion | Resolution: 256×212p / 512×212i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The MSX2+ was released in 1988 as an enhanced version of the MSX2 standard. It introduced the Yamaha V9958 video processor, adding improved graphics features including hardware scrolling, additional color capabilities, and support for more advanced visual effects. The system maintained compatibility with most MSX and MSX2 software while providing developers with new options for graphics-intensive games and applications. MSX2+ computers were produced primarily by Panasonic, Sony, and Sanyo, with models such as the Panasonic FS-A1WSX becoming some of the most recognized versions. The platform supported a wide range of software including games such as Aleste 2, Illusion City, Space Manbow, and various Japanese adventure titles. Although the MSX2+ was eventually replaced by the MSX turbo R, it represented the final evolution of the original Z80-based MSX architecture and remains popular among collectors and retro computing enthusiasts.</text>
+		</text>
+	</view>
+</theme>

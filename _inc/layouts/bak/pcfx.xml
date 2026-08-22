@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥49,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥88,000 (2026)</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>300,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PC-FX</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC V810 32-bit RISC @ 21.5 MHz | Memory: 2 MB RAM + 1.25 MB VRAM | Sound: 16-bit Stereo, 6-channel ADPCM + CD-DA | Media: CD-ROM | Video: 256 × 240 | 16.7 million color palette | Optimized for 2D graphics and FMV (no built-in 3D hardware) |</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Lutro</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Lutro Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Fantasy</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Language: Lua | Framework: LÖVE-compatible Runtime | Media: Lua Source Files | Cross-platform lightweight game framework designed for portable 2D games and retro handhelds |</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextSold" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextDate" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextDate2" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextName" extra="true">
+			<text>2 Player Games</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various Developers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="TextDesc" extra="true">
+			<visible>false</visible>
+		</text>
+	</view>
+</theme>

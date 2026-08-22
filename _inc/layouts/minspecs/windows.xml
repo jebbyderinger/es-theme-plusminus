@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+			<visible>false</visible>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$506</text>
+			<visible>false</visible>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>24 million</text>
+			<visible>false</visible>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202X</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Windows</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text></text>
+			<visible>false</visible>
+		</text>
+		<text name="plays" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="playtime" extra="true">
+			<visible>false</visible>
+		</text>
+		<text name="lastplays" extra="true">
+			<visible>false</visible>
+		</text>
+	</view>
+</theme>

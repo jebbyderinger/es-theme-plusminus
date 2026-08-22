@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$80</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$130</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Over 1 Million Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Beena</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega Toys</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Custom Embedded Processor | Memory: Built-In System Memory | Media: ROM Cartridges | Graphics: 2D Graphics Engine | Sound: Digital Audio | Display: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2005, Beena was an educational console developed by Sega Toys for young children in Japan. Designed as a successor to Sega's Advanced Pico Beena, it combined learning activities, games, and interactive content with a controller designed for younger users. The system supported cartridge-based software covering subjects such as reading, mathematics, drawing, and character-based games. Beena continued Sega's educational hardware line by focusing on interactive learning through games.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥29,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥83,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega AI Computer</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega Enterprises</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 64 KB RAM | Media: ROM Cartridges / Cassette Tape | Graphics: Texas Instruments TMS9918A VDP | Sound: Texas Instruments SN76489 PSG | Resolution: Up to 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Sega AI Computer was a Japanese educational home computer introduced by Sega in 1986. Based on the architecture of the SG-1000 and SC-3000 computer, it was designed as a low-cost learning system aimed at children and students. The machine featured a Zilog Z80A processor, 64 KB of RAM, a full keyboard, cartridge support, and cassette storage for saving programs and educational software. It remained compatible with much of Sega's existing SC-3000 software and hardware while emphasizing programming and computer literacy through BASIC and educational titles. Although released during the transition to more powerful 16-bit home computers, the Sega AI Computer provided an affordable introduction to computing and is remembered as the final evolution of Sega's 8-bit computer line before the company shifted its focus entirely to dedicated video game consoles.</text>
+		</text>
+
+	</view>
+</theme>

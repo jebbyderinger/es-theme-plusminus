@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£99.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£220</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amstrad GX4000</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Amstrad</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 64 KB RAM | Media: Cartridge | Graphics: Amstrad CPC Plus ASIC | Sound: AY-3-8912 PSG | Resolution: 160×200p / 320×200p / 640×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Amstrad GX4000 was released in 1990 as a cartridge-based console version of the Amstrad CPC Plus computer line. It used enhanced CPC hardware with improved graphics capabilities compared with the original CPC computers. The system library included arcade conversions and original games such as Burnin' Rubber, Robocop 2, Pang, and Switchblade. Limited marketing, competition from existing consoles, and a small software library contributed to its short lifespan.</text>
+		</text>
+	</view>
+</theme>

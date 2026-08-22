@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>CannonBall</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Chris White / Sega (Original Game)</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Open Source OutRun Engine Recreation | Original Hardware: Sega OutRun Arcade Board | Media: Original OutRun ROMs Required | Graphics: Enhanced Raster Graphics | Sound: Yamaha FM & PCM Audio Emulation | Resolution: 320×224p (Original) with Widescreen and High-Resolution Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>CannonBall is an open-source recreation of Sega's OutRun arcade engine developed by Chris White. Rather than emulating the original arcade hardware, CannonBall reimplements the game's engine while requiring the original OutRun ROMs for graphics, music, and game data. This approach provides highly accurate gameplay while introducing modern features including widescreen support, unlocked frame rates, customizable controls, improved force feedback, enhanced audio options, time attack modes, and numerous quality-of-life improvements. CannonBall preserves the driving mechanics and branching routes that made OutRun one of the defining arcade racing games of the 1980s while allowing it to run smoothly on modern hardware. It has become the preferred way for many enthusiasts to experience the original OutRun without relying solely on traditional arcade emulation.</text>
+		</text>
+
+	</view>
+</theme>

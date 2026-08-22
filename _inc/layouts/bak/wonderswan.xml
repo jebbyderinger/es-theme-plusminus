@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$50</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$85</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1.55 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Wonderwan</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Bandai</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6th</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  NEC V30 MZ @ 3.072 MHz MHz   |  Memory:  512 kbit (64 KB) RAM   |   Sound:  4 channel PCM  |   Media:  Rom CartRIDGE   |   Video:  224 × 144p   |   16 shades of grey   |   8 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

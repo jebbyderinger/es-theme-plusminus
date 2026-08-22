@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$599</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈$2,800</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>200,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TRS-80 Model I</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Tandy / Radio Shack</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2nd</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 1.77 MHz   |   Memory: 4 KB RAM (expandable to 48 KB)   |   Sound: 1-bit Speaker / Cassette Output   |   Media: Cassette Tape / Floppy Disk   |   Video: 64 × 16 Text Display   |   Monochrome Display   |   128 Characters   |</text>
+		</text>
+	</view>
+</theme>

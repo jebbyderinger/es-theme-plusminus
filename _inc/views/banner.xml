@@ -1,0 +1,565 @@
+x<?xml version="1.0" encoding="UTF-8"?>
+
+<theme defaultView="basic">
+<formatVersion>7</formatVersion>
+	<customView name="banner" inherits="grid">
+		<image name="art3" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.65 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>1</opacity>
+			<rotation>90</rotation>
+			<zIndex>82</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="art5" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.65 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.3</opacity>
+			<rotation>90</rotation>
+			<zIndex>82</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="art4" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./../../_inc/images/overlay_crt.png</path>
+			<opacity>1</opacity>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="art6" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./../../_inc/images/overlay_crt.png</path>
+			<opacity>1</opacity>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="art" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.35 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.7</opacity>
+			<rotation>-90</rotation>
+			<zIndex>82</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="art2" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.35 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.3</opacity>
+			<rotation>-90</rotation>
+			<zIndex>82</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="name_bak, logo_bak, lastplayed_bak, players_bak, lastplays_bak, playtime_bak, genre_bak, developer_bak, plays_bak, marquee2, players_logo, md_rating, md_flag, title_bar, title_bar2, title_bar3, title_bar4, theflag" extra="true">
+			<storyboard event="activate">
+				<animation property="opacity" from="0" to="0" begin="0" duration="250" mode="easeIn"/>
+				<animation property="opacity" from="0" to="0.6" begin="250" duration="1500" mode="easeIn"/>
+				<animation property="opacity" from="0.6" to="0.8" begin="1750" duration="250" mode="easeIn"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+				<animation property="opacity" from="0.8" to="0" begin="0" duration="0" mode="easeOut"/>
+			</storyboard>
+		</image>
+		<text name="md_players, md_description, developer_text, genre_text, players_text, md_name, md_developer, md_releasedate, gamedesc, gamedesc2, md_genre, plays, playtime, lastplays, md_playcount, md_gametime, md_lastplayed" extra="true">
+			<storyboard event="activate">
+				<animation property="opacity" from="0" to="0" begin="0" duration="250" mode="easeIn"/>
+				<animation property="opacity" from="0" to="0.6" begin="250" duration="1500" mode="easeIn"/>
+				<animation property="opacity" from="0.6" to="0.8" begin="1750" duration="250" mode="easeIn"/>
+			</storyboard>
+            <storyboard event="deactivate">
+				<animation property="opacity" from="0.8" to="0" begin="0" duration="0" mode="easeOut"/>
+			</storyboard>
+		</text>
+		<image name="background" extra="true">
+			<visible>false</visible>
+		</image>
+		<image name="md_marquee">
+			<pos>0.5 0.4</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.8 0.58</maxSize>
+			<visible>true</visible>
+		</image>
+		<image name="marquee2" extra="true">
+			<pos>0.75 0.28</pos>
+			<origin>0.5 1</origin>
+			<maxSize>0.34 0.25</maxSize>
+			<path>{game:marquee}</path>
+			<zIndex>175</zIndex>
+			<visible>true</visible>
+		</image>
+		<video name="videocrton2" extra="true">
+			<path>./../../_inc/images/CRT_Noise_bak.mp4</path>
+			<loops>0</loops>
+			<effect>none</effect>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<delay>0</delay>
+			<pos if="{system.theme} == 'gb'">0.5 0.465</pos>
+			<pos if="{system.theme} == 'gamegear'">0.5 0.45</pos>
+			<pos if="{system.theme} == 'gbc'">0.5 0.45</pos>
+			<delay>0</delay>
+			<size>1 1.2</size>
+			<size if="{system.theme} == 'gb'">0.5 0.605</size>
+			<size if="{system.theme} == 'gamegear'">0.6 0.6</size>
+			<size if="{system.theme} == 'gbc'">0.5 0.63</size>
+			<size if="{system.theme} == 'gba'">0.74 0.655</size>
+			<zIndex>80</zIndex>
+			<visible>true</visible>
+			<storyboard event="activate">
+				<animation property="opacity" from="1" to="0.2" begin="0" duration="3000" mode="easeOut"/>
+				<animation property="opacity" from="0.2" to="0" begin="3000" duration="1000" mode="easeIn"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+				<animation property="opacity" from="0" to="0" begin="0" duration="0"/>
+			</storyboard>
+		</video>
+		<image name="logo">
+			<pos>0.75 0.91</pos>
+			<maxSize>0.22 0.09</maxSize>
+			<maxSize if="{system.theme} == 'nes'">0.224 0.09</maxSize>
+			<maxSize if="{system.theme} == 'c64'">0.31 0.136</maxSize>
+			<maxSize if="{system.theme} == 'n64'">0.29 0.126</maxSize>
+			<maxSize if="{system.theme} == 'megadrive'">0.28 0.136</maxSize>
+			<maxSize if="{system.theme} == 'neogeocd'">0.31 0.136</maxSize>
+			<maxSize if="{system.theme} == 'saturn'">0.29 0.136</maxSize>
+			<maxSize if="{system.theme} == 'gamecube'">0.28 0.136</maxSize>
+			<origin>0.5 1</origin>
+			<zIndex>150</zIndex>
+			<visible>true</visible>
+			<storyboard repeatAt="100">
+				<animation property="opacity" from="1" to="0.6" begin="100" duration="2000" mode="easeIn"/>
+				<animation property="opacity" from="0.6" to="1" begin="2100" duration="2000" mode="easeOut"/>
+			</storyboard>
+		</image>
+		<image name="md_thumbnail">
+			<linearSmooth>true</linearSmooth>
+			<zIndex>175</zIndex>
+			<pos>0.28 0.45</pos>
+			<maxSize>0.4 0.55</maxSize>
+			<origin>0.5 0.5</origin>
+			<delay>0</delay>
+			<roundCorners>5</roundCorners>
+			<visible>true</visible>
+			<zIndex>140</zIndex>
+			<storyboard event="open" repeatAt="2500">
+				<animation property="opacity" from="0" to="0" begin="0" duration="2000" mode="linear"/>
+				<animation property="opacity" from="0" to="0.4" begin="2000" duration="500" mode="easeOut"/>
+				<animation property="scale" from="1" to="1.05" begin="2500" duration="2000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="4500" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="0.4" to="1" begin="2500" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.4" begin="4500" duration="2000" mode="easeOut"/>
+			</storyboard>
+			<storyboard event="activate" repeatAt="2500">
+				<animation property="opacity" from="0" to="0" begin="0" duration="2000" mode="linear"/>
+				<animation property="opacity" from="0" to="0.4" begin="2000" duration="500" mode="easeOut"/>
+				<animation property="scale" from="1" to="1.05" begin="2500" duration="2000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="4500" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="0.4" to="1" begin="2500" duration="2000" mode="easeOut"/>
+				<animation property="opacity" from="1" to="0.4" begin="4500" duration="2000" mode="easeOut"/>
+			</storyboard>
+            		<storyboard event="deactivate">
+               			<animation property="scale" from="1" to="0" duration="1" mode="EaseOut"/>
+                		<animation property="opacity" from="1" to="0" duration="1" mode="Linear"/>
+            		</storyboard>
+		</image>
+		<image name="players_logo" extra="true">
+			<visible>false</visible>
+		</image>
+		<image name="theflag" extra="true">
+			<path>./../../_inc/flags/{game:region}-flag.png</path>
+			<maxSize>0.055 0.055</maxSize>
+			<pos>0.9 0.27</pos>
+			<origin>0.5 0.5</origin>
+			<zIndex>120</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_flag">
+			<visible>false</visible>
+		</image>
+		<image name="name_bak" extra="true">
+			<pos>0.75 0.33</pos>
+			<size>0.35 0.04</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>777777</color>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+		</image>
+		<text name="md_name" extra="true">
+			<pos>0.75 0.33</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.35 0.04</size>
+			<singleLineScroll>yes</singleLineScroll>
+			<alignment>center</alignment>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>000000</color>
+			<fontSize>0.028</fontSize>
+			<zIndex>140</zIndex>
+		</text>
+		<image name="developer_bak" extra="true">
+			<pos>0.75 0.68</pos>
+			<size>0.35 0.004</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>777777</color>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+		</image>
+		<text name="md_developer">
+			<pos>0.75 0.72</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.35 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<color>000000</color>
+			<singleLineScroll>yes</singleLineScroll>
+			<fontSize>0.024</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>140</zIndex>
+			<alignment>center</alignment>
+			<forceUppercase>1</forceUppercase>
+			<visible>true</visible>
+		</text>
+		<image name="players_bak" extra="true">
+			<pos>0.55 0.5</pos>
+			<size>0.8 0.04</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>333333</color>
+			<zIndex>90</zIndex>
+			<rotation>-90</rotation>
+			<visible>true</visible>
+		</image>
+		<text name="players_text" extra="true">
+			<pos>0.55 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<size>0.6 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<singleLineScroll>true</singleLineScroll>
+			<color>bebebe</color>
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<text>PLAYERS:   {game:players}   |   GENRE:   {game:genre}</text>
+			<rotation>-90</rotation>
+			<visible>true</visible>
+		</text>
+		<text name="md_players">
+			<visible>false</visible>
+		</text>
+		<text name="md_genre">
+			<visible>false</visible>
+		</text>
+		<datetime name="md_releasedate">
+			<pos>0.75 0.77</pos>
+			<size>1 1</size>
+			<fontSize>0.065</fontSize>
+			<lineSpacing>1</lineSpacing>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<fontPath>./../../_inc/fonts/HungerGames.ttf</fontPath>
+			<color>000000</color>
+			<zIndex>120</zIndex>
+			<format>%Y</format>
+			<text if="{game:releasedate} == 'xsi:nil'">xxxx</text>
+			<visible>true</visible>
+		</datetime>
+		<image name="developer_logo" extra="true">
+			<visible>false</visible>
+		</image>
+		<image name="genre_logo" extra="true">
+			<visible>false</visible>
+		</image>
+		<rating name="md_rating">
+			<pos>0.74 0.46</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.035 0.035</size>
+			<color>FFFFFF</color>
+			<rotation>90</rotation>
+			<origin>0.5 0.5</origin>
+			<zIndex>150</zIndex>
+			<horizontalAlignment>right</horizontalAlignment>
+			<unfilledColor>80808030</unfilledColor>
+			<visible>false</visible>
+		</rating>
+		<image name="title_bar" extra="true">
+			<pos>0.75 0.5</pos>
+			<size>0.36 1</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>FFFFFF</color>
+			<zIndex>85</zIndex>
+			<visible>true</visible>
+		</image>
+		<image name="title_bar3" extra="true">
+			<pos>0.75 0.39</pos>
+			<size>0.35 0.002</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>000000</color>
+			<zIndex>90</zIndex>
+			<visible>false</visible>
+		</image>
+		<text name="gamedesc" extra="true">
+			<alignment>center</alignment>
+			<verticalAlignment>top</verticalAlignment>
+			<origin>0.5 0.5</origin>
+			<size>0.35 0.3</size>
+			<pos>0.75 0.51</pos>
+			<color>000000</color>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<zIndex>140</zIndex>
+			<autoScroll>vertical</autoScroll>
+			<forceUppercase>1</forceUppercase>
+			<text>{game:desc}</text>
+			<visible>true</visible>
+		</text>
+		<text name="md_description">
+      		<visible>false</visible>
+    	</text>
+    	<image name="plays_bak" extra="true">
+			<pos>0.95 0.5</pos>
+			<size>0.8 0.04</size>
+			<origin>0.5 0.5</origin>
+			<path>./../../_inc/images/space.png</path>
+			<color>333333</color>
+			<zIndex>90</zIndex>
+			<rotation>-90</rotation>
+			<visible>true</visible>
+		</image>
+		<text name="plays" extra="true">
+			<pos>0.95 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<size>0.8 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<fontSize>0.022</fontSize>
+			<color>bebebe</color> 
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<text>Times Played:</text>
+			<rotation>90</rotation>
+			<visible>false</visible>
+		</text>
+		<text name="md_playcount">
+			<pos>0.95 0.3</pos>
+			<origin>0.5 0.5</origin>
+			<alignment>right</alignment>
+			<size>0.04 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Bold-03.ttf</fontPath>
+			<fontSize>0.022</fontSize>
+			<color>bebebe</color> 
+			<zIndex>150</zIndex>
+			<rotation>90</rotation>
+			<visible>false</visible>
+		</text>
+		<text name="playtime" extra="true">
+			<pos>0.95 0.16</pos>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<size>0.15 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<color>bebebe</color> 
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<text>Time Played:</text>
+			<rotation>90</rotation>
+			<visible>true</visible>
+		</text>
+		<text name="md_gametime">
+			<pos>0.95 0.35</pos>
+			<origin>0.5 0</origin>
+			<alignment>left</alignment>
+			<size>0.13 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<color>bebebe</color> 
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<rotation>90</rotation>
+			<visible>true</visible>
+		</text>
+		<text name="lastplays" extra="true">
+			<pos>0.95 0.57</pos>
+			<origin>0.5 0.5</origin>
+			<alignment>center</alignment>
+			<size>0.38 0.04</size>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<color>bebebe</color> 
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<text>Last played:</text>
+			<rotation>90</rotation>
+			<visible>true</visible>
+		</text>
+		<datetime name="md_lastplayed">
+			<pos>0.95 0.82</pos>
+			<size>0.2 0.04</size>
+			<origin>0.5 0</origin>
+			<alignment>left</alignment>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<color>bebebe</color>
+			<zIndex>150</zIndex>
+			<forceUppercase>1</forceUppercase>
+			<rotation>90</rotation>
+			<visible>true</visible>
+		</datetime>
+		<image name="gametime_logo" extra="true">
+			<visible>false</visible>
+		</image>
+		<image name="md_savestate,md_nosavestate">
+			<origin>1 0.5</origin>
+			<path>./../../_inc/icons/SaveState.png</path>
+			<pos>0.935 0.074</pos>
+			<maxSize>0.032 0.032</maxSize>
+			<color>999999</color>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_nosavestate">
+			<color>333333</color>
+ 			<color if="{system.theme} == 'gb'">666666</color>
+			<visible>false</visible>
+		</image>
+		<image name="md_hidden">
+			<path>./../../_inc/images/hidden.svg</path>
+			<pos>0.875 0.076</pos>
+			<maxSize>0.028 0.028</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>999999</color>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_kidgame,md_notkidgame">
+			<path>./../../_inc/images/kid.svg</path>
+			<pos>0.825 0.075</pos>
+			<maxSize>0.034 0.034</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_notkidgame"> 
+			<color>80808000</color>
+			<visible>false</visible>
+		</image>
+		<image name="md_cheevos,md_notcheevos">
+			<origin>0.17 0.864</origin>
+			<path>./../../_inc/icons/Contest.png</path>
+			<pos>0.440 0.108</pos>
+			<maxSize>0.02 0.03</maxSize>
+			<color>666666</color>
+			<zIndex>100</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_notcheevos">
+			<color>80808040</color>
+			<visible>true</visible>
+		</image>
+		<image name="md_manual,md_nomanual">
+			<pos>0.785 0.075</pos>
+			<maxSize>0.034 0.034</maxSize>
+			<path>./../../_inc/images/book.png</path>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+			<visible>false</visible>
+		</image>
+		<image name="md_nomanual">
+			<color>80808040</color>
+			<visible>false</visible>
+		</image>
+		<image if="{system.theme} == 'gb'" name="overlay_gb" extra="true">
+			<path>./../../_inc/images/overlay_gb.png</path>
+			<size>1 1</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<zIndex>85</zIndex>
+		</image>
+		<image if="{system.theme} == 'gbc'" name="overlay_gbc" extra="true">
+			<path>./../../_inc/images/overlay_gbc.png</path>
+			<size>1 1</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<zIndex>85</zIndex>
+		</image>
+		<image if="{system.theme} == 'gba'" name="overlay_gba" extra="true">
+			<path>./../../_inc/images/overlay_gba.png</path>
+			<size>1 1</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<zIndex>85</zIndex>
+		</image>
+		<image if="{system.theme} == 'gamegear'" name="overlay_gamegear" extra="true">
+			<path>./../../_inc/images/overlay_gamegear.png</path>
+			<size>1 1</size>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<zIndex>85</zIndex>
+		</image>
+		<imagegrid name="gamegrid">
+			<pos>0.75 0.0</pos>
+			<size>0.25 1</size>
+			<scrollDirection>horizontal</scrollDirection>
+			<autoLayout>1 1</autoLayout>
+			<autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+			<animateSelection>false</animateSelection>
+			<scrollSound>./../../_inc/sound/scroll.wav</scrollSound>
+			<scrollbarColor>333333ff</scrollbarColor>
+			<scrollbarCorner>0.49</scrollbarCorner>
+			<scrollbarSize>0.005</scrollbarSize>
+			<imageSource>none</imageSource>
+			<centerSelection>true</centerSelection>
+			<zIndex>200</zIndex>
+			<visible>false</visible>
+		</imagegrid>
+		<gridtile name="default">
+			<backgroundColor>FFFFFF00</backgroundColor>
+			<imageColor>FFFFFF00</imageColor>
+			<visible>false</visible>
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+			<backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+			<imageColor>FFFFFF00</imageColor>
+			<visible>false</visible>
+		</gridtile>
+		<text name="gridtile">
+			<color>FFFFFF00</color>
+			<fontPath>./../../_inc/fonts/AdobeBlank.ttf</fontPath>
+			<visible>false</visible>
+		</text>
+		<text name="gridtile_selected">
+			<color>FFFFFF00</color>
+			<fontSize>0</fontSize>
+			<size>1 0</size>
+			<visible>false</visible>
+		</text>
+		<image name="gridtile.favorite">
+			<color>FFFFFF00</color>
+			<visible>false</visible>
+		</image>
+		<ninepatch name="gridtile.background:selected">
+			<color>FFFFFF00</color>
+			<visible>false</visible>
+			<animateColor>FFFFFF00</animateColor>
+			<animateColorTime>0</animateColorTime>
+		</ninepatch>
+		</customView>
+</theme>

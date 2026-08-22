@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$1,298</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$5,400</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5–6 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Apple II</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Apple Computer</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502 @ 1 MHz | Memory: 4 KB RAM (expandable) | Media: Cassette / Floppy Disk | Graphics: Color graphics hardware | Sound: Speaker | Resolution: 280×192p / 40×48p / 80×48p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Apple II was released in 1977 and became one of the first successful mass-market personal computers. Designed by Steve Wozniak and produced by Apple Computer, it introduced features such as color graphics, expansion slots, and an open hardware design that allowed users to customize and upgrade the system. The platform was used for education, business, programming, and gaming. Its software library included games such as Castle Wolfenstein, Choplifter, Ultima, Wizardry, Prince of Persia, and The Oregon Trail. Thousands of applications were created for the Apple II, helping establish Apple as a major computer company. Multiple models were released, including the Apple II Plus, Apple IIe, Apple IIc, and Apple IIGS. The Apple II remained in production for more than 15 years and became one of the longest-supported computer platforms of its era.</text>
+		</text>
+	</view>
+</theme>

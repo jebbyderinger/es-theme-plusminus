@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$24.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2019</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Ion Fury</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Voidpoint / 3D Realms</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Build Engine (EDuke32 Fork) | Original Hardware: IBM PC Compatible | Media: Digital Download / Physical Release | Graphics: 2.5D Sprite-Based Rendering | Sound: Digital Audio / MIDI | Resolution: 320×200p Original with Modern High-Resolution Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Ion Fury is a first-person shooter released in 2019 and built using a modernized version of Ken Silverman's Build engine. Developed by Voidpoint, it combines the gameplay style of classic 1990s shooters with new levels, weapons, enemies, and modern engine improvements. The game uses the same technology family as Duke Nukem 3D and Shadow Warrior while adding widescreen support, improved effects, and enhanced modding features.</text>
+		</text>
+
+	</view>
+</theme>

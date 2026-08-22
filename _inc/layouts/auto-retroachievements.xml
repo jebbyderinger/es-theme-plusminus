@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2012</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>RetroAchievements</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>RetroAchievements.org</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>TROPHY</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Achievement Tracking Service | Scope: Retro & Classic Games | Features: Cheevos, Leaderboards, Hardcore Mode | Frontend: EmulationStation / RetroArch</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>RetroAchievements is a community-driven service that adds trophy-style achievements, known as cheevos, to classic and retro games that never originally had them. Launched in 2012, it tracks player progress across a huge range of consoles and titles, offering unlockable challenges, points, and leaderboards similar to modern achievement systems on Steam or Xbox. On Batocera, this collection gathers all games that have RetroAchievements support, letting players log in, earn achievements as they play, and compete on global leaderboards. A Hardcore Mode is also available for purists, disabling save states and rewind to keep runs legitimate.</text>
+		</text>
+	</view>
+</theme>

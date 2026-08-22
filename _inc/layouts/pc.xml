@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$1,565+</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$5,500+</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Millions of IBM PC compatibles</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>PC DOS</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>IBM / Microsoft / Various Manufacturers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 8088 through Pentium-class x86 Processors | Memory: KB to MB RAM | Media: Floppy Disk / CD-ROM / Hard Drive | Graphics: CGA, EGA, VGA, SVGA | Sound: PC Speaker, AdLib, Sound Blaster, MIDI | Resolution: 320×200p CGA, 320×200p VGA, 640×480p VGA, 800×600p SVGA</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The DOS PC platform began with the release of the IBM Personal Computer in 1981 and became one of the most important gaming platforms of the 1980s and 1990s. Early DOS games were built around text displays, CGA and EGA graphics, and simple PC speaker audio before expanding with VGA graphics, sound cards, and CD-ROM support. The platform hosted many influential genres including adventure games, role-playing games, simulations, strategy games, and early first-person shooters. Titles from this era helped establish PC gaming traditions that continue today, including modding, shareware distribution, and keyboard-based controls.</text>
+		</text>
+
+	</view>
+</theme>

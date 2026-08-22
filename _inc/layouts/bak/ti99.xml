@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$1150</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$5100</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2.8 Million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Ti99/4A</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Texas Instruments</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  TMS9900 @ 3 MHz   |   Memory:  16 KB RAM  |  Sound:   TMS9919, later SN94624 (3 voices, 1 noise)   |   Media:  ROM Cartridge, cassette, floppy disk  |   Video:  256 × 192p   |   15 color palette   |   15 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

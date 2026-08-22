@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$380</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>150 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Nintendo Switch</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NVIDIA Tegra X1 | Memory: 4 GB RAM | Media: Cartridge / Digital | Graphics: NVIDIA Maxwell GPU | Sound: Stereo audio | Resolution: 1280×720p handheld / 1920×1080p docked</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo Switch was released in 2017 as a hybrid console designed for both handheld and home gaming. Its detachable Joy-Con controllers allowed multiple play styles including portable play, tabletop mode, and traditional television gaming. The system combined handheld hardware with console features and received a large library including The Legend of Zelda: Breath of the Wild, Super Mario Odyssey, Animal Crossing: New Horizons, Mario Kart 8 Deluxe, and Pokémon titles. The Switch became one of Nintendo's most successful systems and continued Nintendo's focus on unique hardware design and first-party software.</text>
+		</text>
+	</view>
+</theme>

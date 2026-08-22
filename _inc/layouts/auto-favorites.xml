@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Your Picks</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1970s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Favorites</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>★</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Curated Game Collection | Scope: User-Marked Titles | Sorting: By System, Genre, or Date Added | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Favorites collection gathers every game you've personally marked as a favorite across all your installed Batocera systems. Unlike the All Games list, this is a hand-picked selection curated by you, letting you quickly jump to the titles you play most or want to keep close at hand. Games are added to this collection by toggling the favorite flag from within EmulationStation, and the list updates automatically as you mark or unmark titles. It's especially useful for large libraries, offering a fast way to bypass browsing entire systems in favor of a personal shortlist.</text>
+		</text>
+	</view>
+</theme>

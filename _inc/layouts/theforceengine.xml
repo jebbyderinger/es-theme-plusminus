@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>The Force Engine</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>The Force Engine Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Dark Forces Engine Recreation | Original Engine: Jedi Game Engine | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 2.5D Ray Casting Engine | Sound: AdLib / Sound Blaster Audio | Resolution: Up to 1920×1080p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Force Engine is an open-source recreation and modernization of the technology behind Star Wars: Dark Forces. It allows the classic 1995 LucasArts first-person action game to run on modern systems while preserving the original gameplay, levels, weapons, and atmosphere. The engine adds features such as widescreen support, higher resolutions, improved controls, and enhanced rendering while remaining compatible with the original game data. It also provides a foundation for future support of other games using similar LucasArts technology.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$400</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1214</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>9 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX Turbo R</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>ASCII Corporation</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80 @ 3.5 MHz + R800 @ 7.159MHz  |   Memory:  256+ kbit RAM   |   Sound:   AY-3-8910 - 3 Channels  |   Media:  ROM Cartridge / Floppy Disk / Cassette Tape   |   Video:  256 x 192p   |   15 color palette | 15 on-screen   </text>
+</text>
+	</view>
+</theme>

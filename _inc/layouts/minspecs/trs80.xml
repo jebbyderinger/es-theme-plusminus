@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$599.95</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$3190</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2.5 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TRS 80</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Tandy Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   Zilog Z80 @ 1.774 MHz   |   Memory:  	4–48 KB RAM   |   Sound:   Square wave tones   |   Media:  Cassette Tape / Floppy Disk   |   Video:  64 × 16 character semigraphics   |   Palette:   Monochrome   |   </text>
+		</text>
+	</view>
+</theme>

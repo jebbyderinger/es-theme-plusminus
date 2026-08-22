@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$521</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>570 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Neogeo CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Neogeo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Motorola 68000 @ 12 MHz + Z80 @ 4Mhz  |   Memory:  7 MB RAM   |   Sound:  Yamaha YM2610 - 15 Channels   |   Media:  CD-ROM (650 MB)  |   Video:  320 × 224p   |   65,536 colour palette   |   4096 colors on-screen   |   </text>
+		</text>
+	</view>
+</theme>

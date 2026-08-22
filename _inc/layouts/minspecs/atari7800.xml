@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$140</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$389</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>3.77 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Atari SALLY 6502C @ 1.19/1.79   |   Memory:  4 kbit RAM    |   Sound:  TIA - 2 channels  |   Media:  ROM Cartridge   |   Video:  160 x 240p or 320 x 240p   |  256 color palette   |   256 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

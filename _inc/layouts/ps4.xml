@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$530</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>117 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2013</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202X</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation 4</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: AMD Jaguar 8-core @ 1.6 GHz | Memory: 8 GB GDDR5 RAM | Media: Blu-ray / Digital Download | Graphics: AMD GCN GPU | Sound: AMD Audio Processor | Resolution: 720p / 1080p / 4K</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation 4 was released in 2013 as Sony's eighth-generation home console. It focused on digital distribution, online services, and social features while using PC-based hardware architecture. The system supported Blu-ray discs, downloadable games, streaming applications, and PlayStation VR. Its library included games such as Bloodborne, Horizon Zero Dawn, God of War, Spider-Man, and The Last of Us Part II. The PlayStation 4 became one of Sony's most successful consoles and remained supported alongside the PlayStation 5.</text>
+		</text>
+	</view>
+</theme>

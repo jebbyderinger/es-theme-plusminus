@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£1,100</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>3 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amstrad CPC</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Amstrad</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 64 KB RAM | Media: Cassette / 3-inch Disk | Graphics: Gate Array chipset | Sound: AY-3-8912 PSG | Resolution: 160×200p / 320×200p / 640×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Amstrad CPC was released in 1984 as a family of home computers designed for the European market. The system was sold as a complete package that included a computer, keyboard, and monitor, unlike many competitors that required separate displays. The CPC became popular for home computing, education, and gaming. Its software library included games such as Gryzor, Operation Wolf, Robocop, Batman, Head Over Heels, and Burnin' Rubber. Multiple versions were released, including the CPC 464, CPC 664, and CPC 6128, with later models adding disk drives and increased memory. The platform competed with systems such as the Sinclair ZX Spectrum, Commodore 64, and BBC Micro. Although it was less common outside Europe, the CPC developed a large software library and remains an important part of European home computer history.</text>
+		</text>
+	</view>
+</theme>

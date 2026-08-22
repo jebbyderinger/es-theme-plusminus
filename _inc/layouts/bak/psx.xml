@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$613</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>102.49 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2006</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Playstation</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5</text>
+		</text>
+		<text name="TextRes" extra="true">
+			<text>256x224p to 640x480i</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  R3000 @ 33.8688 MHz   |   Memory:  2 MB RAM   |   Sound:  Yamaha YM2610 - 15 Channels   |   Media:  CD-ROM (650 MB)  |   Video:  256 × 224p - 640 x 480i   |   16.7M color palette   |   153,600 on-screen   |   </text>
+</text>
+	</view>
+</theme>

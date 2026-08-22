@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$79.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$180</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Gamate</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Bit Corporation / UMC</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 Compatible | Memory: 16 KB RAM | Media: ROM Cartridges | Graphics: Custom LCD Graphics Hardware | Sound: PSG Audio | Resolution: 160×152p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Gamate was a handheld video game system released in 1990 by Bit Corporation and distributed by UMC. Designed as a competitor to the Nintendo Game Boy, it featured interchangeable cartridges and a monochrome LCD display. The system had a library of original games covering genres such as platformers, puzzles, shooters, and sports. Despite being released internationally, limited marketing, small software support, and competition from Nintendo's handheld dominance prevented the Gamate from becoming widely successful. Today it is considered a rare handheld system among collectors.</text>
+		</text>
+
+	</view>
+</theme>

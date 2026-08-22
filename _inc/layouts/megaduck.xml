@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$79.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$190</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Mega Duck</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Welback Holdings</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: SM83 Compatible (Sharp LR35902) @ 4.19 MHz | Memory: 16 KB RAM | Media: ROM Cartridges | Graphics: Custom LCD Graphics Hardware | Sound: 4-Channel PSG Audio | Resolution: 160×144p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Mega Duck was a handheld video game system released in 1993 by Welback Holdings. It was designed as a low-cost competitor to the Nintendo Game Boy and shared many technical similarities with Nintendo's handheld hardware. The system featured a monochrome LCD screen, interchangeable cartridges, and a library of games including puzzle, action, and educational titles. It was sold under different names in various regions, including the Cougar Boy in Europe. Limited distribution and competition from the Game Boy prevented it from becoming widely successful.</text>
+		</text>
+
+	</view>
+</theme>

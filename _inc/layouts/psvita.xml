@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$350</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>16 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2011</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2019</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation Vita</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM Cortex-A9 Quad Core @ 333 MHz | Memory: 512 MB RAM | Media: Vita Card / Digital Download | Graphics: PowerVR SGX543MP4+ GPU | Sound: Stereo Audio | Resolution: 960×544p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation Vita was released in 2011 as Sony's successor to the PlayStation Portable. It featured dual analog sticks, a touchscreen, rear touch panel, cameras, and support for physical Vita game cards. The system supported downloadable games, PlayStation classics, and remote features with PlayStation 4. Its library included titles such as Uncharted: Golden Abyss, Persona 4 Golden, Tearaway, Gravity Rush, and Killzone: Mercenary. The Vita remained in production until 2019 and developed a strong following for its hardware and independent game support.</text>
+		</text>
+	</view>
+</theme>

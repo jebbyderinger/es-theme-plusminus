@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$19.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$30-$50</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Various Releases</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>TV Games / Plug &amp; Play</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Various Manufacturers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>MISC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Hardware: Dedicated Plug &amp; Play Consoles | CPU: Custom Integrated Chips | Media: Built-In ROM | Graphics: 2D Sprite Hardware | Sound: Integrated PSG / Digital Audio | Resolution: Various (NTSC 256×240p typical)</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>TV Games is a category covering dedicated plug-and-play video game devices designed to connect directly to a television and provide instant access to built-in games. Popular from the mid-1990s onward, these systems included products from companies such as Jakks Pacific, Tiger Electronics, Radica, and others. Many featured simplified versions of classic arcade and console games, often using a controller shaped like the original hardware or a themed accessory. Unlike traditional consoles, TV Games usually contained all software inside the device with no interchangeable media. In Batocera, this category represents a wide range of specialized plug-and-play hardware preserved through MAME emulation.</text>
+		</text>
+
+	</view>
+</theme>

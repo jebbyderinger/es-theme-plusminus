@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$650</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>102.49 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2006</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MIPS R3000A @ 33.86 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Geometry Transformation Engine + GPU | Sound: 24-channel ADPCM audio | Resolution: 256×224p–640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The original PlayStation was released in 1994 and became Sony's first home video game console. It helped establish CD-ROM as the primary media format for console gaming and introduced many players to 3D graphics. The system's library included major franchises such as Final Fantasy, Metal Gear Solid, Resident Evil, Gran Turismo, Crash Bandicoot, Tekken, Tomb Raider, and Castlevania: Symphony of the Night. Sony's focus on third-party developers helped create one of the largest game libraries of its generation. The PlayStation became one of the best-selling consoles of all time and established Sony as a major force in the gaming industry.</text>
+		</text>
+	</view>
+</theme>

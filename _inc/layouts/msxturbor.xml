@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$700+</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,500+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Limited production</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX turbo R</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Panasonic</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: R800 @ 7.16 MHz + Z80A @ 3.58 MHz | Memory: 256 KB–512 KB RAM | Media: Cartridge / Floppy Disk | Graphics: Yamaha V9958 VDP | Sound: AY-3-8910 PSG / FM expansion | Resolution: 256×212p / 512×212i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The MSX turbo R was released in 1990 as the final generation of the MSX computer standard. Developed by Panasonic, it introduced the faster R800 processor while maintaining compatibility with earlier MSX, MSX2, and MSX2+ software. The system included expanded memory, improved processing performance, and built-in features designed for more advanced applications and multimedia use. Two main models were released, the Panasonic FS-A1ST and FS-A1GT, with the GT model adding additional features including MIDI support and improved hardware. The MSX turbo R supported a library of games and applications including Metal Gear 2: Solid Snake, Space Manbow, Aleste 2, and Japanese adventure games. Due to the growing popularity of 16-bit computers and changing market conditions, production ended in 1995. The MSX turbo R remains notable as the last official MSX system and the final development of the platform that began in 1983.</text>
+		</text>
+	</view>
+</theme>

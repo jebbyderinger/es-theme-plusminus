@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$180</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$400</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1995</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Super A'Can</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Funtech</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>CONSOLE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 10.7 MHz | Memory: 256 KB RAM | Media: ROM Cartridges | Graphics: UMC UM6618 2D Graphics | Sound: UMC UM6619 16-Channel PCM Stereo | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Super A'Can was a 16-bit home video game console released by Funtech in Taiwan in 1995. Built around a Motorola 68000 processor, it featured advanced sprite hardware with scaling, rotation, and a large color palette for its time. The system used cartridge-based games and was designed to compete with the Super Nintendo and Sega Genesis, but its late release placed it against newer 32-bit consoles such as the PlayStation and Sega Saturn. With a small library of only twelve known games, the Super A'Can became one of the rarest commercial game consoles from the 1990s.</text>
+		</text>
+
+	</view>
+</theme>

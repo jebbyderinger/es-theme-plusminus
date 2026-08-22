@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥298,000</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥430,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>≈500,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>FM Towns</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Fujitsu</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel 80386DX @ 16 MHz (later models: Intel 80486 up to 66 MHz) | Memory: 2 MB RAM (expandable) | Sound: Ricoh RF5C68 PCM (8-channel) + Yamaha OPN2 FM | Media: CD-ROM, 3.5" Floppy Disk | Video: 320×200 to 640×480 | 32,768 colors (up to 16.7 million on later models) |</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$499.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$780</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>87.4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2006</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PlayStation 3</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Cell Broadband Engine @ 3.2 GHz | Memory: 256 MB XDR RAM + 256 MB GDDR3 VRAM | Media: Blu-ray / Digital | Graphics: NVIDIA RSX GPU | Sound: 7.1 LPCM audio | Resolution: 480i / 480p / 720p / 1080i / 1080p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PlayStation 3 was released in 2006 as Sony's third home console. It introduced Blu-ray Disc as its primary game media and included multimedia features such as video playback, online services, and digital downloads. The system's Cell processor provided a unique architecture that developers had to adapt to during its early years. Its library included games such as Uncharted, The Last of Us, Metal Gear Solid 4, LittleBigPlanet, Gran Turismo 5, Demon's Souls, and Killzone. Later hardware revisions reduced size and power consumption while extending the system's lifespan.</text>
+		</text>
+	</view>
+</theme>

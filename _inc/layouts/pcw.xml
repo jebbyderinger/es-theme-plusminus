@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£399</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£1,180</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 8 Million Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Amstrad PCW</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Amstrad plc</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 256 KB RAM (8256) / 512 KB RAM (8512) | Media: 3" Floppy Disk | Graphics: Monochrome Display Adapter | Sound: Internal Beeper | Resolution: 720×256p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Amstrad PCW (Personal Computer Wordprocessor) was a family of Z80-based personal computers introduced in 1985 and designed primarily for word processing and office productivity. Unlike the Amstrad CPC series, the PCW was supplied as a complete package including a monochrome monitor, keyboard, floppy disk drive, printer, and the CP/M operating system. Bundled with the Locoscript word processor, it offered an affordable all-in-one solution that quickly became popular with home users, schools, writers, and small businesses. Later models added larger memory configurations, dual floppy drives, and support for additional CP/M software, including programming languages, spreadsheets, and databases. Although intended as a dedicated business machine, the PCW also developed a modest library of games and productivity applications. Selling around eight million units across its lifetime, the PCW became one of the most successful word-processing computers ever produced and remains a landmark in affordable personal computing.</text>
+		</text>
+
+	</view>
+</theme>

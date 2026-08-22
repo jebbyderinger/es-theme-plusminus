@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥24,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥45,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5.8 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text if="${system.theme} == 'pcengine'" region="us">Turbografx 16</text>
+			<text if="${system.theme} == 'pcengine'" region="jp">PC Engine</text>
+			<text if="${system.theme} == 'pcengine'" region="eu">PC Engine</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC / Hudson Soft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: HuC6280 @ 7.16 MHz | Memory: 8 KB RAM | Media: HuCard | Graphics: HuC6260 VDC | Sound: PSG audio | Resolution: 256×224p / 512×224i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The PC Engine was released in Japan in 1987 through a partnership between NEC and Hudson Soft. Despite its small size, the system featured powerful graphics hardware and competed against the Famicom, Mega Drive, and Super Famicom. It used compact HuCard media and developed a large library of arcade-style games, shooters, and role-playing titles. Important games included Bonk's Adventure, Ys, R-Type, Splatterhouse, Castlevania: Rondo of Blood, and PC Kid. The system later received expansions including the CD-ROM² add-on, which introduced larger games and enhanced audio. Known as the TurboGrafx-16 in North America, the platform achieved greater success in Japan than overseas.</text>
+		</text>
+	</view>
+</theme>

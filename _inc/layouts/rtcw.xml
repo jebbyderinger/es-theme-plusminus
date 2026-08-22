@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>RealRTCW</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>RealRTCW Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ENGINE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: id Tech 3 Enhanced Source Port | Original Platform: Windows / Linux | Graphics: OpenGL Renderer | Sound: OpenAL / SDL Audio | Resolution: Up to Modern HD and 4K Displays</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>RealRTCW is an open-source enhanced engine modification for Return to Castle Wolfenstein based on the iortcw source port. Released in 2020, it improves the classic 2001 id Software first-person shooter with modern operating system support, updated rendering, improved audio, enhanced weapon effects, expanded mod support, and quality-of-life improvements. Built on the id Tech 3 engine, RealRTCW preserves the original gameplay while allowing the game to run properly on modern hardware without relying on legacy software environments. The project includes support for widescreen displays, higher resolutions, improved textures, modern sound systems, and various gameplay refinements. Return to Castle Wolfenstein combined World War II action with supernatural science-fiction elements and became one of the most recognized games built on the Quake III Arena engine. RealRTCW continues to maintain the game for modern players while preserving its original campaign and multiplayer experience.</text>
+		</text>
+
+	</view>
+</theme>

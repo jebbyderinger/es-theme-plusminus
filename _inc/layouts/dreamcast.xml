@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$199</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$370</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>9.13 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega Dreamcast</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz | Memory: 16 MB RAM | Media: GD-ROM | Graphics: PowerVR2 GPU | Sound: Yamaha AICA audio processor | Resolution: 320×240p / 640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega Dreamcast was released in 1998 in Japan and 1999 in other regions as Sega's final home video game console. It introduced several features that later became common in gaming, including built-in online connectivity, a dedicated memory card with an LCD screen called the Visual Memory Unit, and support for digital network play. The system used GD-ROM discs and focused on arcade-style experiences and innovative game design. Its library included major franchises such as Sonic Adventure, Shenmue, Crazy Taxi, Jet Set Radio, Soulcalibur, Resident Evil Code: Veronica, and Phantasy Star Online. The Dreamcast received positive reviews for its hardware and software but faced strong competition from Sony's PlayStation 2. Sega discontinued the system in 2001 and shifted toward software development. The Dreamcast remains popular among enthusiasts due to its unique library, arcade ports, and homebrew support.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2015</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega Lindbergh</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel Pentium 4 / Intel Celeron | Memory: 1 GB RAM | Media: Hard Drive / Optical Media | Graphics: NVIDIA GeForce 6 Series GPU | Sound: PC-Based Digital Audio | Resolution: 640×480p to 1280×720p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2005, Sega Lindbergh was a PC-based arcade platform designed to replace Sega's earlier custom hardware systems. Built around standard computer components, it provided improved 3D performance and easier development for modern arcade games. Lindbergh powered titles including Virtua Fighter 5, Initial D Arcade Stage 4, After Burner Climax, House of the Dead 4, and Virtua Tennis 3. It marked Sega's transition toward upgradeable PC-based arcade technology.</text>
+		</text>
+
+	</view>
+</theme>

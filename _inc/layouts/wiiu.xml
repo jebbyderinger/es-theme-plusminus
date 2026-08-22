@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$390</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>13.56 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2012</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Nintendo Wii U</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: IBM PowerPC Espresso @ 1.24 GHz | Memory: 2 GB RAM | Media: Disc / Digital | Graphics: AMD Radeon GPU | Sound: Multi-channel audio | Resolution: 480i / 480p / 720p / 1080p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo Wii U was released in 2012 as the successor to the Wii. It introduced the GamePad controller, featuring a built-in touchscreen that allowed additional gameplay features and off-TV play. The system supported Wii backward compatibility and expanded Nintendo's HD gaming capabilities. Its library included Super Mario 3D World, Mario Kart 8, Splatoon, Super Smash Bros. for Wii U, Pikmin 3, and The Legend of Zelda: The Wind Waker HD. Although it had limited commercial success, many of its games were later expanded and released on Nintendo Switch.</text>
+		</text>
+	</view>
+</theme>

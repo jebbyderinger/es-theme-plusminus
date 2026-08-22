@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$795</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$4200</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>219 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2024</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Pico-8</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Lexaloffle Games</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8bit</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>CPU:   4M vm insts/sec    |   Memory:  4–96 KB RAM   |   Sound:   4 Channel   |   Media:  Cassette Tape / Floppy Disk / Hard Disk   |   Resolution:  128x128   |   Palette:  16 colours + 16 hidden   |   </text>
+		</text>
+				<text name="TextDesc" extra="true">
+			<text>PICO-8 is a virtual machine and game engine created by Lexaloffle Games. It is a fantasy video game console[3] that mimics the limited audio-visual capabilities of 8-bit systems from the 1980s to encourage creativity and ingenuity in producing games without being overwhelmed with the many possibilities of modern tools and machines. Such limitations also give PICO-8 games a particular look and feel. </text>
+		</text>
+	</view>
+</theme>

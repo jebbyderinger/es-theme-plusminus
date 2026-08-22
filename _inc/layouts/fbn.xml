@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2019</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>FinalBurn Neo</text>
+		</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>FBNeo Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Arcade Emulator</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Supports: CPS-1, CPS-2, CPS-3, Neo Geo, Cave, Sega, Irem, Toaplan and many others | Media: Arcade ROMs | Accuracy-focused successor to Final Burn Alpha |</text>
+		</text>
+	</view>
+</theme>

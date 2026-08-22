@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£120</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈£500</text>
+		</text>
+		<text name="TextSold" extra="true">
+    		<text>~25,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1980</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Acorn Atom</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Home Computer</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS Technology 6502A @ 1 MHz   |   Memory: 2 KB RAM (expandable to 12 KB+)   |   Sound: 1 Channel Audio   |   Media: Cassette Tape / ROM Cartridges   |   Video: 256 × 192   |   8 color palette   |   32 × 24 text display   |</text>
+		</text>
+	</view>
+</theme>

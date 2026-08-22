@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$2,000+</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$7,000+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Thousands of machines</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1972</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Arcade</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various Manufacturers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Hardware: Dedicated Arcade Systems | Media: ROM Chips / Boards | Graphics: Raster, Vector, or Custom Hardware | Sound: Dedicated Arcade Audio Hardware | Resolution: 256×224p, 320×240p, 384×224p and other arcade standards</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Arcade systems represent coin-operated video game machines developed by many different manufacturers from the 1970s onward. Unlike home consoles, arcade hardware was designed for dedicated games and often used custom graphics, sound, and control systems. Arcade platforms introduced many influential genres including fighting games, shooters, racing games, and platformers. Systems such as Neo Geo, CPS, Sega Model series, and Namco hardware brought increasingly powerful arcade technology throughout the 1980s and 1990s.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2007</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Tyrian</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>OpenTyrian Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Tyrian Source Port | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 2D VGA Sprite Graphics | Sound: AdLib / Sound Blaster Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>OpenTyrian is an open-source port of the classic DOS shoot 'em up Tyrian. Originally released in 1995 by Epic MegaGames, Tyrian combined fast arcade shooting with ship customization, weapon upgrades, power systems, and a humorous science-fiction story. OpenTyrian preserves the original gameplay while adding modern compatibility, improved input support, and the ability to run on current systems. The project has helped keep one of the most respected PC shareware shooters from the 1990s accessible to new generations of players.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥8,800</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥12,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Gakken Compact Vision TV Boy</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Gakken</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola MC6801 @ 4 MHz (Cartridge-Based) | Memory: 2 KB RAM | Media: ROM Cartridges | Graphics: Motorola MC6847 Video Display Generator | Sound: Electronic Audio | Resolution: 128×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Gakken Compact Vision TV Boy was a Japanese home video game console released in 1983. Designed as a competitor to the Epoch Cassette Vision, it used a unique cartridge-based design where much of the game hardware was contained within each cartridge. The system featured simple arcade-style games including ports of titles such as Frogger and Super Cobra. With only six officially released games and limited availability, the TV Boy became a rare second-generation console remembered for its unusual design.</text>
+		</text>
+
+	</view>
+</theme>

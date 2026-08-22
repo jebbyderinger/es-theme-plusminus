@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$159</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$326</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>826 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>32X</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  2 × Hitachi SH-2 32-bit @ 23 MHz   |   Memory:  256 kbit RAM   |   Sound:  Yamaha YM2612 + SN76489 - 10 Channels |   Media:  ROM Cart   |   Video:  320 × 224p / 320 × 240p   |   32,768 color palette   |   32,768 on-screen   |   </text>
+</text>
+	</view>
+</theme>

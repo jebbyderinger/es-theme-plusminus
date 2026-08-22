@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$664</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2.24 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Motorola 68000 @ 12.5 MHz   |   Memory:  64 kbit RAM   |   Sound:  Ricoh RF5C164   |   Media:  CD-ROM, CD+G (650 MB)  |   Video:  320 × 224p / 256 × 224p   |   512 color palette   |   61 on-screen   </text>
+	</text>
+	</view>
+</theme>

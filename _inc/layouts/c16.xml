@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$310</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Commodore 16</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 7501 @ 0.89 MHz (PAL) | Memory: 16 KB RAM | Media: Cassette / Disk | Graphics: TED chipset | Sound: TED audio | Resolution: 320×200p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore 16 was released in 1984 as an entry-level home computer intended to replace the VIC-20. It was part of Commodore's lower-cost computer line and was designed for users interested in programming, education, and basic home computing. The system used the TED chipset, which combined video and sound functions while providing improved graphics compared with the VIC-20. Its software library included educational programs, utilities, and games, although compatibility with Commodore 64 software was not supported. The C16 was more successful in some European markets than in North America. Commodore later released the Commodore Plus/4 using similar technology with additional built-in software. The C16 remains known as one of Commodore's smaller 8-bit computer platforms from the mid-1980s.</text>
+		</text>
+	</view>
+</theme>

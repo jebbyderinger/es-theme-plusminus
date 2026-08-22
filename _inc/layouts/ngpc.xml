@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$69.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$130</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>125,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2001</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Neo Geo Pocket Color</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Toshiba TLCS900H @ 6.14 MHz | Memory: 32 KB RAM | Media: Cartridge | Graphics: Color LCD graphics | Sound: PSG audio | Resolution: 160×152p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Neo Geo Pocket Color was released in 1999 as the successor to SNK's original Neo Geo Pocket. It introduced a color display while maintaining the system's compact design and distinctive click-style joystick. The handheld featured a library focused on SNK's arcade franchises, including The King of Fighters, Samurai Shodown, Metal Slug, SNK vs. Capcom, and Fatal Fury. It also supported connectivity with the Neo Geo Dreamcast ecosystem through special accessories. Despite positive reviews and strong software, the system struggled against Nintendo's Game Boy Color and was discontinued after SNK left the hardware market. Today it is remembered for its quality arcade conversions and unique fighting game library.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>VGM Player</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Various Developers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>TOOL</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Platform: Music Player | Media: Video Game Music Files | Formats: VGM / VGZ / Related Chiptune Formats | Audio: Hardware Sound Chip Emulation | Features: Arcade and Console Music Playback</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>VGM Player is a music playback category focused on Video Game Music files created from classic arcade, computer, and console hardware. It recreates the sound output of original audio chips, allowing authentic playback of music from systems such as Sega Genesis, Master System, Game Gear, arcade boards, and other retro platforms. VGM files preserve the original sound hardware commands, making them useful for accurate preservation of classic video game audio.</text>
+		</text>
+
+	</view>
+</theme>

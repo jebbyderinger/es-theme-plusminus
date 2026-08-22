@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1018</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1.92 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>TurboGrafx CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:   HuC6280 @ 1.79 MHz / 7.16 MHz  |   Memory:  8 kbit RAM   |   Sound:  6 PSG Audio Channels + Redbook Audio  |   Media:  CD-ROM   |   Video:  256 × 239p / 565 × 242p   |   512 color palette   |   482 on-screen   |   </text>
+</text>
+	</view>
+</theme>

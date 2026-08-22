@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$400</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,100</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5 million+ (MSX family)</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX1</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft / ASCII Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 8–64 KB RAM | Media: Cartridge / Cassette | Graphics: TMS9918A VDP | Sound: AY-3-8910 PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The MSX1 was the first generation of the MSX standard released in 1983. It established a common hardware specification that allowed software and peripherals to work across computers made by different companies. Systems from Sony, Panasonic, Yamaha, Toshiba, and other manufacturers shared compatibility while offering different designs and features. The platform was used for home computing, education, programming, and gaming. Its game library included early versions of Metal Gear, Knightmare, Antarctic Adventure, and many arcade-style titles. MSX1 computers helped expand access to personal computing in Japan and other markets before being replaced by the more advanced MSX2 standard.</text>
+		</text>
+	</view>
+</theme>

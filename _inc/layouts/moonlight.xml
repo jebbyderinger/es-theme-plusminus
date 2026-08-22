@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Moonlight Game Streaming</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Moonlight Game Streaming Project</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>MODERN</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: NVIDIA GameStream Client | Media: Network Streaming | Graphics: Host GPU Rendered | Sound: Network Audio Stream | Resolution: Up to 4K 120Hz</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Moonlight is an open-source game streaming client that allows games running on a host computer to be played remotely on other devices. Originally created as an implementation of NVIDIA GameStream technology, it provides low-latency streaming with support for controllers, keyboards, and multiple display resolutions. Moonlight can be used to access PC games from televisions, handheld devices, and single-board computers. The software focuses on delivering PC gaming experiences to additional devices without requiring games to be installed locally.</text>
+		</text>
+	</view>
+</theme>

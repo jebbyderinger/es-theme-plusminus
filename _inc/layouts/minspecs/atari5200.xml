@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$269</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$840</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>1 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari 5200</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  MOS 6502C @ 1.79 MHz   |   Memory:  16 kbit RAM   |   Sound:  4-channel PSG sound via POKEY sound chip  |   Media:  ROM Cartridge   |   Video:  Up to 320 x 200p   |  256 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>
+
+

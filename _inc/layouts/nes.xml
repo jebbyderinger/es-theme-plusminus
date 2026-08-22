@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$179.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$550</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>61.91 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text if="${system.theme} == 'nes'" region="us">Nintendo Entertainment System</text>
+			<text if="${system.theme} == 'nes'" region="jp">Famicom</text>
+			<text if="${system.theme} == 'nes'" region="eu">Nintendo Entertainment System</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Ricoh 2A03 @ 1.79 MHz | Memory: 2 KB RAM | Media: Cartridge | Graphics: Picture Processing Unit | Sound: 5-channel audio | Resolution: 256×240p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo Entertainment System was released in North America in 1985 and became one of the most influential home consoles in gaming history. Based on Nintendo's Famicom hardware, the system helped revive the video game market after the 1983 crash. Its library introduced or expanded many major franchises including Super Mario Bros., The Legend of Zelda, Metroid, Kid Icarus, Castlevania, Mega Man, and Final Fantasy. The NES used interchangeable cartridges and supported accessories such as the Zapper light gun and Power Glove. Nintendo's quality control system and strong first-party software helped establish many standards still used in console gaming today.</text>
+		</text>
+	</view>
+</theme>

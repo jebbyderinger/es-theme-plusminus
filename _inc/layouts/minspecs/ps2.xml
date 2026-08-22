@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$527</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>155 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2013</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Playstation 2</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  MIPS R5900 Emotion Engine @ 294.9 Mhz   |   Memory:  32 MB RAM   |   Sound:  PCM Stereo / Dolby Digital 5.1   |   Media:  DVD (8.5 GB) / CD-ROM (650 MB)   |   Video:  640 x 480i / 640 x 480p / 1920 x 1080i / 320 x 240p   |   16.7M color palette   |   </text>
+</text>
+	</view>
+</theme>

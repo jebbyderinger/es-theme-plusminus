@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2008</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Commander Genius</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Commander Genius Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Commander Keen Recreation Engine | Original Hardware: IBM PC Compatible | Media: Digital Game Data | Graphics: 2D EGA Sprite Graphics | Sound: AdLib / PC Speaker Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Commander Genius is an open-source engine recreation project designed to run the classic Commander Keen games on modern systems. It improves compatibility while preserving the original side-scrolling platform gameplay, graphics, and level design. The engine adds features such as improved controls, widescreen support, save functionality, and support for multiple Commander Keen episodes. It serves as a modern way to experience one of the influential MS-DOS platform game series.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥39,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$500</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>75,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>SuperGrafx</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC / Hudson Soft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: HuC6280 @ 7.16 MHz | Memory: 32 KB RAM | Media: HuCard | Graphics: Dual HuC6270 VDC | Sound: PSG Audio | Resolution: 256×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The SuperGrafx was released in 1989 as an enhanced version of the PC Engine. It added additional graphics hardware designed to improve sprite handling and visual effects while maintaining compatibility with existing PC Engine software. Only a small number of games were developed specifically for the system, including Daimakaimura, Aldynes, and 1941: Counter Attack. The SuperGrafx was discontinued after a short market life, but its hardware design represented NEC and Hudson Soft's attempt to extend the PC Engine platform.</text>
+		</text>
+	</view>
+</theme>

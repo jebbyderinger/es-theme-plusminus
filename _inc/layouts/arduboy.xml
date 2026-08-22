@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$39.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$50</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>100,000+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2015</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Arduboy</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Arduboy Inc.</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: ATmega32u4 @ 16 MHz | Memory: 32 KB Flash / 2.5 KB SRAM | Media: Flash Storage | Graphics: Monochrome OLED Display | Sound: Piezo Speaker | Resolution: 128×64p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Arduboy is a small open-source handheld console inspired by the Nintendo Game Boy. Released in 2015, it uses simple hardware and a monochrome display to encourage game development and programming. Games are created using Arduino-compatible tools and stored digitally on the device. The platform has a large homebrew community with hundreds of independently developed games, making it popular among hobbyists, developers, and retro gaming enthusiasts.</text>
+		</text>
+
+	</view>
+</theme>

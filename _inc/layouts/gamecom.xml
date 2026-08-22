@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$69.95</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$140</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>300,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1997</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2000</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Tiger Game.com</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tiger Electronics</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sharp SM8521 @ 10 MHz | Memory: Internal RAM | Media: ROM Cartridges | Graphics: Monochrome LCD Touchscreen | Sound: Digital Audio | Resolution: 200×160p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Tiger Game.com was a handheld game console released by Tiger Electronics in 1997 as a competitor to the Nintendo Game Boy. Designed as a combination of handheld game system and personal digital assistant, it featured a monochrome touchscreen, stylus support, built-in applications, and optional dial-up modem connectivity. It was one of the first gaming handhelds to include internet connectivity and touchscreen technology. The system received ports of several popular franchises, including Resident Evil 2, Sonic Jam, and Duke Nukem 3D, but limited hardware performance and a small software library prevented it from becoming successful.</text>
+		</text>
+
+	</view>
+</theme>

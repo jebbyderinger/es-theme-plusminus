@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$600</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1976</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1978</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Astrocade</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Bally / Astrovision</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>1ST</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 1.789 MHz | Memory: 4 KB RAM | Media: Cartridge | Graphics: Custom video hardware | Sound: 3-voice audio | Resolution: 160×102p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Bally Astrocade was released in 1976 as a home video game console originally developed by Midway and Bally. It was first marketed as the Bally Professional Arcade before being renamed and redistributed under different companies. The system featured interchangeable cartridges and was designed to compete with consoles such as the Fairchild Channel F and Atari 2600. Its software library included games such as Space Invaders, Gunfight, Checkmate, and Wizard. The Astrocade also included a BASIC programming cartridge, allowing users to create their own software. Although it had advanced features for its time, the system struggled with limited distribution and competition from newer consoles. Production ended in 1984. The Astrocade is remembered for its unusual controller design, programming capabilities, and place in the early history of home video game systems.</text>
+		</text>
+	</view>
+</theme>

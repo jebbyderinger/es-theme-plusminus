@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$470</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>84 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2016</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Xbox 360</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: IBM Xenon PowerPC @ 3.2 GHz | Memory: 512 MB RAM | Media: DVD-ROM / Digital | Graphics: ATI Xenos GPU | Sound: Dolby Digital 5.1 | Resolution: 480p / 720p / 1080i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Xbox 360 was released in 2005 as Microsoft's second home console and focused heavily on online gaming through Xbox Live. It introduced achievements, digital downloads, and a redesigned controller while moving the Xbox platform into high-definition gaming. Its library included major franchises such as Halo, Gears of War, Forza Motorsport, Mass Effect, Fable, and Crackdown. The system also became known for Xbox Live Arcade, which provided downloadable independent and classic games. Multiple hardware revisions improved reliability and reduced the console's size. The Xbox 360 became Microsoft's most successful console and helped establish many features that became standard in modern gaming.</text>
+		</text>
+	</view>
+</theme>

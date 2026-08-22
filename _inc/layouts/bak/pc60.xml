@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥89,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥170,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>150,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>NEC PC-6001</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2nd</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC μPD780C-1 (Z80-compatible) @ 4 MHz   |   Memory: 16 KB → 32 KB RAM   |   Sound: 3 Channel PSG Audio   |   Media: ROM Cartridge / Compact Cassette / Floppy (Expansion)   |   Video: 256 × 192 → 64 × 48   |   9 color palette   |   32 × 16 Text Display   |</text>
+		</text>
+	</view>
+</theme>

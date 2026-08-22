@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2020</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Flash</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Adobe / Macromedia</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>Web Platform</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Runtime: Adobe Flash Player | Language: ActionScript | Media: SWF Files | Graphics: Vector + Raster Animation | Audio: MP3, ADPCM, MIDI | Popular platform for browser games, animations, and interactive media |</text>
+		</text>
+	</view>
+</theme>

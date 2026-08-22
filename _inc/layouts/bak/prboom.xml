@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PrBoom</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>PrBoom Team</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC Engine</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Doom Source Port | Original Engine: id Software Doom Engine | Language: C | Media: WAD Files | Graphics: Software Rendering with OpenGL support in PrBoom+ | Audio: MIDI, Digital Sound Effects | Features: Enhanced Doom compatibility, demos, multiplayer, and modern systems support |</text>
+		</text>
+	</view>
+</theme>

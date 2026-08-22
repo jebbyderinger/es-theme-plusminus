@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>REminiscence</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Gregory Montoir</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Flashback Engine Recreation | Original Hardware: Amiga / Sega Genesis / IBM PC Compatible | Media: Original Game Data | Graphics: 2D Cinematic Platform Graphics | Sound: Digital Audio / FM Audio | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>REminiscence is an open-source recreation of the engine used by Flashback: The Quest for Identity. It allows the classic cinematic platform game to run on modern systems while preserving the original gameplay, animation, and atmosphere. The project supports multiple versions of Flashback and adds modern compatibility features while relying on the original game data. Flashback was known for its detailed character animation, rotoscoped movement, and combination of platforming, exploration, and puzzle solving.</text>
+		</text>
+
+	</view>
+</theme>

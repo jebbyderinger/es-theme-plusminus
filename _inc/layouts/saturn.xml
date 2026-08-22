@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$800</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>9.26 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega Saturn</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Dual Hitachi SH-2 @ 28.6 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Dual VDP processors | Sound: Yamaha FH1 DSP + SCSP | Resolution: 320×224p–704×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega Saturn was released in 1994 as Sega's fifth-generation home console and was designed around 2D and early 3D gaming. Its dual-processor architecture allowed strong arcade conversions, particularly for Sega's arcade titles. The system's library included games such as Virtua Fighter, Panzer Dragoon, Nights into Dreams, Sega Rally Championship, Daytona USA, Guardian Heroes, and the Shining series. The Saturn used CD-ROM media and supported accessories including the Sega NetLink modem and arcade-style controllers. Although it struggled against the PlayStation and Nintendo 64, the Saturn developed a strong following due to its arcade ports, fighting games, and exclusive Japanese releases.</text>
+		</text>
+	</view>
+</theme>

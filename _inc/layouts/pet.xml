@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$795</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$3,500+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Commodore PET</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502 @ 1 MHz | Memory: 4 KB RAM | Media: Cassette / Floppy Disk | Graphics: Monochrome Display | Sound: None / External | Resolution: 40×25 Text</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore PET was introduced in 1977 and was one of the first successful personal computers. It combined a computer, keyboard, and monitor into a single unit. The system was widely used in education, business, and programming. It used the MOS 6502 processor and included Commodore BASIC built into ROM. The PET series helped establish Commodore as a major computer manufacturer before later systems such as the VIC-20 and Commodore 64.</text>
+		</text>
+	</view>
+</theme>

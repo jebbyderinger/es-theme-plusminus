@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£798</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£2,500</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>300,000+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Acorn Archimedes</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM2 @ 8 MHz | Memory: 512 KB–4 MB RAM | Media: Floppy Disk / Hard Drive | Graphics: Acorn VIDC | Sound: 8-Channel Stereo Audio | Resolution: Up to 640×512p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Acorn Archimedes was a family of 32-bit home computers released by Acorn Computers in 1987. It was one of the first consumer computers based on ARM processors, featuring a custom RISC architecture that delivered strong performance compared with many competing systems. The Archimedes was widely used in British education and professional environments, while also supporting games, graphics applications, and programming. Its ARM processor design later became the foundation for the technology used in modern mobile devices.</text>
+		</text>
+
+	</view>
+</theme>

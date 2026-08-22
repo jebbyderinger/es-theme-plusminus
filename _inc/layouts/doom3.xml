@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$49.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$82</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>3.5 Million+</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Doom 3</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>id Software</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: id Tech 4 | Original Hardware: IBM PC Compatible / Xbox | Media: CD-ROM / DVD-ROM | Graphics: OpenGL Hardware Rendering with Dynamic Lighting | Sound: Dolby Surround Digital Audio | Resolution: 640×480p Original with Modern High-Resolution Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2004, Doom 3 was a reimagining of id Software's classic first-person shooter built on the new id Tech 4 engine. The game focused on detailed environments, real-time lighting, and atmospheric horror while revisiting the events of the original Doom. It introduced advanced rendering techniques including dynamic per-pixel lighting and normal mapping. Doom 3 later received expansions, ports, and community modifications that extended its lifespan on modern systems.</text>
+		</text>
+
+	</view>
+</theme>

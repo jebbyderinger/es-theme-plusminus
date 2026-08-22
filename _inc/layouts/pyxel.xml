@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Pyxel</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>kitao</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Fantasy Console Framework | Platform: Python | Media: Digital Programs | Graphics: 8-bit Pixel Graphics | Sound: Chiptune Audio | Resolution: 256×256p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Pyxel is an open-source fantasy console and game development framework inspired by early home computers and 8-bit gaming systems. Created for Python developers, it provides built-in tools for graphics, sound, input, and asset management while encouraging simple retro-style game creation. Pyxel uses a limited color palette and pixel-based design to recreate the constraints of classic hardware, making it popular for learning programming and creating small games.</text>
+		</text>
+
+	</view>
+</theme>

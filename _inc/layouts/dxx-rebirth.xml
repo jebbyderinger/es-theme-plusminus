@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Descent</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>DXX-Rebirth Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Descent Engine Recreation | Original Engine: Parallax Descent Engine | Original Hardware: IBM PC Compatible | Media: Original Game Data | Graphics: 3D Polygon Engine | Sound: AdLib / Sound Blaster / CD Audio | Resolution: Up to 1920×1080p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>DXX-Rebirth is an open-source source port of the original Descent and Descent II engines developed by Parallax Software. It modernizes the classic six-degrees-of-freedom space shooter while preserving the original gameplay, physics, levels, weapons, and multiplayer features. The project adds modern OpenGL rendering, improved compatibility, enhanced graphics options, widescreen support, and bug fixes while using the original game data. Descent was notable for its fully 3D environments, allowing players to freely move and fight through twisting tunnels and mines with complete movement in all directions.</text>
+		</text>
+
+	</view>
+</theme>

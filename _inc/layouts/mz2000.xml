@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>¥228,000</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>¥760,000</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sharp MZ-2000</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sharp</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 4 MHz | Memory: 64 KB RAM | Media: Cassette Tape / Floppy Disk | Graphics: Sharp Custom Video Hardware | Sound: Internal Speaker | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Sharp MZ-2000 was a Japanese home computer released in 1982 as part of Sharp's MZ series. It was an improved version of the earlier MZ-80B, featuring enhanced graphics, more memory, and expansion capabilities. The system used a Z80 processor and included a dedicated display system capable of producing higher-resolution graphics than many competing home computers of the period. Like other Sharp MZ machines, it followed a "clean computer" philosophy where the operating system and programming languages were loaded from external media rather than stored permanently in ROM. The MZ-2000 was primarily used in Japan for programming, education, and hobby computing.</text>
+		</text>
+
+	</view>
+</theme>

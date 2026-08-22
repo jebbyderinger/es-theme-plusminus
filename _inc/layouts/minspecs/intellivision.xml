@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$935</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>3 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1979</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Intellivision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Mattel</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  General Instrument CP1610 @ 1.79 MHz  |  Memory:  1456 bytes RAM   |   Sound:  General Instrument AY-3-8914 - 3 Channels  |   Media:  ROM Cartridge   |   Video:  256 × 192p   |   4096 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

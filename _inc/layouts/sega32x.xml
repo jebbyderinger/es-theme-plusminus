@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$159.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$340</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>665,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega 32X</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Dual Hitachi SH-2 @ 23 MHz | Memory: 256 KB RAM | Media: Cartridge | Graphics: Dual SH-2 video processors | Sound: PWM + Mega Drive audio | Resolution: 320×224p / 320×240p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega 32X was released in 1994 as an add-on accessory for the Sega Genesis/Mega Drive. It added additional processors and expanded graphics capabilities to allow enhanced games with 3D effects and improved visuals. The system supported titles such as Virtua Racing Deluxe, Star Wars Arcade, Doom, and Knuckles Chaotix. Despite its technical improvements, the 32X suffered from limited software support and arrived shortly before Sega's Saturn launch. Its short lifespan made it one of Sega's less successful hardware expansions.</text>
+		</text>
+	</view>
+</theme>

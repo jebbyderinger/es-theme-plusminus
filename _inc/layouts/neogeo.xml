@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$649.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,400+</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Neo Geo AES</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 12 MHz + Z80 @ 4 MHz | Memory: 64 KB RAM | Media: Cartridge | Graphics: SNK Custom Chipset | Sound: Yamaha FM + PCM audio | Resolution: 320×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Neo Geo AES was released in 1990 as the home version of SNK's arcade Neo Geo MVS hardware. Unlike traditional consoles, the AES used large cartridges that contained arcade-quality games with the same software found in SNK arcade machines. The system became known for its fighting games, arcade conversions, and long-lasting support. Its library included major franchises such as Fatal Fury, The King of Fighters, Samurai Shodown, Metal Slug, Art of Fighting, and Garou: Mark of the Wolves. The hardware remained technically impressive throughout the 1990s but was expensive due to its arcade-focused design. The Neo Geo AES continued production for many years and remains one of the most recognizable arcade-style home consoles.</text>
+		</text>
+	</view>
+</theme>

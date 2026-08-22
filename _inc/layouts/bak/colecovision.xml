@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$175</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$546</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>2 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>ColecoVision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Coleco</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Zilog Z80A @ 3.58 MHz  |  Memory:  8 KB RAM   |   Sound:  Texas Instruments SN76489AN - 4 Channels  |   Media:  ROM Cartridge   |   Video:  256 × 192p   |   4096 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

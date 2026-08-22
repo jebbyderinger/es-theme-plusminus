@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2010</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega System SP</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Intel Celeron / x86 Architecture | Memory: System RAM with Flash Storage | Media: Hard Drive / Network Distribution | Graphics: PC-Based 3D Graphics Hardware | Sound: Digital Audio | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sega System SP was an arcade platform introduced in the mid-2000s as part of Sega's transition toward PC-based arcade hardware. Unlike earlier custom arcade boards, System SP used standardized computer components to provide easier development and improved performance. It was used for games such as Virtua Fighter 5, Initial D Arcade Stage, and other Sega arcade releases. The platform represented the shift from dedicated arcade hardware toward upgradeable PC-based systems.</text>
+		</text>
+
+	</view>
+</theme>

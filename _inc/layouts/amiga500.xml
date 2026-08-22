@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$699</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,800</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>6 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1987</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Amiga 500</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 7.16 MHz | Memory: 512 KB RAM | Media: Floppy Disk | Graphics: Original Amiga chipset | Sound: Paula 4-channel stereo | Resolution: 320×200p / 640×200p / 640×400i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Amiga 500 was released in 1987 as a lower-cost home computer designed to expand the Amiga platform beyond its original professional audience. It became the most widely sold Amiga model and was especially popular in Europe as a home gaming computer. The system's library included games such as Lemmings, The Secret of Monkey Island, Turrican, Cannon Fodder, Sensible Soccer, Shadow of the Beast, and Another World. In addition to gaming, the Amiga 500 was used for music, graphics, programming, and home applications. Its combination of computer features and multimedia capabilities allowed it to compete with systems such as the Atari ST and Commodore 64. The Amiga 500 helped establish the Amiga as a major gaming platform during the late 1980s and early 1990s. Production ended as Commodore shifted focus toward newer Amiga models.</text>
+		</text>
+	</view>
+</theme>

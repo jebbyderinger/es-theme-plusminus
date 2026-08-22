@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Recent Activity</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1970s</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>Present</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Last Played</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Various</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>RECENT</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Type: Auto-Generated Collection | Scope: All Installed Platforms | Sorting: By Last Launch Date | Frontend: EmulationStation</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Last Played collection automatically tracks and lists the most recently launched games across your Batocera systems, sorted by the date and time they were last opened. Rather than being curated by hand, it updates dynamically each time a game is played, offering a quick way to jump back into whatever you were enjoying most recently without hunting through individual system libraries. This makes it especially useful for resuming a session or picking up where you left off across different consoles.</text>
+		</text>
+	</view>
+</theme>

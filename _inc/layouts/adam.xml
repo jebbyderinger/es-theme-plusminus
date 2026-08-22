@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$725</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,230</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Coleco Adam</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Coleco</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 80 KB RAM | Media: Data Pack / Disk Drive | Graphics: ColecoVision compatible hardware | Sound: 3-channel PSG | Resolution: 256×192p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Coleco Adam was released in 1983 as a home computer based on the ColecoVision game console. It was designed as an all-in-one computer package that included a keyboard, printer, and storage system. The Adam was compatible with ColecoVision software through an expansion module and included support for BASIC programming. Its software library included educational programs, productivity applications, and games. Early production problems, including issues with the tape drive and printer, affected the system's reputation after launch. The Adam competed with home computers such as the Commodore 64, Apple II, and Atari 8-bit computers. Sales were lower than expected, and Coleco discontinued the system in 1985. The Adam remains notable as one of the early attempts to combine a video game console platform with a full home computer system.</text>
+		</text>
+	</view>
+</theme>

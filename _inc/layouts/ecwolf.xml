@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>ECWolf</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>ECWolf Team / Based on id Software</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Wolfenstein 3D Source Port | Original Hardware: IBM PC Compatible | Media: Original Wolfenstein 3D Game Data | Graphics: Software Rendering / Modern Display Support | Sound: Digital Audio / MIDI | Resolution: 320×200p Original with Modern High-Resolution and Widescreen Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>ECWolf is an open-source source port of Wolfenstein 3D and related games based on the Wolfenstein engine. It expands compatibility with titles from the series while adding modern features such as widescreen support, improved controls, higher resolutions, enhanced audio, and support for additional game formats. ECWolf preserves the classic gameplay of the original releases while providing a convenient way to experience them on modern systems.</text>
+		</text>
+
+	</view>
+</theme>

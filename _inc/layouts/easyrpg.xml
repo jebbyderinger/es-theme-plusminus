@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2008</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>EasyRPG</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>EasyRPG Team / Based on ASCII & Enterbrain</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: RPG Maker 2000 / 2003 Runtime Recreation | Original Hardware: IBM PC Compatible | Media: Digital Game Files | Graphics: 2D Tile-Based Graphics | Sound: MIDI and Digital Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>EasyRPG is an open-source project that recreates the runtime environment for RPG Maker 2000 and RPG Maker 2003 games. Instead of emulating Windows, it runs compatible games natively on modern platforms while preserving their original graphics, music, and gameplay. EasyRPG supports thousands of fan-made RPGs and independent creations, making it one of the most popular ways to experience classic RPG Maker games on current hardware.</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$49.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$120</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Supervision</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Watara</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: 65C02 Compatible @ 4 MHz | Memory: 8 KB RAM | Media: ROM Cartridges | Graphics: Monochrome LCD Graphics Hardware | Sound: 1-Channel Audio | Resolution: 160×160p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Supervision was a handheld video game system released in 1992 by Watara as a low-cost competitor to the Nintendo Game Boy. It used interchangeable cartridges and featured a monochrome LCD display, allowing it to offer a library of games at a lower price point. The system was released internationally and included titles across genres such as platformers, puzzles, sports, and action games. Although it never challenged the Game Boy's popularity, the Supervision remains one of the notable third-party handheld systems from the early 1990s.</text>
+		</text>
+
+	</view>
+</theme>

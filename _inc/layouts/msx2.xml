@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$500</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,100</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>5 million+ (MSX family)</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>MSX2</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Microsoft / ASCII Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80A @ 3.58 MHz | Memory: 64 KB+ RAM | Media: Cartridge / Floppy Disk | Graphics: Yamaha V9938 VDP | Sound: AY-3-8910 PSG | Resolution: 256×192p / 512×212i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The MSX2 was released in 1985 as an enhanced version of the original MSX standard. It introduced improved graphics capabilities, expanded memory options, built-in floppy disk support on many models, and better support for multimedia applications. The system became one of the most popular versions of the MSX platform and received a large software library. Important releases included Metal Gear 2: Solid Snake, Aleste, Snatcher, Castlevania: The Vampire's Kiss, and numerous Japanese adventure games. The MSX2 was widely used in Japan and remained popular for both gaming and productivity applications. Its improved hardware allowed developers to create more advanced games and helped establish MSX as a major Japanese computer gaming platform.</text>
+		</text>
+	</view>
+</theme>

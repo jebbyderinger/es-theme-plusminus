@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source Hardware</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2008</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Uzebox</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Uzebox Community</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: ATmega644 / ATmega1284 Microcontroller | Memory: KB-Level SRAM | Media: SD Card / Cartridge Hardware | Graphics: Custom Tile-Based Video System | Sound: Software-Generated Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Uzebox is an open-source DIY video game console created to demonstrate that simple microcontrollers can be used for gaming. Released in 2008, it uses an AVR microcontroller and custom software to generate graphics, sound, and controller input without a dedicated graphics processor. The platform supports homebrew games, emulators, and community-developed software while encouraging users to build and program their own console hardware. Uzebox is known for its open design and educational approach to game development.</text>
+		</text>
+
+	</view>
+</theme>

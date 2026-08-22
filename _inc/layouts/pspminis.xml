@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$0.99 - $14.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Digital downloads</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2009</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2015</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PSP Minis</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sony</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: PSP Hardware | Memory: 32 MB RAM | Media: Digital Download | Graphics: PSP Graphics Engine | Sound: Stereo Audio | Resolution: 480×272p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>PSP Minis was a digital distribution program launched by Sony in 2009 for the PlayStation Portable. The service focused on smaller downloadable games designed for portable play and later became available on PlayStation platforms. Titles included puzzle games, arcade-style games, strategy games, and independent releases. PSP Minis provided developers with a way to release smaller projects without traditional retail distribution.</text>
+		</text>
+	</view>
+</theme>

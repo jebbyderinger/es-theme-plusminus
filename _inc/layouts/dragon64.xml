@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>£199.50</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>£720</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1982</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Dragon 32</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Dragon Data</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola MC6809E @ 0.89 MHz | Memory: 32 KB RAM / 16 KB ROM | Media: Cassette Tape / Cartridge / Floppy Disk | Graphics: Motorola MC6847 VDG | Sound: 1-Voice Audio | Resolution: 256×192p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Dragon 32 was an 8-bit home computer released in 1982 by Dragon Data in Wales, United Kingdom. Based around the Motorola 6809E processor, it shared many similarities with the Tandy TRS-80 Color Computer while adding a full-size keyboard and a strong BASIC programming environment. The system was used for education, programming, and gaming, with software available through cassette tapes, cartridges, and disk expansions. Although commercially short-lived, the Dragon 32 developed a dedicated following among retro computing enthusiasts.</text>
+		</text>
+
+	</view>
+</theme>

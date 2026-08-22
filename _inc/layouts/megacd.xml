@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$299.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$650</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>6 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1991</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1996</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega CD / Mega-CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 12.5 MHz | Memory: 768 KB RAM | Media: CD-ROM | Graphics: Sega Genesis VDP + Scaling Hardware | Sound: PCM / CD Audio | Resolution: 320×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega CD, known as Mega-CD in regions outside North America, was a CD-ROM expansion for the Sega Genesis released in 1991. It added larger storage capacity, improved audio capabilities, and hardware features for scaling and rotation effects. The system supported games with CD audio, animated sequences, and additional content. Notable releases include Sonic CD, Lunar: The Silver Star, Snatcher, and Final Fight CD. The add-on extended the Genesis platform during the early CD-ROM era.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$249.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$340</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>75 Million+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2011</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Nintendo 3DS</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>8TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Dual-Core ARM11 MPCore + ARM9 | Memory: 128 MB FCRAM | Media: Game Card / Digital Download | Graphics: DMP PICA200 GPU | Sound: Stereo Speakers / Headphones | Resolution: 400×240p 3D Top Screen, 320×240p 2D Bottom Screen</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2011, Nintendo 3DS was a handheld console that introduced glasses-free stereoscopic 3D gaming. It featured two screens, including a top display capable of producing depth effects without special glasses, and maintained compatibility with Nintendo DS software. The system received games across many genres, including Mario, Zelda, Pokémon, Animal Crossing, and Monster Hunter titles. The 3DS family became one of Nintendo's most successful handheld platforms with over 75 million systems sold.</text>
+		</text>
+
+	</view>
+</theme>

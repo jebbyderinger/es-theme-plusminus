@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>US$299</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈US$395</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>152 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Nintendo Switch</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>8</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NVIDIA Tegra X1 (4× ARM Cortex-A57 + 4× Cortex-A53) | Memory: 4 GB LPDDR4 | Sound: Linear PCM 5.1ch (HDMI), Stereo Speakers | Media: Game Card, Digital Download | Video: 1280 × 720 (Handheld), up to 1920 × 1080 (Docked) | 24-bit color (16.7 million colors) | Hybrid handheld/home console |</text>
+		</text>
+	</view>
+</theme>

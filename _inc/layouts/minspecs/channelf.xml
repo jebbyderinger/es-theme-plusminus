@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$169</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$910</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>350 thousand</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1976</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1983</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Fairchild Channel F</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Fairchild Camera & Instrument</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  Fairchild F8 @ 1.79  |   Memory:  2 kbit RAM   |   Sound:  120 Hz, 500 Hz and 1 kHz beeps  |   Media:  ROM Cartridge   |   Video:  128 x 64p   |  8 color palette   |   8 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

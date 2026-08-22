@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$999</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,700</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>2 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari ST</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 8 MHz | Memory: 512 KB–4 MB RAM | Media: Floppy Disk | Graphics: Yamaha VIDC | Sound: Yamaha PSG | Resolution: 320×200p / 640×400i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Atari ST was released in 1985 as a 16-bit home computer designed for productivity, music, and gaming. It featured a Motorola 68000 processor and became popular among musicians due to its built-in MIDI support. The system developed a large software library including games such as Dungeon Master, Lemmings, Another World, and Falcon. It competed with the Commodore Amiga and became widely used in professional and creative fields. The Atari ST family included multiple models with expanded memory and improved features, remaining popular throughout the late 1980s and early 1990s.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$1298</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$6530</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>4.75 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1993</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Apple II</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Apple</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU:  6502 @ 1.023 MHz (II, II Plus, IIe) / 65C02 @ 1.023 – 4 MHz (Enhanced IIe, IIc, IIc Plus)   |   Memory:  4 - 128 KB RAM  |  Sound:  Internal Beeper   |   Media:  Tape / 5.25 floppy / 3.5" floppy   |   Video:   Up to 280 × 192p   |   16 color palette   |   16 on-screen   |   </text>
+		</text>
+	</view>
+</theme>

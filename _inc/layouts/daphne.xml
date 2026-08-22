@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1999</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Daphne</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Daphne Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Emulator: LaserDisc Arcade Emulator | Original Hardware: LaserDisc Arcade Cabinets | Media: LaserDisc / ROM | Graphics: Full-Motion Video | Sound: Digital Audio | Resolution: Up to 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Daphne is an open-source emulator dedicated to LaserDisc arcade games from the early 1980s and 1990s. First released in 1999, it accurately reproduces the specialized hardware used by LaserDisc arcade cabinets, combining original game ROMs with digitized LaserDisc video. Daphne is best known for supporting landmark titles such as Dragon's Lair, Space Ace, Astron Belt, Cobra Command, Cliff Hanger, and Thayer's Quest. By preserving the unique combination of full-motion video animation and arcade gameplay, Daphne has played a significant role in making these historically important LaserDisc games accessible on modern computers while maintaining their original presentation and gameplay.</text>
+		</text>
+
+	</view>
+</theme>

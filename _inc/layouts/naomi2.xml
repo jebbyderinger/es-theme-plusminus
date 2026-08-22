@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Arcade</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Commercial Arcade Platform</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>2006</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sega NAOMI 2</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz | Memory: 32 MB System RAM | Media: ROM Board / GD-ROM | Graphics: PowerVR2 with Dual Geometry Processors | Sound: Yamaha AICA 64-Channel PCM | Resolution: 640×480p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Released in 2000, Sega NAOMI 2 was an enhanced version of the original NAOMI arcade platform, offering greater 3D performance while maintaining compatibility with existing hardware. Built on technology derived from the Dreamcast, it powered arcade games such as Virtua Fighter 4, Beach Spikers, Initial D Arcade Stage, and Wild Riders. Its improved graphics capabilities made it one of Sega's most advanced arcade systems of the early 2000s.</text>
+		</text>
+
+	</view>
+</theme>

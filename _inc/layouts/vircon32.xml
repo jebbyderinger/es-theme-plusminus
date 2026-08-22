@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Vircon32</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Vircon32 Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Fantasy Console | CPU: Virtual 32-bit Processor | Media: Digital Cartridges | Graphics: Custom 3D Graphics System | Sound: Digital Audio | Resolution: 640×360p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Vircon32 is an open-source fantasy console designed to recreate the experience of developing games for a fictional 32-bit system. It provides a complete virtual hardware environment with its own CPU, graphics, sound, controllers, and cartridge format. The platform focuses on teaching game development while allowing creators to build original games with a consistent set of limitations inspired by fifth-generation consoles.</text>
+		</text>
+
+	</view>
+</theme>

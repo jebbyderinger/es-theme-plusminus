@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$140</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$370</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>3.77 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502C @ 1.79 MHz | Memory: 4 KB RAM | Media: Cartridge | Graphics: MARIA chipset | Sound: POKEY audio support | Resolution: 160×240p / 320×240p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Atari 7800 was released in 1986 as Atari's third major home console and was designed to compete with the Nintendo Entertainment System and other third-generation systems. Originally developed in 1984, its release was delayed following Atari's sale to new ownership. The system featured backward compatibility with Atari 2600 games and introduced improved graphics capabilities for arcade-style titles. Its library included games such as Asteroids, Centipede, Food Fight, Joust, Galaga, Xevious, and Pole Position II. The console used a redesigned controller and focused heavily on arcade conversions. Although it received positive attention for its hardware capabilities, Atari struggled to compete with Nintendo's growing market dominance. Production ended in 1992. The Atari 7800 is remembered as an important transition between Atari's early console success and the later generation of home gaming systems.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+<text name="TextDesc2" ifSubset="System View Style:detailed|detailedplus" extra="true">
+	<alignment>left</alignment>
+	<origin>0.5 0.5</origin>
+	<size>0.9 0.06</size>
+	<pos>0.5 0.86</pos>
+	<color>bebebe</color>
+	<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+	<fontSize>0.021</fontSize>
+	<zIndex>140</zIndex>
+	<singleLineScroll>yes</singleLineScroll>
+	<forceUppercase>1</forceUppercase>
+	<visible>true</visible>
+</text>
+<text name="TextDesc2" ifSubset="System View Style:banner" extra="true">
+	<alignment>center</alignment>
+	<verticalAlignment>top</verticalAlignment>
+	<origin>0.5 0.5</origin>
+	<size>0.35 0.3</size>
+	<pos>0.75 0.51</pos>
+	<color>000000</color>
+	<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+	<fontSize>0.021</fontSize>
+	<zIndex>140</zIndex>
+	<autoScroll>vertical</autoScroll>
+	<forceUppercase>1</forceUppercase>
+	<visible>true</visible>
+</text>
+		<text name="TextDesc2" ifSubset="System View Style:detailedminus" extra="true">
+			<alignment>left</alignment>
+			<origin>0.5 0.5</origin>
+			<size>0.9 0.06</size>
+			<pos>0.5 0.08</pos>
+			<color>bebebe</color>
+			<singleLineScroll>yes</singleLineScroll>
+			<fontPath>./../../_inc/fonts/Futura-Medium-01.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<lineSpacing>1</lineSpacing>
+			<zIndex>140</zIndex>
+			<visible>true</visible>
+		</text>
+<text name="TextDesc2" ifSubset="System View Style:minimal" extra="true">
+	<visible>false</visible>
+</text>
+	</view>
+</theme>

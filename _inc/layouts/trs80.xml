@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$599</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$2,900</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>200,000+ Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1977</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>TRS-80 Model I</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Tandy Corporation / Radio Shack</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 1.77 MHz | Memory: 4 KB RAM (Expandable to 48 KB) | Media: Cassette Tape / Floppy Disk | Graphics: Motorola 6845 Video Controller | Sound: Cassette / Expansion Audio | Resolution: 128×48 Text or 256×192p Graphics</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The TRS-80 Model I was one of the first mass-produced personal computers, released in 1977 by Tandy Corporation through Radio Shack. Based around the Zilog Z80 processor, it offered an affordable entry into home computing and helped introduce computers to a wider audience. The system was used for programming, education, business applications, and games, with software distributed through cassette tapes and floppy disks. Its large software library and widespread availability made it one of the most influential early home computers.</text>
+		</text>
+
+	</view>
+</theme>

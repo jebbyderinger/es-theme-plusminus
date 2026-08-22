@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Arcade Hardware</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Unknown</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2009</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atomiswave</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sammy Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>6TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Hitachi SH-4 @ 200 MHz | Memory: 32 MB RAM | Media: Cartridge | Graphics: PowerVR2-based GPU | Sound: Yamaha AICA | Resolution: 320×240p / 640×480i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Atomiswave was an arcade hardware platform released by Sammy in 2003. It was based on technology related to Sega's NAOMI arcade system and used interchangeable cartridges for game distribution. The hardware hosted arcade titles including Samurai Shodown VI, Metal Slug 6, The Rumble Fish, Dolphin Blue, and Guilty Gear X. After Sega acquired Sammy, some Atomiswave technology influenced later arcade development. Although the platform had a short lifespan, it developed a following due to its collection of arcade-exclusive games.</text>
+		</text>
+	</view>
+</theme>

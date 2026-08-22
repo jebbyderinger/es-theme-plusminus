@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$399</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$850</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>570,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1999</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Neo Geo CD</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>SNK</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 12 MHz + Z80 @ 4 MHz | Memory: 7 MB RAM | Media: CD-ROM | Graphics: SNK Custom Chipset | Sound: Yamaha FM + PCM audio | Resolution: 320×224p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Neo Geo CD was released in 1994 as a lower-cost alternative to the Neo Geo AES. It used CD-ROM media instead of expensive cartridges, allowing SNK to reduce software prices while maintaining compatibility with the Neo Geo game library. The system featured the same arcade-based hardware and supported many of the same titles, including The King of Fighters, Metal Slug, Samurai Shodown, Fatal Fury, and Art of Fighting. The main limitation was longer loading times caused by the CD drive. Later revisions such as the Neo Geo CDZ improved loading performance. The Neo Geo CD remains known for bringing SNK's arcade experiences to a wider audience.</text>
+		</text>
+	</view>
+</theme>

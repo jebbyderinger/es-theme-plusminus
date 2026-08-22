@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>£335</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>£1,100</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>1.5 million+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>BBC Micro</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Acorn Computers</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 6502A @ 2 MHz | Memory: 16 KB RAM | Media: Cassette / 5.25-inch Disk | Graphics: Video ULA | Sound: SN76489 PSG | Resolution: 160×256p / 320×256p / 640×256p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The BBC Micro was released in 1981 by Acorn Computers as part of the BBC Computer Literacy Project. It was designed to introduce computer education in schools throughout the United Kingdom and became one of the most widely used educational computers of the 1980s. The system featured a powerful BASIC programming language and expansion options that allowed it to be used for science, engineering, and home computing. Its software library included educational programs as well as games such as Elite, Repton, Chuckie Egg, and Granny's Garden. The BBC Micro was also the original development platform for the game Elite, which became influential in space simulation design. Several models were released, including the Model A, Model B, Master Series, and Compact. Although primarily known as an educational computer, it developed a strong enthusiast community and remains an important part of British computing history.</text>
+		</text>
+	</view>
+</theme>

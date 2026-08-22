@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$149.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$330</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>10.62 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega Game Gear</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 3.58 MHz | Memory: 8 KB RAM | Media: Cartridge | Graphics: Color LCD | Sound: PSG audio | Resolution: 160×144p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega Game Gear was released in 1990 as Sega's answer to Nintendo's Game Boy. Unlike Nintendo's monochrome handheld, the Game Gear featured a full-color backlit screen and hardware based on the Sega Master System architecture. Its library included games such as Sonic the Hedgehog, Shinobi, Streets of Rage, Columns, and Mortal Kombat. The system supported accessories including a TV tuner and compatibility hardware for playing Master System games. Despite its stronger graphics capabilities, the Game Gear struggled with high battery consumption and competition from Nintendo's larger software library. Production continued through the mid-1990s before Sega shifted focus toward the Sega Nomad and later home consoles. The Game Gear remains Sega's most successful dedicated handheld system.</text>
+		</text>
+	</view>
+</theme>

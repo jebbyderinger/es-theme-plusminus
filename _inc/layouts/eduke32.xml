@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>EDuke32</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>EDuke32 Team / Based on 3D Realms</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Enhanced Build Engine Source Port | Original Hardware: IBM PC Compatible | Media: Original Duke Nukem 3D Game Data | Graphics: Software Rendering / OpenGL / Polymer Renderer | Sound: Digital Audio / MIDI | Resolution: 320×200p Original with Modern High-Resolution and Widescreen Support</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>EDuke32 is an enhanced open-source source port of Duke Nukem 3D that modernizes Ken Silverman's Build engine while remaining compatible with the original game data. First released in 2004, it allows Duke Nukem 3D and many Build engine modifications to run natively on modern operating systems. EDuke32 preserves the original gameplay while adding widescreen support, high-resolution rendering, mouse look, customizable controls, advanced scripting through the CON language, improved multiplayer, modern audio support, and extensive modding capabilities. It is compatible with official expansions as well as countless community-created levels and total conversions, making it the preferred platform for playing and developing Build engine games on modern hardware.</text>
+		</text>
+
+	</view>
+</theme>

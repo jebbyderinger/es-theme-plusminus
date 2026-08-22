@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>24,900 Ft</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>275,000 Ft</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Approx. 100,000 Units</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1990</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Videoton TV Computer (TVC)</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Videoton</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>COMPUTER</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: Zilog Z80 @ 3.125 MHz | Memory: 32 KB / 64 KB RAM | Media: Cassette Tape / Floppy Disk / ROM Cartridge | Graphics: Custom Video Hardware | Sound: 4-Channel Programmable Sound | Resolution: Up to 640×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Videoton TV Computer (TVC) was a Hungarian home computer introduced in 1986 by Videoton, one of the country's largest electronics manufacturers. Designed for education, programming, and home entertainment, the TVC was built around a Zilog Z80 processor and featured Microsoft BASIC in ROM, cassette tape storage, optional floppy disk drives, and cartridge expansion. Its custom graphics hardware supported colorful display modes up to 640×200 resolution, while a four-channel sound generator provided audio capabilities beyond many contemporary Eastern European computers. Although developed primarily for the Hungarian market, the TVC gained a loyal user base through educational institutions and computer clubs. A variety of games, programming tools, and productivity software were produced for the system, and enthusiasts continue to develop new hardware expansions and software today. The TVC remains one of the best-known computers manufactured behind the Iron Curtain and represents an important chapter in the history of Eastern European personal computing.</text>
+		</text>
+
+	</view>
+</theme>

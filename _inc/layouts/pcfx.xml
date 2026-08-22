@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥49,800</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$450</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>400,000+</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1994</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>PC-FX</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>NEC / Hudson Soft</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC V810 @ 21.5 MHz | Memory: 2 MB RAM | Media: CD-ROM | Graphics: Custom HuC6270-based Video Hardware | Sound: 6-channel Audio | Resolution: 256×224p / 512×224i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The NEC PC-FX was released in 1994 as the successor to the PC Engine and SuperGrafx platforms. It used a CD-ROM format and focused heavily on animated graphics, video playback, and visual novel-style games. Unlike many competing fifth-generation consoles, it did not use polygon-based 3D hardware. Its library included titles such as Battle Heat, Zenki, and Farland Story FX. The PC-FX was released only in Japan and had a short commercial lifespan.</text>
+		</text>
+	</view>
+</theme>

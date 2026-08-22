@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$179</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$430</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>3 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1995</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Atari Lynx</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Atari Corporation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 65SC02 @ 3.6 MHz | Memory: 64 KB RAM | Media: Cartridge | Graphics: Mikey and Suzy custom chips | Sound: 4-channel digital audio | Resolution: 160×102p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Atari Lynx was released in 1989 as the world's first handheld game system with a color LCD display. Originally developed by Epyx before being acquired by Atari, the system introduced features such as a backlit color screen, hardware scaling, and multiplayer support through ComLynx networking. Its library included games such as California Games, Blue Lightning, Chip's Challenge, Electrocop, Rampart, and Zarlor Mercenary. The Lynx competed with the Nintendo Game Boy and Sega Game Gear but faced challenges due to its higher price, larger size, and shorter battery life. A redesigned Lynx II model was released in 1991 with a smaller form factor. Production ended in 1995. The Atari Lynx is remembered for its advanced handheld technology and unique software library.</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$149.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$240</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>154.02 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2004</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2013</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Nintendo DS</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>7TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: ARM946E-S @ 67 MHz + ARM7TDMI @ 33 MHz | Memory: 4 MB RAM | Media: Game Card | Graphics: Dual 2D/3D processors | Sound: PSG + PCM audio | Resolution: 256×192p ×2 screens</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo DS was released in 2004 and became the best-selling handheld gaming system of all time. It introduced dual screens, touchscreen controls, microphone input, and wireless multiplayer features. The system expanded Nintendo's handheld audience with both traditional games and unique touch-based experiences. Its library included major franchises such as Pokémon Diamond and Pearl, Mario Kart DS, New Super Mario Bros., The Legend of Zelda: Phantom Hourglass, Animal Crossing: Wild World, and Brain Age. The DS maintained backward compatibility with Game Boy Advance games and received multiple revisions including the DS Lite, DSi, and DSi XL. Its combination of innovative hardware and a large software library made it one of Nintendo's most successful platforms.</text>
+		</text>
+	</view>
+</theme>

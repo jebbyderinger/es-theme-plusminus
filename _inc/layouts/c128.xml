@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$595</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$1,700</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>4 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1985</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Commodore 128</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Commodore</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>3RD</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: MOS 8502 @ 1 MHz / Z80A @ 4 MHz | Memory: 128 KB RAM | Media: 5.25-inch Disk / Cassette | Graphics: VIC-IIe chipset | Sound: SID chip | Resolution: 320×200p / 640×200i</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Commodore 128 was released in 1985 as the successor to the Commodore 64. It was designed as a more advanced computer while maintaining compatibility with the C64 software library. The system included multiple operating modes, allowing it to run Commodore 64 software, CP/M applications, and its own native operating environment. It featured improved memory, a redesigned keyboard, and enhanced video capabilities. The C128 software library included productivity applications, programming tools, and games that supported its expanded hardware. While it was technically more capable than the Commodore 64, the popularity of its predecessor limited adoption. The system was discontinued in 1989 as Commodore shifted focus toward the Amiga line. The Commodore 128 remains notable for its compatibility features and position as the final major 8-bit computer released by Commodore.</text>
+		</text>
+	</view>
+</theme>

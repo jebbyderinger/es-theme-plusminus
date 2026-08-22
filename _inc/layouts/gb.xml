@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$89.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$230</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>118.69 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1989</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Game Boy</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sharp LR35902 @ 4.19 MHz | Memory: 8 KB RAM | Media: Cartridge | Graphics: Monochrome LCD | Sound: 4-channel audio | Resolution: 160×144p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Nintendo Game Boy was released in 1989 and became one of the most successful handheld gaming systems ever produced. Designed by the team behind the Game & Watch series and Nintendo's portable hardware, it focused on durability, affordability, and long battery life. The system used interchangeable cartridges and featured a monochrome LCD display. Its library included some of Nintendo's most recognizable franchises, including Super Mario Land, The Legend of Zelda: Link's Awakening, Pokémon, Kirby's Dream Land, Metroid II, and Tetris. The Game Boy's success was helped by its simple design, strong software support, and worldwide popularity. Later revisions such as the Game Boy Pocket and Game Boy Light improved the hardware while maintaining compatibility. The platform established Nintendo's dominance in handheld gaming for more than a decade.</text>
+		</text>
+	</view>
+</theme>

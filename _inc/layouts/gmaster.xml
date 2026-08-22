@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$79.99</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>$190</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Limited Release</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>1990</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Game Master</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Hartung</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HANDHELD</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC 7800 Series Compatible | Memory: Built-In System RAM | Media: ROM Cartridges | Graphics: Monochrome LCD Display | Sound: PSG Audio | Resolution: 160×152p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>The Game Master was a handheld video game system released in 1990 by Hartung. Designed as a low-cost competitor to the Nintendo Game Boy, it used interchangeable cartridges and a monochrome LCD screen. The system featured a small library of original games including platformers, puzzles, and arcade-style titles. Although it was released in several regions, limited software support and strong competition from Nintendo's established handheld platform prevented it from achieving widespread success. Today, the Game Master is considered a rare handheld system.</text>
+		</text>
+
+	</view>
+</theme>

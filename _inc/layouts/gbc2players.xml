@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$69.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$130</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>118.69 million (including original Game Boy)</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1998</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>2003</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Game Boy Color</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Nintendo</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>5TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Sharp LR35902 @ 4.19 MHz | Memory: 32 KB RAM | Media: Cartridge | Graphics: Color LCD | Sound: Stereo PSG | Resolution: 160×144p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Game Boy Color was released in 1998 as the successor to the original Game Boy. It introduced a color screen while maintaining compatibility with the existing Game Boy library. The system featured improved processing power, infrared communication, and a large library of games including Pokémon Gold, Silver, and Crystal, The Legend of Zelda: Oracle of Ages and Seasons, Super Mario Bros. Deluxe, Wario Land 3, and Metal Gear Solid: Ghost Babel. The Game Boy Color continued Nintendo's focus on portable gaming with long battery life and durable hardware. It remained successful until the release of the Game Boy Advance in 2001.</text>
+		</text>
+	</view>
+</theme>

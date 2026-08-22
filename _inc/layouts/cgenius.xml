@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2010</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Commander Genius</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Gerstrong</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ENGINE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Commander Keen Game Engine | Original Platform: MS-DOS | Graphics: EGA/VGA Sprite Engine | Sound: AdLib / PC Speaker / General MIDI Support | Resolution: 320×200p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Commander Genius is an open-source game engine designed to run and enhance the classic Commander Keen series of platform games originally released by id Software for MS-DOS. First developed to preserve and improve the original games, Commander Genius provides compatibility with Keen episodes while adding modern features such as improved audio support, higher-resolution rendering options, widescreen support, controller compatibility, and cross-platform operation. The project recreates the original gameplay experience while extending the capabilities of the classic engine without requiring the original DOS environment. Commander Keen was one of id Software's earliest successes and helped establish smooth side-scrolling platform gameplay on personal computers. Commander Genius continues to preserve these influential games and provides a modern way to experience one of the most important PC platform series of the early 1990s.</text>
+		</text>
+
+	</view>
+</theme>

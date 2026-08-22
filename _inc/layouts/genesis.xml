@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>$189.99</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>$450</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>30.75 million</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1988</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1997</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Sega Genesis</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Sega</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>4TH</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: Motorola 68000 @ 7.67 MHz + Z80 | Memory: 64 KB RAM | Media: Cartridge | Graphics: VDP graphics processor | Sound: Yamaha FM + PSG audio | Resolution: 320×224p / 320×240p</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Sega Genesis was released in 1988 in Japan and became one of the most successful fourth-generation consoles. Known for its fast action games and arcade-style experiences, the system helped establish Sega as a major competitor in the video game industry. Its library included influential franchises such as Sonic the Hedgehog, Streets of Rage, Phantasy Star, Gunstar Heroes, Shining Force, and Mortal Kombat. The Genesis featured a strong arcade conversion library and supported accessories including the Sega CD and 32X expansions. Sega's marketing campaign positioned the system as a faster and more mature alternative to Nintendo's consoles. The Genesis remained popular throughout the early 1990s and played a major role in the console rivalry between Sega and Nintendo.</text>
+		</text>
+	</view>
+</theme>

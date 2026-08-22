@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Fan Projects</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Sonic Retro</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Sonic Fan Community</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Various Fan-Made Sonic Engines | Original Hardware: IBM PC Compatible | Media: Digital Game Files | Graphics: 2D Sprite-Based Graphics | Sound: Digital Audio / FM Style Audio | Resolution: 320×240p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Sonic Retro is a collection category for fan-made Sonic the Hedgehog games and projects created by the community. These games recreate the gameplay style of the classic Sega Genesis titles while introducing new characters, levels, mechanics, and ideas. The collection includes independent projects developed with custom engines and fan tools, preserving the fast platforming style of the original Sonic games while expanding the series through community-created content.</text>
+		</text>
+
+	</view>
+</theme>

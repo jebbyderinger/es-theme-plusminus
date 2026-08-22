@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥13,500</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>¥38,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>400,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Epoch Cassette Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2ND</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC μPD777C / μPD778 @ 1 MHz | Memory: Cartridge-based ROM/RAM | Media: ROM Cartridge | Graphics: Custom Epoch hardware | Sound: Beeper / Monophonic Audio | Resolution: 75×60p (8 Colors)</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>The Epoch Cassette Vision was released in Japan on July 30, 1981 by Epoch Co. and was one of the earliest successful cartridge-based home video game consoles. It became the best-selling video game console in Japan before the release of Nintendo's Family Computer, selling approximately 400,000 units. The system used ROM cartridges, with the term "cassette" being the Japanese term commonly used for cartridge media rather than magnetic tape. Unlike later consoles, the Cassette Vision placed much of its processing hardware, including the NEC μPD777C or μPD778 processor, inside the cartridges instead of the main console unit. The console featured built-in controls with four knobs for player movement and buttons for gameplay. Its library included twelve games covering sports, shooting, and arcade-style genres, including titles such as Battle Vader and Big Sports 12. The Cassette Vision helped establish interchangeable software cartridges as an important direction for home gaming in Japan. A redesigned Cassette Vision Jr. was later released, followed by the Super Cassette Vision in 1984. Although it was eventually surpassed by newer systems, the Cassette Vision remains an important early second-generation console and a significant milestone in the history of Japanese video games.</text>
+		</text>
+	</view>
+</theme>

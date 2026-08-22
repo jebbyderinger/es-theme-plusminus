@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>Free</text>
+		</text>
+		<text name="TextSold" extra="true">
+			<text>Community Developed</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>2000</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>202x</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Pygame</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Community / Python Software Foundation</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>PC</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>Engine: Python Pygame Library | Hardware: PC Compatible Systems | Media: Digital Files | Graphics: Software Rendering / SDL | Sound: Digital Audio / MIDI Support | Resolution: Variable</text>
+		</text>
+		<text name="TextDesc2" extra="true">
+			<text>Pygame is a set of Python modules designed for creating games and multimedia applications. Released in 2000, it provides access to graphics, sound, input devices, and game development tools through the Simple DirectMedia Layer. Pygame has been used for educational projects, independent games, prototypes, and hobby development. Its simple design has made it a popular introduction to programming and game creation.</text>
+		</text>
+	</view>
+</theme>

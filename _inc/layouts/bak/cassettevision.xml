@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<text name="TextPrice" extra="true">
+			<text>¥13,500</text>
+		</text>
+		<text name="TextInflationPrice" extra="true">
+			<text>≈¥32,000</text>
+		</text>
+		<text name="TextSold" extra="true">
+    			<text>400,000</text>
+		</text>
+		<text name="TextDate" extra="true">
+			<text>1981</text>
+		</text>
+		<text name="TextDate2" extra="true">
+			<text>1984</text>
+		</text>
+		<text name="TextName" extra="true">
+			<text>Epoch Cassette Vision</text>
+		</text>
+		<text name="manufacturer" extra="true">
+			<text>Epoch</text>
+		</text>
+		<text name="TextGen" extra="true">
+			<text>2nd</text>
+		</text>
+		<text name="TextDesc" extra="true">
+			<text>CPU: NEC μPD77xx @ 1.2 MHz   |   Memory: 1 KB RAM   |   Sound: Built-in Beeper   |   Media: ROM Cartridge   |   Video: 256 × 192 (approx.)   |   8 color palette   |   Hardware sprites   |</text>
+		</text>
+	</view>
+</theme>

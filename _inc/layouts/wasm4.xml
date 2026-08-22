@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2021</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>WASM-4</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>WASM-4 Team</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>HOME</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Fantasy Console | CPU: WebAssembly Runtime | Media: Digital Programs | Graphics: 2D Pixel Graphics | Sound: Chiptune Audio | Resolution: 160×160p</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>WASM-4 is an open-source fantasy console designed for creating small retro-style games that run through WebAssembly. Released in 2021, it provides a minimal hardware-like environment with fixed graphics, sound, input, and memory limits inspired by classic consoles. Games can be developed using many programming languages that compile to WebAssembly, making WASM-4 accessible for experimentation, game jams, and learning game development.</text>
+		</text>
+
+	</view>
+</theme>

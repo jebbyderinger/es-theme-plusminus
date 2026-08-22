@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+
+		<text name="TextPrice" extra="true">
+			<text>$0</text>
+		</text>
+
+		<text name="TextInflationPrice" extra="true">
+			<text>N/A</text>
+		</text>
+
+		<text name="TextSold" extra="true">
+			<text>Open Source</text>
+		</text>
+
+		<text name="TextDate" extra="true">
+			<text>2017</text>
+		</text>
+
+		<text name="TextDate2" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="TextName" extra="true">
+			<text>Singe / Hypseus</text>
+		</text>
+
+		<text name="manufacturer" extra="true">
+			<text>Daphne Team / Hypseus Community</text>
+		</text>
+
+		<text name="TextGen" extra="true">
+			<text>ARCADE</text>
+		</text>
+
+		<text name="TextDesc" extra="true">
+			<text>Engine: Daphne Laserdisc Emulator Fork | Original Hardware: Arcade Laserdisc Systems | Media: ROM / Laserdisc Video Data | Graphics: Full Motion Video | Sound: Arcade Digital Audio | Resolution: 640×480i</text>
+		</text>
+
+		<text name="TextDesc2" extra="true">
+			<text>Singe is a scripting engine used with Hypseus, an open-source continuation of the Daphne laserdisc arcade emulator. It expands support beyond original laserdisc arcade titles by allowing custom scripted games, enhanced interactions, and new projects based on video playback. Hypseus preserves classic arcade experiences such as Dragon's Lair and Space Ace while supporting community-created content through the Singe framework.</text>
+		</text>
+
+	</view>
+</theme>
