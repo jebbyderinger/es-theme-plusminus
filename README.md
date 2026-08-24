@@ -1,20 +1,22 @@
 # plusminus
+
+Plus Minus
 =======
 
-Batocera Theme designed for CRT use but should work on any 640x480 setup. Future plans include 3:4 480x640 and 16:9 854x480. Started as a personal project on the Raspberry Pi in 2020 using CKAU-Book as a base. Modified over the years and decided to finish it in 2026. 
+Batocera Theme meant for CRT use but should work on any 640x480 setup. Future plans include 3:4 480x640 and 16:9 854x480. Started as a personal project on the Raspberry Pi in 2020 using CKAU-Book as a base. Modified over the years and expanded in 2026 to make an official release. 
 
 Theme author:
 jebbyderinger
 
 Based on:
-- Carbon by @fabricecaruso
-- CKAU-Book by @CkauNui
-- Assets from Colorful by Viking
+Carbon by @fabricecaruso
+CKAU-Book by @CkauNui
+Assets from Colorful by Viking
 
 Thanks to creators and maintainers of the Batocera CRT Script:
-- ZFEbHVUE
-- Rion
-- net-terminal-gene 
+ZFEbHVUE
+Rion
+net-terminal-gene 
 
 Language: English
 

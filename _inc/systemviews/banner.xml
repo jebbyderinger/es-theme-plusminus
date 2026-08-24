@@ -4,42 +4,26 @@
 			<include>./../../_inc/layouts/${system.theme}.xml</include>
 			<include>./../../_inc/systemviews/systemlogo_center.xml</include>
 	<view name="system">
-		<image name="background1" extra="true">
+		<image name="art" extra="true">
 			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<minSize>1 1</minSize>
-			<path>./../../_inc/anim/${system.theme}.jpg</path>
-			<path>./../../_inc/anim/${system.theme}.png</path>
-			<zIndex>30</zIndex>
-		</image>
-		<video name="videocrton" extra="true">
-			<path>./../../_inc/images/CRT_Noise_bak.mp4</path>
-			<loops>0</loops>
-			<effect>none</effect>
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<delay>0</delay>
-			<size>1 1.1</size>
-			<zIndex>85</zIndex>
-			<storyboard>
-				<animation property="opacity" from="1" to="0.2" begin="0" duration="800" mode="easeOut"/>
-				<animation property="opacity" from="0.2" to="0" begin="801" duration="300" mode="easeIn"/>
-			</storyboard>
-            		<storyboard event="deactivate">
-				<animation property="opacity" from="0" to="0" begin="1301" duration="1"/>
-			</storyboard>
-		</video>
-		<video name="videobox" extra="true">
-			<path>{random}</path>
-			<path>./../../_inc/videos/${system.theme}.mp4</path>
-			<delay>0</delay>
-			<effect>none</effect>
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<size>1.1 1.1</size>
-			<zIndex>25</zIndex>
+			<pos>0.36 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.7</opacity>
+			<rotation>-90</rotation>
+			<zIndex>90</zIndex>
 			<visible>true</visible>
-		</video>
+		</image>
+		<image name="art2" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.36 0.53</pos>
+			<minSize>1.7 1</minSize>
+			<path>./../../_inc/images/overlayb.png</path>
+			<opacity>0.7</opacity>
+			<rotation>-90</rotation>
+			<zIndex>90</zIndex>
+			<visible>true</visible>
+		</image>
 		<image name="art3" extra="true">
 			<origin>0.5 0.5</origin>
 			<pos>0.65 0.53</pos>
@@ -47,18 +31,8 @@
 			<path>./../../_inc/images/overlayb.png</path>
 			<opacity>1</opacity>
 			<rotation>90</rotation>
-			<zIndex>82</zIndex>
+			<zIndex>90</zIndex>
 			<visible>true</visible>
-		</image>
-		<image name="art5" extra="true">
-			<origin>0.5 0.5</origin>
-			<pos>0.55 0.53</pos>
-			<minSize>1.7 1</minSize>
-			<path>./../../_inc/images/overlayb.png</path>
-			<opacity>0.7</opacity>
-			<rotation>90</rotation>
-			<zIndex>82</zIndex>
-			<visible>false</visible>
 		</image>
 		<image name="art4" extra="true">
 			<origin>0.5 0.5</origin>
@@ -69,25 +43,15 @@
 			<zIndex>90</zIndex>
 			<visible>true</visible>
 		</image>
-		<image name="art" extra="true">
+		<image name="art5" extra="true">
 			<origin>0.5 0.5</origin>
-			<pos>0.36 0.53</pos>
+			<pos>0.55 0.53</pos>
 			<minSize>1.7 1</minSize>
 			<path>./../../_inc/images/overlayb.png</path>
 			<opacity>0.7</opacity>
-			<rotation>-90</rotation>
-			<zIndex>82</zIndex>
-			<visible>true</visible>
-		</image>
-		<image name="art2" extra="true">
-			<origin>0.5 0.5</origin>
-			<pos>0.36 0.53</pos>
-			<minSize>1.7 1</minSize>
-			<path>./../../_inc/images/overlayb.png</path>
-			<opacity>0.7</opacity>
-			<rotation>-90</rotation>
-			<zIndex>82</zIndex>
-			<visible>true</visible>
+			<rotation>90</rotation>
+			<zIndex>90</zIndex>
+			<visible>false</visible>
 		</image>
 		<image name="info_bak, plays_bak, name_bak, manufacturer_bak, title_bar" extra="true">
 			<storyboard>
